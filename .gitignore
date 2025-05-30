@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VSCode / PyCharm settings (optional)
+.vscode/
+.idea/
+
+# Logs or local data
+*.log
+*.sqlite3
+.env
