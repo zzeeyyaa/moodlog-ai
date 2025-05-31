@@ -16,4 +16,4 @@ def generate_dummy_data(n=100):
     return pd.DataFrame(data, columns=["Jam Tidur", "Kualitas Tidur", "Mood", "Stress Level", "Aktivitas", "Kafein", "Catatan"])
 
 df_dummy = generate_dummy_data()
-df_dummy.to_csv("moodlog_dummy.csv", index=False)
+df_dummy.to_csv("data/moodlog_dummy.csv", index=False)

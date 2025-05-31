@@ -1,0 +1,18 @@
+import pandas as pd
+from sklearn.preprocessing import LabelEncoder
+
+def load_and_preprocess(filepath="data/moodlog_dummy.csv"):
+    df = pd.read_csv(filepath)
+    
+    X = df[["Jam Tidur", "Kualitas Tidur", "Aktivitas", "Kafein"]].copy()
+    y = df["Mood"]
+    
+    le_aktivitas = LabelEncoder()
+    le_kafein = LabelEncoder()
+    
+    X["Aktivitas"] = le_aktivitas.fit_transform(X["Aktivitas"])
+    X["Kafein"] = le_kafein.fit_transform(X["Kafein"])
+    
+    return X, y, le_aktivitas, le_kafein
+    
+    
