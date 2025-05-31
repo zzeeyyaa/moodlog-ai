@@ -1,151 +1,601 @@
 Jam Tidur,Kualitas Tidur,Bergadang,Mood,Stress Level,Aktivitas,Kafein,Catatan
-6.1,4,Tidak,1,0,kerja,Ya,-
-4.2,5,Tidak,0,2,scroll hp,Tidak,nyaman
-8.6,1,Ya,5,3,jalan-jalan,Ya,sakit kepala
-5.3,5,Ya,0,2,scroll hp,Ya,banyak tugas
-4.4,5,Tidak,0,2,nugas,Tidak,mimpi buruk
-5.9,1,Ya,1,3,olahraga,Tidak,-
-4.1,5,Tidak,2,0,kerja,Ya,-
-4.5,5,Ya,1,1,kerja,Ya,-
-5.9,2,Tidak,4,3,masak,Tidak,-
-8.9,1,Tidak,5,4,jalan-jalan,Tidak,mimpi buruk
-6.9,4,Ya,5,0,jalan-jalan,Ya,sakit kepala
-7.8,2,Ya,3,5,nugas,Tidak,mimpi buruk
-8.2,2,Ya,5,3,jalan-jalan,Ya,sakit kepala
-7.7,4,Tidak,4,0,masak,Ya,banyak tugas
-5.5,4,Ya,0,4,scroll hp,Ya,nyaman
-6.5,5,Ya,1,1,nugas,Ya,mimpi buruk
-5.7,5,Ya,1,1,kerja,Tidak,banyak tugas
-6.7,5,Tidak,3,2,nugas,Tidak,mimpi buruk
-7.7,1,Tidak,5,4,jalan-jalan,Ya,-
-7.2,5,Ya,4,0,jalan-jalan,Tidak,nyaman
-6.0,3,Tidak,3,2,kerja,Ya,banyak tugas
-5.4,2,Tidak,1,5,kerja,Tidak,mimpi buruk
-4.3,1,Ya,0,5,scroll hp,Ya,-
-4.6,4,Tidak,0,1,kerja,Ya,mimpi buruk
-4.9,2,Ya,1,3,olahraga,Ya,-
-4.2,2,Ya,1,4,olahraga,Ya,nyaman
-8.4,4,Ya,5,0,olahraga,Ya,-
-6.7,4,Ya,3,1,jalan-jalan,Ya,-
-7.0,1,Tidak,3,4,nugas,Tidak,sakit kepala
-5.9,4,Ya,0,4,scroll hp,Tidak,banyak tugas
-4.1,4,Ya,1,1,olahraga,Tidak,-
-4.6,0,Ya,0,5,nugas,Tidak,nyaman
-7.3,3,Tidak,5,2,kerja,Ya,nyaman
-8.8,4,Ya,5,2,kerja,Tidak,mimpi buruk
-4.2,0,Ya,1,5,olahraga,Ya,nyaman
-8.3,3,Tidak,5,0,olahraga,Ya,sakit kepala
-7.7,4,Ya,4,2,nugas,Tidak,sakit kepala
-4.4,0,Ya,0,5,scroll hp,Tidak,sakit kepala
-6.7,0,Ya,2,5,nugas,Ya,nyaman
+5.6,3,Ya,0,5,scroll hp,Tidak,-
+4.3,1,Ya,0,3,jalan-jalan,Tidak,sakit kepala
+4.1,2,Tidak,0,3,nugas,Tidak,mimpi buruk
+4.7,5,Tidak,0,1,nugas,Tidak,mimpi buruk
+4.1,5,Ya,0,3,nugas,Tidak,mimpi buruk
+5.2,5,Ya,0,1,olahraga,Tidak,mimpi buruk
+4.4,0,Ya,0,5,masak,Ya,nyaman
+4.8,2,Ya,0,5,masak,Tidak,mimpi buruk
+4.9,4,Ya,0,4,scroll hp,Tidak,banyak tugas
+5.2,5,Ya,0,2,kerja,Tidak,-
 4.3,4,Tidak,0,1,nugas,Ya,banyak tugas
-8.5,3,Ya,5,0,jalan-jalan,Ya,banyak tugas
-5.7,0,Tidak,2,5,scroll hp,Ya,mimpi buruk
-8.6,3,Tidak,4,4,scroll hp,Ya,nyaman
-5.2,5,Ya,3,3,kerja,Ya,banyak tugas
-5.7,1,Ya,3,5,kerja,Ya,-
-4.3,5,Tidak,1,1,nugas,Ya,banyak tugas
-8.6,0,Ya,5,3,jalan-jalan,Tidak,-
-7.4,5,Ya,4,2,nugas,Tidak,-
-5.3,5,Tidak,1,0,olahraga,Ya,sakit kepala
-6.2,4,Tidak,4,0,masak,Tidak,banyak tugas
-4.8,4,Tidak,0,3,scroll hp,Tidak,sakit kepala
-8.7,1,Ya,5,5,masak,Ya,-
-8.6,4,Ya,3,2,nugas,Tidak,-
-8.6,5,Tidak,5,0,olahraga,Ya,banyak tugas
-7.5,4,Tidak,5,0,jalan-jalan,Ya,banyak tugas
-7.5,1,Tidak,5,3,jalan-jalan,Ya,nyaman
-8.2,0,Ya,4,5,scroll hp,Tidak,-
-8.1,1,Ya,4,5,masak,Tidak,banyak tugas
-7.2,4,Tidak,4,1,olahraga,Tidak,banyak tugas
-5.0,4,Tidak,3,1,masak,Tidak,banyak tugas
-5.2,3,Ya,0,4,nugas,Tidak,banyak tugas
-4.4,5,Ya,0,2,nugas,Tidak,nyaman
-6.8,0,Tidak,5,5,olahraga,Ya,sakit kepala
-5.9,4,Tidak,2,0,olahraga,Tidak,mimpi buruk
-7.6,5,Ya,4,0,kerja,Tidak,-
-4.4,4,Ya,0,1,jalan-jalan,Tidak,nyaman
-6.3,1,Tidak,2,5,masak,Ya,mimpi buruk
-6.9,4,Ya,3,3,nugas,Ya,mimpi buruk
-8.5,3,Ya,4,4,scroll hp,Ya,-
-6.9,0,Ya,4,5,masak,Tidak,nyaman
-7.5,4,Tidak,5,1,masak,Ya,mimpi buruk
-4.3,0,Tidak,0,5,nugas,Ya,nyaman
-8.2,2,Tidak,5,3,jalan-jalan,Ya,nyaman
-6.4,2,Tidak,2,4,kerja,Tidak,-
+4.5,1,Tidak,0,4,scroll hp,Tidak,sakit kepala
+4.3,5,Tidak,0,2,scroll hp,Ya,-
+4.1,2,Ya,0,5,scroll hp,Tidak,mimpi buruk
+4.5,2,Tidak,0,5,scroll hp,Tidak,banyak tugas
+4.8,0,Ya,0,5,scroll hp,Tidak,banyak tugas
+5.8,2,Ya,0,4,nugas,Tidak,-
+4.6,2,Ya,0,5,kerja,Ya,mimpi buruk
+4.1,4,Tidak,0,2,nugas,Tidak,mimpi buruk
+4.6,3,Tidak,0,2,scroll hp,Ya,sakit kepala
+4.6,2,Ya,0,3,jalan-jalan,Tidak,banyak tugas
+4.7,2,Tidak,0,4,kerja,Tidak,sakit kepala
+4.0,1,Tidak,0,5,kerja,Ya,-
+5.1,2,Ya,0,5,nugas,Tidak,nyaman
+5.4,1,Ya,0,4,jalan-jalan,Tidak,banyak tugas
+4.1,5,Ya,0,2,nugas,Tidak,nyaman
+4.6,0,Ya,0,5,nugas,Tidak,mimpi buruk
+4.3,2,Ya,0,5,scroll hp,Ya,banyak tugas
+5.5,1,Ya,0,5,nugas,Ya,mimpi buruk
+4.1,5,Tidak,0,1,scroll hp,Tidak,-
+5.1,1,Tidak,0,5,scroll hp,Tidak,banyak tugas
+4.5,2,Tidak,0,3,scroll hp,Tidak,mimpi buruk
+4.8,5,Ya,0,0,olahraga,Ya,nyaman
+6.4,0,Ya,0,5,scroll hp,Ya,mimpi buruk
+5.4,1,Ya,0,5,nugas,Ya,nyaman
+5.1,1,Ya,0,5,olahraga,Ya,banyak tugas
+4.9,4,Ya,0,1,olahraga,Ya,banyak tugas
+4.5,2,Ya,0,2,jalan-jalan,Tidak,-
+4.3,1,Ya,0,5,scroll hp,Tidak,sakit kepala
+4.1,2,Ya,0,5,scroll hp,Ya,nyaman
+4.8,0,Tidak,0,5,nugas,Ya,sakit kepala
+6.4,2,Tidak,0,5,nugas,Tidak,-
+5.0,2,Tidak,0,5,scroll hp,Ya,-
+4.1,2,Ya,0,5,nugas,Ya,nyaman
+4.6,5,Ya,0,3,scroll hp,Tidak,sakit kepala
+5.6,2,Ya,0,5,scroll hp,Ya,banyak tugas
+6.3,5,Tidak,0,2,scroll hp,Tidak,nyaman
+4.8,1,Ya,0,5,kerja,Tidak,sakit kepala
+5.5,4,Ya,0,4,scroll hp,Tidak,banyak tugas
+6.3,3,Tidak,0,3,scroll hp,Tidak,mimpi buruk
+4.3,2,Tidak,0,3,nugas,Tidak,banyak tugas
+5.6,1,Ya,0,4,jalan-jalan,Ya,nyaman
+6.4,4,Ya,0,3,nugas,Tidak,banyak tugas
+4.7,2,Tidak,0,5,scroll hp,Ya,-
+5.3,2,Tidak,0,5,scroll hp,Ya,mimpi buruk
+4.3,3,Tidak,0,3,scroll hp,Ya,nyaman
+4.4,0,Ya,0,4,olahraga,Tidak,-
+4.4,1,Ya,0,5,scroll hp,Tidak,sakit kepala
+4.6,4,Tidak,0,1,scroll hp,Tidak,banyak tugas
+5.6,5,Ya,0,2,scroll hp,Ya,banyak tugas
+5.0,4,Ya,0,2,jalan-jalan,Tidak,mimpi buruk
+4.1,0,Ya,0,5,jalan-jalan,Tidak,banyak tugas
+4.5,1,Ya,0,5,jalan-jalan,Tidak,banyak tugas
+5.3,3,Ya,0,3,nugas,Tidak,-
+5.5,0,Ya,0,5,nugas,Tidak,sakit kepala
+4.1,5,Tidak,0,1,scroll hp,Tidak,mimpi buruk
+5.6,1,Ya,0,5,nugas,Ya,-
+4.4,2,Ya,0,3,olahraga,Tidak,-
+5.5,0,Ya,0,5,jalan-jalan,Ya,banyak tugas
+4.3,3,Tidak,0,2,nugas,Ya,sakit kepala
+5.6,5,Tidak,0,1,kerja,Ya,sakit kepala
+5.1,0,Ya,0,5,kerja,Ya,banyak tugas
+5.6,5,Tidak,0,1,nugas,Tidak,sakit kepala
+4.8,4,Ya,0,2,nugas,Ya,mimpi buruk
+5.0,3,Ya,0,1,olahraga,Ya,-
+4.1,5,Ya,0,2,masak,Tidak,banyak tugas
+4.4,5,Tidak,0,1,scroll hp,Tidak,-
+4.6,5,Ya,0,2,nugas,Tidak,sakit kepala
+4.7,5,Tidak,0,1,scroll hp,Tidak,sakit kepala
+4.2,2,Tidak,0,3,kerja,Ya,mimpi buruk
+4.9,3,Ya,0,3,scroll hp,Ya,nyaman
+4.2,5,Tidak,0,1,scroll hp,Ya,sakit kepala
+4.7,4,Ya,0,3,scroll hp,Tidak,banyak tugas
+4.1,0,Tidak,0,5,scroll hp,Tidak,banyak tugas
+4.8,5,Ya,0,1,masak,Tidak,banyak tugas
+5.5,5,Tidak,0,1,nugas,Ya,banyak tugas
+4.4,0,Tidak,0,5,nugas,Tidak,nyaman
+4.2,3,Ya,0,2,olahraga,Ya,banyak tugas
+4.5,2,Tidak,0,5,nugas,Ya,nyaman
+4.5,5,Ya,0,1,masak,Tidak,sakit kepala
+5.4,0,Tidak,0,5,scroll hp,Tidak,-
+5.1,0,Ya,0,4,olahraga,Tidak,-
+4.3,4,Ya,0,2,scroll hp,Tidak,-
+5.4,5,Tidak,0,1,nugas,Tidak,mimpi buruk
+5.0,2,Tidak,0,4,scroll hp,Tidak,banyak tugas
+5.1,0,Ya,0,5,kerja,Tidak,sakit kepala
+4.1,3,Tidak,0,3,scroll hp,Tidak,sakit kepala
+5.5,3,Ya,0,3,scroll hp,Tidak,sakit kepala
+5.4,3,Tidak,0,4,kerja,Tidak,nyaman
+4.9,1,Ya,0,5,nugas,Tidak,nyaman
+4.2,1,Ya,1,5,masak,Ya,sakit kepala
+4.2,5,Tidak,1,1,kerja,Tidak,-
+6.9,2,Tidak,1,5,nugas,Ya,sakit kepala
+6.5,3,Ya,1,3,nugas,Tidak,banyak tugas
+5.0,5,Tidak,1,0,kerja,Ya,nyaman
+5.1,0,Ya,1,5,masak,Ya,banyak tugas
+5.9,0,Ya,1,5,nugas,Tidak,nyaman
+4.2,5,Tidak,1,0,olahraga,Tidak,banyak tugas
+4.8,5,Ya,1,2,kerja,Ya,banyak tugas
+4.6,4,Tidak,1,2,nugas,Ya,-
+4.4,1,Ya,1,3,jalan-jalan,Tidak,banyak tugas
+5.8,5,Ya,1,2,kerja,Ya,nyaman
+5.3,4,Ya,1,1,jalan-jalan,Tidak,banyak tugas
+5.9,4,Tidak,1,0,kerja,Tidak,nyaman
+7.0,4,Ya,1,1,nugas,Tidak,sakit kepala
+6.0,5,Ya,1,1,scroll hp,Ya,banyak tugas
+5.9,4,Ya,1,1,jalan-jalan,Tidak,banyak tugas
+4.1,1,Tidak,1,5,kerja,Tidak,-
+5.5,1,Tidak,1,4,jalan-jalan,Tidak,mimpi buruk
+4.9,3,Tidak,1,1,jalan-jalan,Ya,mimpi buruk
+4.8,1,Tidak,1,4,olahraga,Tidak,nyaman
+6.8,4,Tidak,1,1,nugas,Ya,nyaman
+4.6,2,Ya,1,5,masak,Ya,banyak tugas
+6.1,0,Tidak,1,5,scroll hp,Tidak,mimpi buruk
+6.5,0,Tidak,1,5,scroll hp,Ya,sakit kepala
+5.5,4,Tidak,1,0,masak,Tidak,nyaman
+5.8,4,Ya,1,0,jalan-jalan,Tidak,-
+4.3,3,Ya,1,4,kerja,Tidak,banyak tugas
+5.8,0,Tidak,1,5,scroll hp,Tidak,sakit kepala
+4.1,0,Tidak,1,5,kerja,Ya,mimpi buruk
+6.5,0,Ya,1,5,scroll hp,Ya,mimpi buruk
+5.9,0,Ya,1,5,olahraga,Tidak,-
+5.3,4,Ya,1,1,masak,Ya,banyak tugas
+4.7,1,Tidak,1,3,jalan-jalan,Tidak,banyak tugas
+6.9,2,Tidak,1,5,scroll hp,Ya,mimpi buruk
+4.5,0,Ya,1,5,jalan-jalan,Tidak,banyak tugas
+4.3,0,Tidak,1,5,masak,Tidak,-
+5.4,3,Ya,1,2,jalan-jalan,Tidak,mimpi buruk
+4.3,4,Tidak,1,0,kerja,Ya,mimpi buruk
+6.3,1,Tidak,1,5,scroll hp,Ya,-
+5.9,1,Ya,1,5,nugas,Ya,mimpi buruk
+4.5,2,Tidak,1,1,jalan-jalan,Tidak,nyaman
+4.6,5,Ya,1,3,kerja,Ya,-
+4.9,0,Tidak,1,4,jalan-jalan,Tidak,banyak tugas
+4.9,4,Tidak,1,2,scroll hp,Ya,sakit kepala
+4.1,1,Tidak,1,4,jalan-jalan,Tidak,banyak tugas
+6.1,4,Ya,1,1,kerja,Ya,-
+7.2,2,Tidak,1,5,scroll hp,Tidak,sakit kepala
+5.2,3,Tidak,1,1,olahraga,Ya,banyak tugas
+6.6,3,Ya,1,3,nugas,Tidak,banyak tugas
+7.2,1,Ya,1,4,nugas,Tidak,-
+4.3,0,Ya,1,5,masak,Ya,sakit kepala
+4.5,3,Ya,1,2,olahraga,Ya,-
+5.3,3,Ya,1,3,masak,Ya,-
+5.1,2,Tidak,1,4,masak,Ya,sakit kepala
+5.5,3,Tidak,1,2,jalan-jalan,Tidak,mimpi buruk
+5.4,4,Tidak,1,0,olahraga,Ya,nyaman
+4.9,5,Ya,1,1,olahraga,Ya,nyaman
+5.5,3,Tidak,1,4,nugas,Ya,mimpi buruk
+5.2,2,Ya,1,5,masak,Tidak,mimpi buruk
+4.9,5,Tidak,1,1,nugas,Ya,sakit kepala
+4.3,3,Ya,1,2,masak,Ya,sakit kepala
+5.8,4,Ya,1,0,olahraga,Tidak,mimpi buruk
+6.2,2,Ya,1,5,kerja,Ya,nyaman
+4.9,4,Tidak,1,2,nugas,Ya,nyaman
+5.3,0,Ya,1,5,kerja,Tidak,mimpi buruk
+4.9,4,Tidak,1,3,scroll hp,Tidak,-
+4.2,4,Tidak,1,1,jalan-jalan,Ya,banyak tugas
+5.8,3,Tidak,1,2,nugas,Tidak,mimpi buruk
+4.3,0,Ya,1,5,jalan-jalan,Tidak,sakit kepala
+6.1,4,Tidak,1,1,nugas,Tidak,mimpi buruk
+4.5,4,Tidak,1,0,masak,Tidak,nyaman
+5.9,1,Tidak,1,5,nugas,Tidak,nyaman
+5.1,3,Tidak,1,3,masak,Tidak,nyaman
+4.4,0,Tidak,1,5,kerja,Tidak,banyak tugas
+4.9,1,Tidak,1,3,masak,Tidak,mimpi buruk
+4.0,5,Ya,1,2,kerja,Ya,nyaman
+4.4,1,Ya,1,5,jalan-jalan,Tidak,nyaman
+4.9,3,Tidak,1,3,masak,Ya,-
+4.3,2,Tidak,1,2,olahraga,Ya,nyaman
+4.3,1,Ya,1,5,kerja,Ya,mimpi buruk
+4.5,1,Tidak,1,3,masak,Tidak,-
+5.1,2,Tidak,1,3,scroll hp,Tidak,sakit kepala
+6.5,3,Ya,1,4,scroll hp,Tidak,-
+5.5,0,Tidak,1,5,masak,Tidak,banyak tugas
+5.5,5,Tidak,1,2,scroll hp,Tidak,mimpi buruk
+4.3,0,Tidak,1,5,masak,Ya,banyak tugas
+6.0,4,Ya,1,2,scroll hp,Tidak,nyaman
+4.0,1,Ya,1,4,jalan-jalan,Ya,nyaman
+6.8,1,Ya,1,5,nugas,Tidak,-
+4.5,5,Tidak,1,0,jalan-jalan,Tidak,nyaman
+4.0,4,Ya,1,2,kerja,Ya,nyaman
+4.8,2,Tidak,1,1,jalan-jalan,Tidak,banyak tugas
+4.1,5,Tidak,1,0,olahraga,Tidak,nyaman
+6.3,1,Tidak,1,5,kerja,Tidak,mimpi buruk
+4.3,4,Ya,1,1,jalan-jalan,Ya,-
+4.0,4,Tidak,1,0,kerja,Ya,sakit kepala
+6.7,1,Ya,1,5,nugas,Tidak,banyak tugas
+4.1,1,Tidak,1,2,olahraga,Tidak,nyaman
+6.2,4,Tidak,1,3,scroll hp,Tidak,nyaman
+6.3,2,Tidak,2,5,nugas,Ya,mimpi buruk
+7.1,2,Ya,2,4,nugas,Tidak,sakit kepala
+4.5,5,Tidak,2,0,olahraga,Ya,-
+6.6,3,Ya,2,2,scroll hp,Tidak,-
+4.9,3,Tidak,2,1,olahraga,Ya,nyaman
+5.0,5,Tidak,2,1,kerja,Ya,banyak tugas
+5.5,5,Ya,2,2,masak,Tidak,nyaman
+5.1,5,Tidak,2,0,jalan-jalan,Tidak,mimpi buruk
+4.3,3,Tidak,2,3,masak,Ya,-
+6.4,3,Ya,2,1,masak,Tidak,sakit kepala
+5.6,2,Tidak,2,1,olahraga,Tidak,-
+5.9,1,Tidak,2,5,scroll hp,Tidak,-
+4.2,2,Tidak,2,2,olahraga,Tidak,mimpi buruk
+6.3,2,Ya,2,4,jalan-jalan,Ya,-
+5.3,5,Tidak,2,0,olahraga,Tidak,banyak tugas
+6.2,0,Tidak,2,5,masak,Tidak,mimpi buruk
+6.0,3,Ya,2,1,olahraga,Tidak,mimpi buruk
+6.8,0,Ya,2,5,scroll hp,Tidak,nyaman
+6.2,4,Tidak,2,2,nugas,Tidak,sakit kepala
+5.5,5,Ya,2,1,jalan-jalan,Ya,nyaman
+5.5,1,Tidak,2,3,masak,Tidak,nyaman
+7.8,2,Ya,2,5,scroll hp,Tidak,nyaman
+7.7,1,Ya,2,5,scroll hp,Ya,nyaman
+7.7,0,Ya,2,5,scroll hp,Tidak,banyak tugas
+5.7,3,Tidak,2,1,jalan-jalan,Ya,-
+5.5,1,Ya,2,3,olahraga,Tidak,sakit kepala
+6.4,2,Ya,2,5,nugas,Tidak,nyaman
+5.7,3,Tidak,2,3,kerja,Ya,-
+4.5,5,Ya,2,2,masak,Ya,sakit kepala
+5.5,5,Tidak,2,0,olahraga,Ya,sakit kepala
+6.2,5,Tidak,2,1,scroll hp,Ya,-
+6.9,5,Tidak,2,2,nugas,Tidak,-
 4.1,3,Tidak,2,3,kerja,Tidak,nyaman
-4.1,0,Ya,0,5,olahraga,Tidak,sakit kepala
-7.9,1,Ya,4,3,olahraga,Tidak,nyaman
-7.9,2,Ya,5,4,kerja,Tidak,sakit kepala
-8.3,4,Ya,5,1,jalan-jalan,Ya,banyak tugas
-4.7,5,Ya,0,3,scroll hp,Ya,banyak tugas
-6.5,4,Ya,5,3,kerja,Ya,sakit kepala
-4.3,5,Ya,1,0,jalan-jalan,Tidak,mimpi buruk
-8.0,3,Ya,5,0,jalan-jalan,Ya,sakit kepala
-6.8,0,Tidak,4,4,masak,Tidak,sakit kepala
-7.8,3,Tidak,5,2,masak,Ya,nyaman
-4.8,2,Ya,0,5,kerja,Ya,-
-5.7,2,Tidak,4,2,jalan-jalan,Tidak,-
-8.3,5,Tidak,5,2,kerja,Ya,banyak tugas
-4.3,1,Ya,0,5,kerja,Tidak,-
-6.7,4,Tidak,3,1,scroll hp,Ya,sakit kepala
-5.7,0,Ya,1,5,jalan-jalan,Tidak,nyaman
-8.7,4,Tidak,5,1,jalan-jalan,Ya,banyak tugas
-5.2,2,Tidak,0,5,scroll hp,Ya,sakit kepala
-6.2,3,Ya,4,0,olahraga,Tidak,sakit kepala
-6.3,5,Ya,4,0,olahraga,Tidak,sakit kepala
-4.2,4,Ya,0,3,nugas,Tidak,mimpi buruk
-4.4,5,Tidak,2,1,kerja,Tidak,sakit kepala
-4.1,1,Tidak,1,4,olahraga,Tidak,nyaman
-4.2,2,Ya,1,3,olahraga,Ya,-
-6.4,2,Tidak,2,3,olahraga,Tidak,mimpi buruk
-4.3,1,Ya,0,4,kerja,Tidak,mimpi buruk
-8.0,2,Ya,3,4,scroll hp,Tidak,sakit kepala
-8.4,2,Ya,4,5,scroll hp,Ya,nyaman
-6.1,3,Tidak,2,4,nugas,Tidak,banyak tugas
-7.1,1,Ya,3,5,nugas,Tidak,mimpi buruk
-8.6,4,Tidak,5,1,kerja,Tidak,sakit kepala
-6.4,5,Ya,4,0,olahraga,Tidak,banyak tugas
-7.2,0,Tidak,3,4,olahraga,Ya,nyaman
-5.2,3,Ya,0,1,olahraga,Tidak,-
-4.8,3,Tidak,1,1,jalan-jalan,Tidak,-
-8.4,2,Ya,5,3,olahraga,Tidak,banyak tugas
-5.0,0,Ya,2,5,jalan-jalan,Ya,banyak tugas
-8.3,1,Ya,5,4,jalan-jalan,Tidak,sakit kepala
-8.4,5,Tidak,5,0,jalan-jalan,Tidak,banyak tugas
-7.0,1,Tidak,2,4,nugas,Tidak,banyak tugas
-8.2,0,Tidak,5,5,kerja,Tidak,sakit kepala
-8.6,4,Tidak,4,1,nugas,Ya,banyak tugas
-7.0,5,Ya,4,0,jalan-jalan,Tidak,sakit kepala
-8.1,0,Tidak,5,4,jalan-jalan,Ya,mimpi buruk
-6.5,1,Ya,3,5,nugas,Ya,nyaman
-4.4,1,Tidak,2,4,masak,Tidak,nyaman
-4.7,2,Tidak,0,4,nugas,Ya,nyaman
-4.6,5,Tidak,0,2,nugas,Ya,banyak tugas
-6.4,0,Tidak,2,5,kerja,Ya,sakit kepala
-5.9,2,Ya,4,5,kerja,Ya,nyaman
-7.3,5,Ya,4,0,masak,Tidak,nyaman
-8.5,0,Tidak,3,5,nugas,Ya,nyaman
-4.5,0,Tidak,0,5,nugas,Ya,nyaman
-6.7,3,Tidak,2,2,nugas,Ya,sakit kepala
-7.7,2,Tidak,5,3,jalan-jalan,Tidak,sakit kepala
-8.4,5,Ya,5,1,nugas,Ya,banyak tugas
-7.3,0,Tidak,1,5,scroll hp,Tidak,banyak tugas
-6.0,4,Ya,4,1,olahraga,Tidak,-
-4.7,4,Ya,0,2,olahraga,Ya,banyak tugas
-9.0,1,Ya,5,5,jalan-jalan,Ya,nyaman
-7.5,5,Tidak,5,1,kerja,Ya,banyak tugas
-4.7,1,Tidak,1,3,olahraga,Tidak,mimpi buruk
-7.2,4,Ya,4,0,masak,Tidak,banyak tugas
-7.7,0,Ya,2,5,scroll hp,Tidak,sakit kepala
-8.8,4,Ya,5,1,jalan-jalan,Ya,nyaman
-7.7,0,Tidak,5,5,kerja,Tidak,-
-7.8,3,Tidak,4,2,olahraga,Tidak,sakit kepala
-8.0,5,Tidak,5,0,jalan-jalan,Ya,mimpi buruk
-7.5,3,Tidak,5,4,kerja,Ya,banyak tugas
-4.9,3,Tidak,3,0,jalan-jalan,Tidak,nyaman
-6.2,3,Tidak,1,4,scroll hp,Tidak,-
-4.4,3,Ya,2,3,masak,Ya,banyak tugas
-5.7,0,Tidak,3,5,kerja,Tidak,banyak tugas
-7.6,1,Tidak,2,5,nugas,Tidak,nyaman
-6.3,1,Tidak,5,3,jalan-jalan,Ya,nyaman
+5.1,1,Tidak,2,5,masak,Ya,sakit kepala
+7.3,2,Ya,2,4,scroll hp,Tidak,banyak tugas
+6.5,5,Ya,2,1,scroll hp,Ya,-
+6.6,5,Tidak,2,2,nugas,Tidak,mimpi buruk
+5.9,1,Tidak,2,5,scroll hp,Tidak,banyak tugas
+7.6,1,Tidak,2,5,nugas,Tidak,mimpi buruk
+6.2,4,Ya,2,3,scroll hp,Ya,sakit kepala
+6.8,5,Ya,2,1,kerja,Tidak,mimpi buruk
+4.5,5,Tidak,2,0,masak,Tidak,sakit kepala
+6.9,1,Ya,2,5,nugas,Tidak,nyaman
+4.9,2,Tidak,2,1,jalan-jalan,Tidak,banyak tugas
+5.3,5,Ya,2,0,jalan-jalan,Tidak,nyaman
+7.3,5,Ya,2,1,scroll hp,Tidak,nyaman
+5.0,5,Ya,2,1,masak,Ya,-
+5.9,0,Tidak,2,5,nugas,Ya,banyak tugas
+4.6,0,Tidak,2,4,olahraga,Ya,sakit kepala
+6.0,5,Ya,2,1,masak,Tidak,sakit kepala
+5.5,0,Ya,2,5,kerja,Ya,banyak tugas
+7.4,2,Tidak,2,5,nugas,Ya,nyaman
+6.2,2,Tidak,2,2,masak,Tidak,mimpi buruk
+5.4,2,Tidak,2,4,nugas,Ya,sakit kepala
+5.6,2,Ya,2,3,olahraga,Tidak,nyaman
+4.2,2,Tidak,2,3,masak,Tidak,nyaman
+4.4,2,Tidak,2,3,olahraga,Ya,mimpi buruk
+6.2,3,Ya,2,1,masak,Tidak,mimpi buruk
+6.6,0,Ya,2,5,scroll hp,Tidak,-
+5.7,3,Tidak,2,3,scroll hp,Ya,mimpi buruk
+6.3,1,Ya,2,4,scroll hp,Tidak,sakit kepala
+5.9,5,Ya,2,1,masak,Tidak,sakit kepala
+6.2,0,Ya,2,5,nugas,Ya,nyaman
+5.3,0,Tidak,2,5,kerja,Tidak,-
+5.5,3,Ya,2,3,olahraga,Tidak,sakit kepala
+4.9,2,Tidak,2,2,olahraga,Ya,nyaman
+4.3,2,Tidak,2,3,masak,Tidak,sakit kepala
+4.8,5,Tidak,2,1,masak,Ya,sakit kepala
+6.3,5,Ya,2,0,jalan-jalan,Ya,banyak tugas
+7.6,3,Ya,2,4,nugas,Tidak,banyak tugas
+6.0,0,Tidak,2,5,kerja,Tidak,banyak tugas
+7.8,5,Ya,2,2,scroll hp,Tidak,nyaman
+5.7,3,Ya,2,1,jalan-jalan,Tidak,mimpi buruk
+4.6,3,Tidak,2,3,masak,Ya,mimpi buruk
+5.1,3,Ya,2,1,olahraga,Tidak,banyak tugas
+6.4,3,Tidak,2,2,scroll hp,Ya,mimpi buruk
+5.2,0,Tidak,2,5,olahraga,Ya,sakit kepala
+6.9,3,Tidak,2,3,scroll hp,Tidak,banyak tugas
+6.9,4,Tidak,2,3,scroll hp,Tidak,mimpi buruk
+6.1,4,Tidak,2,1,scroll hp,Ya,nyaman
+4.8,4,Tidak,2,0,jalan-jalan,Tidak,sakit kepala
+5.4,5,Ya,2,1,jalan-jalan,Ya,banyak tugas
+4.6,1,Ya,2,5,jalan-jalan,Ya,sakit kepala
+7.9,3,Ya,2,2,scroll hp,Ya,-
+6.9,5,Tidak,2,0,kerja,Ya,mimpi buruk
+4.9,5,Ya,2,1,masak,Ya,sakit kepala
+6.2,4,Tidak,2,2,kerja,Tidak,mimpi buruk
+6.2,4,Ya,2,2,nugas,Tidak,sakit kepala
+5.1,3,Tidak,2,2,jalan-jalan,Tidak,nyaman
+5.2,2,Ya,2,4,masak,Tidak,-
+5.3,3,Tidak,2,1,kerja,Ya,banyak tugas
+6.9,1,Tidak,2,5,nugas,Ya,mimpi buruk
+5.6,5,Ya,2,0,jalan-jalan,Tidak,nyaman
+5.6,5,Tidak,2,0,jalan-jalan,Ya,nyaman
+4.1,0,Tidak,2,4,kerja,Tidak,sakit kepala
+4.9,3,Tidak,2,2,jalan-jalan,Ya,mimpi buruk
+5.0,2,Tidak,2,5,masak,Ya,sakit kepala
+7.5,5,Ya,2,1,nugas,Tidak,-
+6.2,3,Tidak,2,1,masak,Tidak,banyak tugas
+4.7,2,Tidak,2,3,jalan-jalan,Ya,nyaman
+6.7,0,Ya,3,3,jalan-jalan,Tidak,sakit kepala
+6.0,5,Tidak,3,0,jalan-jalan,Tidak,nyaman
+7.2,0,Ya,3,5,scroll hp,Ya,mimpi buruk
+5.8,1,Tidak,3,5,scroll hp,Ya,banyak tugas
+4.1,0,Tidak,3,5,kerja,Ya,banyak tugas
+6.7,2,Tidak,3,3,masak,Tidak,nyaman
+7.2,2,Tidak,3,4,scroll hp,Ya,nyaman
+7.9,1,Tidak,3,5,scroll hp,Ya,nyaman
+7.1,2,Tidak,3,2,kerja,Tidak,mimpi buruk
+8.7,3,Ya,3,4,scroll hp,Ya,nyaman
+7.9,3,Ya,3,2,nugas,Ya,-
+5.7,0,Tidak,3,5,masak,Ya,nyaman
+7.2,0,Ya,3,5,scroll hp,Tidak,-
+7.9,1,Tidak,3,5,scroll hp,Ya,-
+6.7,5,Ya,3,1,nugas,Ya,mimpi buruk
+5.8,3,Ya,3,4,masak,Tidak,mimpi buruk
+7.0,4,Ya,3,3,nugas,Ya,nyaman
+8.7,0,Ya,3,5,scroll hp,Ya,sakit kepala
+7.0,0,Tidak,3,5,nugas,Tidak,sakit kepala
+5.6,4,Tidak,3,1,masak,Tidak,-
+8.1,3,Ya,3,3,scroll hp,Ya,banyak tugas
+4.8,3,Tidak,3,2,olahraga,Ya,-
+5.7,2,Tidak,3,4,kerja,Ya,sakit kepala
+8.7,2,Tidak,3,4,scroll hp,Tidak,banyak tugas
+7.2,1,Ya,3,2,olahraga,Tidak,sakit kepala
+6.8,3,Ya,3,2,kerja,Tidak,nyaman
+7.1,2,Ya,3,3,masak,Ya,nyaman
+5.4,3,Ya,3,2,kerja,Ya,nyaman
+7.3,2,Tidak,3,4,kerja,Tidak,banyak tugas
+6.1,3,Tidak,3,3,masak,Ya,mimpi buruk
+5.3,4,Ya,3,0,olahraga,Ya,sakit kepala
+5.4,0,Tidak,3,4,olahraga,Tidak,nyaman
+7.1,5,Tidak,3,0,jalan-jalan,Tidak,sakit kepala
+6.1,5,Tidak,3,0,kerja,Ya,nyaman
+5.9,4,Ya,3,2,masak,Tidak,nyaman
+7.3,1,Tidak,3,4,jalan-jalan,Tidak,mimpi buruk
+5.9,3,Tidak,3,2,jalan-jalan,Ya,banyak tugas
+6.2,3,Ya,3,3,kerja,Ya,-
+6.0,5,Ya,3,0,kerja,Ya,banyak tugas
+5.7,4,Ya,3,1,kerja,Ya,-
+7.2,2,Tidak,3,5,nugas,Tidak,banyak tugas
+6.4,2,Tidak,3,1,jalan-jalan,Tidak,mimpi buruk
+6.3,4,Ya,3,0,kerja,Ya,nyaman
+6.5,4,Ya,3,0,olahraga,Tidak,banyak tugas
+4.9,5,Tidak,3,1,kerja,Ya,sakit kepala
+6.3,1,Tidak,3,5,kerja,Ya,-
+8.9,0,Tidak,3,5,scroll hp,Tidak,sakit kepala
+5.7,1,Tidak,3,5,kerja,Tidak,mimpi buruk
+7.6,3,Ya,3,2,nugas,Tidak,banyak tugas
+6.8,1,Tidak,3,5,nugas,Ya,sakit kepala
+6.5,5,Tidak,3,0,olahraga,Ya,mimpi buruk
+8.0,1,Tidak,3,5,nugas,Tidak,sakit kepala
+4.9,1,Ya,3,5,kerja,Ya,sakit kepala
+8.8,2,Ya,3,3,nugas,Tidak,banyak tugas
+5.9,5,Tidak,3,0,jalan-jalan,Tidak,nyaman
+6.5,2,Ya,3,3,olahraga,Ya,nyaman
+8.1,1,Tidak,3,5,nugas,Ya,-
+8.2,0,Ya,3,5,nugas,Tidak,mimpi buruk
+6.6,1,Ya,3,5,scroll hp,Ya,nyaman
+8.4,5,Tidak,3,2,nugas,Ya,banyak tugas
+7.2,4,Tidak,3,1,nugas,Tidak,sakit kepala
+8.1,4,Tidak,3,3,scroll hp,Tidak,nyaman
+6.1,2,Ya,3,3,olahraga,Ya,sakit kepala
+8.6,1,Tidak,3,4,scroll hp,Tidak,-
+7.0,4,Tidak,3,2,scroll hp,Tidak,mimpi buruk
+6.1,0,Ya,3,5,kerja,Tidak,-
+8.3,4,Tidak,3,3,scroll hp,Tidak,mimpi buruk
+4.9,5,Tidak,3,0,masak,Ya,mimpi buruk
+5.1,2,Ya,3,5,kerja,Ya,sakit kepala
+5.9,5,Ya,3,1,kerja,Ya,mimpi buruk
+7.0,2,Ya,3,3,kerja,Ya,-
+7.8,4,Tidak,3,2,scroll hp,Ya,-
+7.0,4,Ya,3,3,scroll hp,Ya,nyaman
+6.4,0,Ya,3,4,jalan-jalan,Ya,-
+6.9,3,Ya,3,3,nugas,Ya,sakit kepala
+6.1,0,Tidak,3,5,kerja,Ya,nyaman
+8.9,5,Ya,3,1,nugas,Ya,sakit kepala
+6.0,0,Ya,3,5,masak,Ya,sakit kepala
+6.6,0,Ya,3,5,masak,Tidak,-
+4.8,3,Tidak,3,3,masak,Ya,nyaman
+5.7,3,Tidak,3,0,olahraga,Tidak,-
+6.5,2,Tidak,3,2,jalan-jalan,Tidak,banyak tugas
+7.1,2,Ya,3,3,kerja,Tidak,-
+8.7,4,Tidak,3,1,scroll hp,Ya,sakit kepala
+7.7,1,Tidak,3,5,scroll hp,Ya,sakit kepala
+6.3,0,Tidak,3,4,jalan-jalan,Ya,mimpi buruk
+7.1,1,Ya,3,5,scroll hp,Ya,nyaman
+6.5,0,Tidak,3,4,kerja,Tidak,sakit kepala
+7.2,4,Ya,3,2,nugas,Tidak,banyak tugas
+5.9,4,Tidak,3,0,olahraga,Tidak,-
+6.0,2,Tidak,3,4,olahraga,Ya,banyak tugas
+7.6,0,Tidak,3,5,scroll hp,Ya,mimpi buruk
+6.0,0,Ya,3,4,jalan-jalan,Tidak,sakit kepala
+8.1,0,Ya,3,5,nugas,Tidak,nyaman
+7.5,2,Tidak,3,5,scroll hp,Tidak,-
+5.4,1,Tidak,3,4,kerja,Tidak,sakit kepala
+7.3,4,Ya,3,3,nugas,Ya,nyaman
+5.9,4,Ya,3,2,masak,Tidak,sakit kepala
+6.4,1,Tidak,3,5,kerja,Ya,mimpi buruk
+6.1,1,Tidak,3,5,scroll hp,Ya,banyak tugas
+6.6,4,Tidak,4,1,kerja,Tidak,nyaman
+6.9,5,Ya,4,1,masak,Ya,banyak tugas
+7.7,2,Tidak,4,2,olahraga,Ya,sakit kepala
+7.7,4,Tidak,4,1,olahraga,Tidak,nyaman
+8.6,0,Ya,4,5,nugas,Tidak,sakit kepala
+8.9,4,Ya,4,0,kerja,Tidak,banyak tugas
+7.2,2,Ya,4,2,olahraga,Ya,sakit kepala
+7.3,0,Tidak,4,4,jalan-jalan,Ya,banyak tugas
+5.7,0,Tidak,4,4,olahraga,Tidak,-
+7.9,0,Ya,4,4,jalan-jalan,Tidak,banyak tugas
+6.0,5,Tidak,4,0,jalan-jalan,Tidak,-
+8.0,1,Ya,4,3,masak,Tidak,mimpi buruk
+5.7,1,Tidak,4,4,jalan-jalan,Ya,nyaman
+6.5,4,Ya,4,3,kerja,Tidak,sakit kepala
+7.5,0,Ya,4,5,nugas,Ya,banyak tugas
+6.8,1,Ya,4,4,olahraga,Tidak,-
+6.9,5,Tidak,4,0,kerja,Tidak,nyaman
+6.2,3,Tidak,4,2,masak,Ya,nyaman
+8.3,4,Ya,4,3,scroll hp,Tidak,sakit kepala
+8.0,2,Tidak,4,2,jalan-jalan,Tidak,banyak tugas
+6.1,4,Ya,4,1,olahraga,Ya,nyaman
+8.1,5,Tidak,4,1,nugas,Ya,banyak tugas
+7.4,0,Tidak,4,5,kerja,Tidak,nyaman
+8.7,1,Tidak,4,5,nugas,Tidak,sakit kepala
+7.1,1,Ya,4,5,scroll hp,Ya,mimpi buruk
+7.7,0,Ya,4,4,jalan-jalan,Tidak,sakit kepala
+6.0,0,Tidak,4,3,jalan-jalan,Tidak,nyaman
+6.9,0,Tidak,4,5,masak,Ya,-
+8.3,4,Ya,4,1,scroll hp,Ya,-
+8.1,3,Tidak,4,2,olahraga,Tidak,nyaman
+7.3,3,Tidak,4,2,olahraga,Tidak,-
+6.6,1,Tidak,4,3,jalan-jalan,Tidak,banyak tugas
+7.2,0,Tidak,4,4,jalan-jalan,Tidak,mimpi buruk
+8.2,2,Ya,4,4,scroll hp,Ya,nyaman
+5.7,2,Tidak,4,2,olahraga,Tidak,banyak tugas
+6.0,4,Ya,4,0,jalan-jalan,Tidak,sakit kepala
+7.4,2,Ya,4,5,nugas,Ya,nyaman
+7.4,4,Ya,4,0,jalan-jalan,Tidak,sakit kepala
+7.2,4,Tidak,4,1,jalan-jalan,Ya,nyaman
+8.8,1,Ya,4,4,nugas,Tidak,-
+6.2,0,Tidak,4,5,jalan-jalan,Ya,sakit kepala
+6.3,3,Tidak,4,2,masak,Tidak,banyak tugas
+5.4,0,Tidak,4,5,olahraga,Ya,-
+7.2,2,Ya,4,3,jalan-jalan,Tidak,-
+8.6,2,Tidak,4,4,nugas,Tidak,banyak tugas
+6.9,2,Ya,4,5,nugas,Ya,banyak tugas
+8.1,1,Ya,4,4,scroll hp,Tidak,-
+8.4,1,Tidak,4,3,kerja,Tidak,sakit kepala
+6.9,0,Tidak,4,5,masak,Tidak,-
+6.9,0,Ya,4,5,kerja,Tidak,mimpi buruk
+6.1,0,Tidak,4,5,masak,Ya,nyaman
+7.5,5,Tidak,4,0,kerja,Ya,banyak tugas
+7.8,3,Ya,4,1,masak,Ya,banyak tugas
+8.1,0,Ya,4,5,olahraga,Ya,-
+7.9,3,Tidak,4,1,olahraga,Ya,nyaman
+8.3,1,Tidak,4,4,nugas,Tidak,sakit kepala
+7.2,2,Ya,4,3,jalan-jalan,Tidak,banyak tugas
+8.5,4,Tidak,4,0,kerja,Ya,nyaman
+8.1,0,Tidak,4,5,olahraga,Ya,sakit kepala
+8.4,4,Tidak,4,0,kerja,Ya,mimpi buruk
+5.6,0,Tidak,4,4,olahraga,Ya,nyaman
+7.9,0,Ya,4,5,jalan-jalan,Ya,mimpi buruk
+7.5,5,Tidak,4,1,kerja,Ya,nyaman
+7.1,0,Tidak,4,5,jalan-jalan,Ya,banyak tugas
+8.2,1,Tidak,4,5,nugas,Tidak,banyak tugas
+6.0,1,Ya,4,4,jalan-jalan,Ya,sakit kepala
+6.5,2,Ya,4,2,masak,Tidak,banyak tugas
+7.8,5,Tidak,4,0,olahraga,Ya,mimpi buruk
+7.9,1,Tidak,4,4,masak,Tidak,sakit kepala
+8.1,1,Ya,4,5,kerja,Tidak,mimpi buruk
+9.0,2,Tidak,4,5,nugas,Ya,sakit kepala
+6.2,1,Tidak,4,4,jalan-jalan,Ya,nyaman
+7.0,1,Tidak,4,4,jalan-jalan,Tidak,mimpi buruk
+7.9,3,Ya,4,1,masak,Ya,sakit kepala
+7.3,5,Tidak,4,0,olahraga,Tidak,-
+9.0,4,Tidak,4,3,scroll hp,Tidak,nyaman
+7.0,1,Ya,4,5,nugas,Ya,mimpi buruk
+7.5,3,Tidak,4,2,kerja,Tidak,sakit kepala
+5.3,4,Tidak,4,2,masak,Ya,mimpi buruk
+7.9,0,Tidak,4,4,olahraga,Tidak,mimpi buruk
+8.7,4,Ya,4,2,scroll hp,Ya,mimpi buruk
+7.2,3,Tidak,4,2,olahraga,Ya,-
+6.6,4,Ya,4,1,jalan-jalan,Ya,mimpi buruk
+8.2,0,Ya,4,5,scroll hp,Tidak,nyaman
+6.5,1,Ya,4,4,kerja,Ya,mimpi buruk
+6.5,0,Tidak,4,5,kerja,Ya,sakit kepala
+8.2,2,Ya,4,5,nugas,Tidak,-
+8.8,2,Tidak,4,3,nugas,Tidak,sakit kepala
+8.2,0,Tidak,4,5,scroll hp,Tidak,-
+8.2,4,Ya,4,1,scroll hp,Ya,mimpi buruk
+7.3,5,Ya,4,1,scroll hp,Ya,-
+6.0,5,Tidak,4,2,kerja,Ya,banyak tugas
+7.5,0,Ya,4,5,nugas,Tidak,banyak tugas
+8.8,2,Ya,4,5,nugas,Ya,banyak tugas
+7.3,1,Ya,4,3,masak,Tidak,sakit kepala
+7.6,0,Ya,4,4,jalan-jalan,Ya,-
+7.1,5,Ya,4,0,jalan-jalan,Tidak,-
+8.0,4,Tidak,4,0,olahraga,Tidak,banyak tugas
+6.2,1,Ya,4,4,masak,Ya,mimpi buruk
+8.3,2,Ya,4,3,nugas,Tidak,sakit kepala
+7.7,3,Ya,5,0,olahraga,Ya,sakit kepala
+6.9,0,Tidak,5,5,jalan-jalan,Ya,nyaman
+8.3,4,Tidak,5,3,kerja,Ya,mimpi buruk
+6.7,0,Ya,5,4,olahraga,Tidak,mimpi buruk
+7.6,2,Ya,5,5,nugas,Ya,nyaman
+8.8,5,Ya,5,0,masak,Tidak,banyak tugas
+7.9,4,Tidak,5,0,olahraga,Ya,-
+8.5,5,Ya,5,0,olahraga,Ya,-
+7.6,4,Ya,5,3,kerja,Ya,sakit kepala
+8.4,0,Ya,5,4,olahraga,Tidak,nyaman
+8.5,2,Ya,5,5,kerja,Ya,-
+6.7,2,Tidak,5,3,jalan-jalan,Ya,mimpi buruk
+8.0,2,Ya,5,2,jalan-jalan,Tidak,nyaman
+6.6,4,Ya,5,1,masak,Ya,mimpi buruk
+8.5,4,Tidak,5,0,masak,Tidak,mimpi buruk
+8.7,1,Ya,5,4,masak,Ya,mimpi buruk
+8.6,1,Tidak,5,2,jalan-jalan,Tidak,-
+9.0,2,Ya,5,4,olahraga,Ya,sakit kepala
+7.4,5,Ya,5,2,kerja,Ya,-
+6.6,1,Ya,5,3,masak,Tidak,mimpi buruk
+8.5,1,Ya,5,5,kerja,Ya,mimpi buruk
+8.0,2,Ya,5,1,jalan-jalan,Tidak,-
+7.5,3,Ya,5,2,kerja,Ya,banyak tugas
+8.5,1,Tidak,5,4,olahraga,Ya,nyaman
+8.3,4,Ya,5,1,masak,Ya,nyaman
+7.5,2,Ya,5,3,masak,Ya,mimpi buruk
+8.2,3,Ya,5,1,olahraga,Tidak,sakit kepala
+8.6,5,Tidak,5,0,jalan-jalan,Ya,nyaman
+8.7,0,Ya,5,5,masak,Ya,banyak tugas
+7.3,2,Tidak,5,3,masak,Ya,sakit kepala
+8.5,5,Ya,5,0,jalan-jalan,Ya,sakit kepala
+7.7,2,Ya,5,2,olahraga,Ya,-
+8.2,0,Tidak,5,5,masak,Ya,mimpi buruk
+8.8,0,Ya,5,5,nugas,Ya,nyaman
+8.9,2,Tidak,5,3,masak,Tidak,-
+5.7,2,Tidak,5,2,olahraga,Ya,mimpi buruk
+7.8,2,Ya,5,2,jalan-jalan,Tidak,mimpi buruk
+7.4,5,Tidak,5,0,olahraga,Tidak,sakit kepala
+7.3,1,Tidak,5,5,jalan-jalan,Ya,sakit kepala
+7.5,5,Ya,5,0,jalan-jalan,Tidak,-
+8.1,4,Tidak,5,3,nugas,Ya,-
+7.3,0,Ya,5,4,jalan-jalan,Ya,nyaman
+5.9,0,Tidak,5,4,jalan-jalan,Ya,-
+7.5,2,Tidak,5,3,masak,Ya,sakit kepala
+8.6,5,Tidak,5,0,masak,Tidak,nyaman
+8.2,1,Tidak,5,4,masak,Tidak,banyak tugas
+8.0,4,Tidak,5,0,kerja,Tidak,-
+7.9,0,Tidak,5,4,jalan-jalan,Ya,nyaman
+7.9,4,Tidak,5,1,jalan-jalan,Ya,sakit kepala
+6.2,1,Ya,5,4,olahraga,Ya,nyaman
+8.7,0,Tidak,5,4,olahraga,Tidak,sakit kepala
+6.4,3,Tidak,5,0,jalan-jalan,Ya,banyak tugas
+7.4,1,Tidak,5,4,kerja,Tidak,mimpi buruk
+7.6,1,Tidak,5,5,masak,Ya,mimpi buruk
+8.1,3,Ya,5,1,masak,Ya,banyak tugas
+7.2,1,Ya,5,4,kerja,Ya,nyaman
+7.6,3,Tidak,5,2,jalan-jalan,Ya,banyak tugas
+8.5,5,Tidak,5,1,kerja,Ya,banyak tugas
+8.5,1,Tidak,5,5,kerja,Ya,banyak tugas
+8.3,1,Tidak,5,4,jalan-jalan,Tidak,sakit kepala
+8.2,4,Ya,5,0,olahraga,Tidak,mimpi buruk
+7.3,0,Ya,5,4,olahraga,Tidak,-
+5.7,3,Tidak,5,2,jalan-jalan,Ya,mimpi buruk
+6.5,5,Tidak,5,1,kerja,Ya,nyaman
+8.9,1,Tidak,5,5,masak,Tidak,sakit kepala
+9.0,5,Ya,5,0,olahraga,Tidak,mimpi buruk
+5.7,4,Tidak,5,1,olahraga,Ya,sakit kepala
+7.7,3,Tidak,5,2,masak,Ya,mimpi buruk
+7.9,4,Ya,5,1,masak,Ya,nyaman
+8.8,0,Ya,5,5,masak,Ya,-
+8.4,3,Ya,5,1,masak,Tidak,sakit kepala
+7.5,5,Tidak,5,0,jalan-jalan,Tidak,banyak tugas
+6.6,5,Tidak,5,1,masak,Tidak,sakit kepala
+6.7,2,Ya,5,2,jalan-jalan,Tidak,banyak tugas
+8.8,4,Tidak,5,1,jalan-jalan,Ya,mimpi buruk
+8.2,4,Ya,5,1,olahraga,Tidak,nyaman
+8.3,5,Ya,5,0,jalan-jalan,Tidak,banyak tugas
+7.3,1,Ya,5,3,masak,Tidak,sakit kepala
+8.6,3,Ya,5,1,masak,Ya,banyak tugas
+8.6,1,Ya,5,4,masak,Ya,mimpi buruk
+8.1,2,Tidak,5,3,olahraga,Tidak,banyak tugas
+6.8,2,Tidak,5,3,kerja,Tidak,nyaman
+5.7,2,Tidak,5,4,olahraga,Ya,-
+7.1,2,Tidak,5,3,olahraga,Ya,-
+7.8,2,Tidak,5,5,masak,Ya,sakit kepala
+6.7,2,Ya,5,4,olahraga,Ya,mimpi buruk
+7.4,2,Tidak,5,3,jalan-jalan,Ya,sakit kepala
+8.9,5,Tidak,5,0,masak,Ya,sakit kepala
+6.4,1,Ya,5,4,masak,Ya,mimpi buruk
+7.7,5,Tidak,5,0,masak,Ya,nyaman
+8.8,0,Tidak,5,5,jalan-jalan,Ya,sakit kepala
+8.6,5,Tidak,5,1,kerja,Ya,-
+8.5,5,Tidak,5,0,olahraga,Tidak,sakit kepala
+6.4,3,Tidak,5,1,masak,Ya,mimpi buruk
+8.4,5,Ya,5,0,masak,Ya,nyaman
+8.8,2,Ya,5,3,olahraga,Ya,sakit kepala
+8.0,3,Ya,5,3,masak,Tidak,sakit kepala
+8.7,0,Tidak,5,5,kerja,Tidak,mimpi buruk
+8.2,3,Tidak,5,3,kerja,Ya,banyak tugas
+6.8,4,Ya,5,1,olahraga,Tidak,sakit kepala
