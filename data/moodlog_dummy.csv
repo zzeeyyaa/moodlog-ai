@@ -1,601 +1,2001 @@
-Jam Tidur,Kualitas Tidur,Bergadang,Mood,Stress Level,Aktivitas,Kafein,Catatan
-5.6,3,Ya,0,5,scroll hp,Tidak,-
-4.3,1,Ya,0,3,jalan-jalan,Tidak,sakit kepala
-4.1,2,Tidak,0,3,nugas,Tidak,mimpi buruk
-4.7,5,Tidak,0,1,nugas,Tidak,mimpi buruk
-4.1,5,Ya,0,3,nugas,Tidak,mimpi buruk
-5.2,5,Ya,0,1,olahraga,Tidak,mimpi buruk
-4.4,0,Ya,0,5,masak,Ya,nyaman
-4.8,2,Ya,0,5,masak,Tidak,mimpi buruk
-4.9,4,Ya,0,4,scroll hp,Tidak,banyak tugas
-5.2,5,Ya,0,2,kerja,Tidak,-
-4.3,4,Tidak,0,1,nugas,Ya,banyak tugas
-4.5,1,Tidak,0,4,scroll hp,Tidak,sakit kepala
-4.3,5,Tidak,0,2,scroll hp,Ya,-
-4.1,2,Ya,0,5,scroll hp,Tidak,mimpi buruk
-4.5,2,Tidak,0,5,scroll hp,Tidak,banyak tugas
-4.8,0,Ya,0,5,scroll hp,Tidak,banyak tugas
-5.8,2,Ya,0,4,nugas,Tidak,-
-4.6,2,Ya,0,5,kerja,Ya,mimpi buruk
-4.1,4,Tidak,0,2,nugas,Tidak,mimpi buruk
-4.6,3,Tidak,0,2,scroll hp,Ya,sakit kepala
-4.6,2,Ya,0,3,jalan-jalan,Tidak,banyak tugas
-4.7,2,Tidak,0,4,kerja,Tidak,sakit kepala
-4.0,1,Tidak,0,5,kerja,Ya,-
-5.1,2,Ya,0,5,nugas,Tidak,nyaman
-5.4,1,Ya,0,4,jalan-jalan,Tidak,banyak tugas
-4.1,5,Ya,0,2,nugas,Tidak,nyaman
-4.6,0,Ya,0,5,nugas,Tidak,mimpi buruk
-4.3,2,Ya,0,5,scroll hp,Ya,banyak tugas
-5.5,1,Ya,0,5,nugas,Ya,mimpi buruk
-4.1,5,Tidak,0,1,scroll hp,Tidak,-
-5.1,1,Tidak,0,5,scroll hp,Tidak,banyak tugas
-4.5,2,Tidak,0,3,scroll hp,Tidak,mimpi buruk
-4.8,5,Ya,0,0,olahraga,Ya,nyaman
-6.4,0,Ya,0,5,scroll hp,Ya,mimpi buruk
-5.4,1,Ya,0,5,nugas,Ya,nyaman
-5.1,1,Ya,0,5,olahraga,Ya,banyak tugas
-4.9,4,Ya,0,1,olahraga,Ya,banyak tugas
-4.5,2,Ya,0,2,jalan-jalan,Tidak,-
-4.3,1,Ya,0,5,scroll hp,Tidak,sakit kepala
-4.1,2,Ya,0,5,scroll hp,Ya,nyaman
-4.8,0,Tidak,0,5,nugas,Ya,sakit kepala
-6.4,2,Tidak,0,5,nugas,Tidak,-
-5.0,2,Tidak,0,5,scroll hp,Ya,-
-4.1,2,Ya,0,5,nugas,Ya,nyaman
-4.6,5,Ya,0,3,scroll hp,Tidak,sakit kepala
-5.6,2,Ya,0,5,scroll hp,Ya,banyak tugas
-6.3,5,Tidak,0,2,scroll hp,Tidak,nyaman
-4.8,1,Ya,0,5,kerja,Tidak,sakit kepala
-5.5,4,Ya,0,4,scroll hp,Tidak,banyak tugas
-6.3,3,Tidak,0,3,scroll hp,Tidak,mimpi buruk
-4.3,2,Tidak,0,3,nugas,Tidak,banyak tugas
-5.6,1,Ya,0,4,jalan-jalan,Ya,nyaman
-6.4,4,Ya,0,3,nugas,Tidak,banyak tugas
-4.7,2,Tidak,0,5,scroll hp,Ya,-
-5.3,2,Tidak,0,5,scroll hp,Ya,mimpi buruk
-4.3,3,Tidak,0,3,scroll hp,Ya,nyaman
-4.4,0,Ya,0,4,olahraga,Tidak,-
-4.4,1,Ya,0,5,scroll hp,Tidak,sakit kepala
-4.6,4,Tidak,0,1,scroll hp,Tidak,banyak tugas
-5.6,5,Ya,0,2,scroll hp,Ya,banyak tugas
-5.0,4,Ya,0,2,jalan-jalan,Tidak,mimpi buruk
-4.1,0,Ya,0,5,jalan-jalan,Tidak,banyak tugas
-4.5,1,Ya,0,5,jalan-jalan,Tidak,banyak tugas
-5.3,3,Ya,0,3,nugas,Tidak,-
-5.5,0,Ya,0,5,nugas,Tidak,sakit kepala
-4.1,5,Tidak,0,1,scroll hp,Tidak,mimpi buruk
-5.6,1,Ya,0,5,nugas,Ya,-
-4.4,2,Ya,0,3,olahraga,Tidak,-
-5.5,0,Ya,0,5,jalan-jalan,Ya,banyak tugas
-4.3,3,Tidak,0,2,nugas,Ya,sakit kepala
-5.6,5,Tidak,0,1,kerja,Ya,sakit kepala
-5.1,0,Ya,0,5,kerja,Ya,banyak tugas
-5.6,5,Tidak,0,1,nugas,Tidak,sakit kepala
-4.8,4,Ya,0,2,nugas,Ya,mimpi buruk
-5.0,3,Ya,0,1,olahraga,Ya,-
-4.1,5,Ya,0,2,masak,Tidak,banyak tugas
-4.4,5,Tidak,0,1,scroll hp,Tidak,-
-4.6,5,Ya,0,2,nugas,Tidak,sakit kepala
-4.7,5,Tidak,0,1,scroll hp,Tidak,sakit kepala
-4.2,2,Tidak,0,3,kerja,Ya,mimpi buruk
-4.9,3,Ya,0,3,scroll hp,Ya,nyaman
-4.2,5,Tidak,0,1,scroll hp,Ya,sakit kepala
-4.7,4,Ya,0,3,scroll hp,Tidak,banyak tugas
-4.1,0,Tidak,0,5,scroll hp,Tidak,banyak tugas
-4.8,5,Ya,0,1,masak,Tidak,banyak tugas
-5.5,5,Tidak,0,1,nugas,Ya,banyak tugas
-4.4,0,Tidak,0,5,nugas,Tidak,nyaman
-4.2,3,Ya,0,2,olahraga,Ya,banyak tugas
-4.5,2,Tidak,0,5,nugas,Ya,nyaman
-4.5,5,Ya,0,1,masak,Tidak,sakit kepala
-5.4,0,Tidak,0,5,scroll hp,Tidak,-
-5.1,0,Ya,0,4,olahraga,Tidak,-
-4.3,4,Ya,0,2,scroll hp,Tidak,-
-5.4,5,Tidak,0,1,nugas,Tidak,mimpi buruk
-5.0,2,Tidak,0,4,scroll hp,Tidak,banyak tugas
-5.1,0,Ya,0,5,kerja,Tidak,sakit kepala
-4.1,3,Tidak,0,3,scroll hp,Tidak,sakit kepala
-5.5,3,Ya,0,3,scroll hp,Tidak,sakit kepala
-5.4,3,Tidak,0,4,kerja,Tidak,nyaman
-4.9,1,Ya,0,5,nugas,Tidak,nyaman
-4.2,1,Ya,1,5,masak,Ya,sakit kepala
-4.2,5,Tidak,1,1,kerja,Tidak,-
-6.9,2,Tidak,1,5,nugas,Ya,sakit kepala
-6.5,3,Ya,1,3,nugas,Tidak,banyak tugas
-5.0,5,Tidak,1,0,kerja,Ya,nyaman
-5.1,0,Ya,1,5,masak,Ya,banyak tugas
-5.9,0,Ya,1,5,nugas,Tidak,nyaman
-4.2,5,Tidak,1,0,olahraga,Tidak,banyak tugas
-4.8,5,Ya,1,2,kerja,Ya,banyak tugas
-4.6,4,Tidak,1,2,nugas,Ya,-
-4.4,1,Ya,1,3,jalan-jalan,Tidak,banyak tugas
-5.8,5,Ya,1,2,kerja,Ya,nyaman
-5.3,4,Ya,1,1,jalan-jalan,Tidak,banyak tugas
-5.9,4,Tidak,1,0,kerja,Tidak,nyaman
-7.0,4,Ya,1,1,nugas,Tidak,sakit kepala
-6.0,5,Ya,1,1,scroll hp,Ya,banyak tugas
-5.9,4,Ya,1,1,jalan-jalan,Tidak,banyak tugas
-4.1,1,Tidak,1,5,kerja,Tidak,-
-5.5,1,Tidak,1,4,jalan-jalan,Tidak,mimpi buruk
-4.9,3,Tidak,1,1,jalan-jalan,Ya,mimpi buruk
-4.8,1,Tidak,1,4,olahraga,Tidak,nyaman
-6.8,4,Tidak,1,1,nugas,Ya,nyaman
-4.6,2,Ya,1,5,masak,Ya,banyak tugas
-6.1,0,Tidak,1,5,scroll hp,Tidak,mimpi buruk
-6.5,0,Tidak,1,5,scroll hp,Ya,sakit kepala
-5.5,4,Tidak,1,0,masak,Tidak,nyaman
-5.8,4,Ya,1,0,jalan-jalan,Tidak,-
-4.3,3,Ya,1,4,kerja,Tidak,banyak tugas
-5.8,0,Tidak,1,5,scroll hp,Tidak,sakit kepala
-4.1,0,Tidak,1,5,kerja,Ya,mimpi buruk
-6.5,0,Ya,1,5,scroll hp,Ya,mimpi buruk
-5.9,0,Ya,1,5,olahraga,Tidak,-
-5.3,4,Ya,1,1,masak,Ya,banyak tugas
-4.7,1,Tidak,1,3,jalan-jalan,Tidak,banyak tugas
-6.9,2,Tidak,1,5,scroll hp,Ya,mimpi buruk
-4.5,0,Ya,1,5,jalan-jalan,Tidak,banyak tugas
-4.3,0,Tidak,1,5,masak,Tidak,-
-5.4,3,Ya,1,2,jalan-jalan,Tidak,mimpi buruk
-4.3,4,Tidak,1,0,kerja,Ya,mimpi buruk
-6.3,1,Tidak,1,5,scroll hp,Ya,-
-5.9,1,Ya,1,5,nugas,Ya,mimpi buruk
-4.5,2,Tidak,1,1,jalan-jalan,Tidak,nyaman
-4.6,5,Ya,1,3,kerja,Ya,-
-4.9,0,Tidak,1,4,jalan-jalan,Tidak,banyak tugas
-4.9,4,Tidak,1,2,scroll hp,Ya,sakit kepala
-4.1,1,Tidak,1,4,jalan-jalan,Tidak,banyak tugas
-6.1,4,Ya,1,1,kerja,Ya,-
-7.2,2,Tidak,1,5,scroll hp,Tidak,sakit kepala
-5.2,3,Tidak,1,1,olahraga,Ya,banyak tugas
-6.6,3,Ya,1,3,nugas,Tidak,banyak tugas
-7.2,1,Ya,1,4,nugas,Tidak,-
-4.3,0,Ya,1,5,masak,Ya,sakit kepala
-4.5,3,Ya,1,2,olahraga,Ya,-
-5.3,3,Ya,1,3,masak,Ya,-
-5.1,2,Tidak,1,4,masak,Ya,sakit kepala
-5.5,3,Tidak,1,2,jalan-jalan,Tidak,mimpi buruk
-5.4,4,Tidak,1,0,olahraga,Ya,nyaman
-4.9,5,Ya,1,1,olahraga,Ya,nyaman
-5.5,3,Tidak,1,4,nugas,Ya,mimpi buruk
-5.2,2,Ya,1,5,masak,Tidak,mimpi buruk
-4.9,5,Tidak,1,1,nugas,Ya,sakit kepala
-4.3,3,Ya,1,2,masak,Ya,sakit kepala
-5.8,4,Ya,1,0,olahraga,Tidak,mimpi buruk
-6.2,2,Ya,1,5,kerja,Ya,nyaman
-4.9,4,Tidak,1,2,nugas,Ya,nyaman
-5.3,0,Ya,1,5,kerja,Tidak,mimpi buruk
-4.9,4,Tidak,1,3,scroll hp,Tidak,-
-4.2,4,Tidak,1,1,jalan-jalan,Ya,banyak tugas
-5.8,3,Tidak,1,2,nugas,Tidak,mimpi buruk
-4.3,0,Ya,1,5,jalan-jalan,Tidak,sakit kepala
-6.1,4,Tidak,1,1,nugas,Tidak,mimpi buruk
-4.5,4,Tidak,1,0,masak,Tidak,nyaman
-5.9,1,Tidak,1,5,nugas,Tidak,nyaman
-5.1,3,Tidak,1,3,masak,Tidak,nyaman
-4.4,0,Tidak,1,5,kerja,Tidak,banyak tugas
-4.9,1,Tidak,1,3,masak,Tidak,mimpi buruk
-4.0,5,Ya,1,2,kerja,Ya,nyaman
-4.4,1,Ya,1,5,jalan-jalan,Tidak,nyaman
-4.9,3,Tidak,1,3,masak,Ya,-
-4.3,2,Tidak,1,2,olahraga,Ya,nyaman
-4.3,1,Ya,1,5,kerja,Ya,mimpi buruk
-4.5,1,Tidak,1,3,masak,Tidak,-
-5.1,2,Tidak,1,3,scroll hp,Tidak,sakit kepala
-6.5,3,Ya,1,4,scroll hp,Tidak,-
-5.5,0,Tidak,1,5,masak,Tidak,banyak tugas
-5.5,5,Tidak,1,2,scroll hp,Tidak,mimpi buruk
-4.3,0,Tidak,1,5,masak,Ya,banyak tugas
-6.0,4,Ya,1,2,scroll hp,Tidak,nyaman
-4.0,1,Ya,1,4,jalan-jalan,Ya,nyaman
-6.8,1,Ya,1,5,nugas,Tidak,-
-4.5,5,Tidak,1,0,jalan-jalan,Tidak,nyaman
-4.0,4,Ya,1,2,kerja,Ya,nyaman
-4.8,2,Tidak,1,1,jalan-jalan,Tidak,banyak tugas
-4.1,5,Tidak,1,0,olahraga,Tidak,nyaman
-6.3,1,Tidak,1,5,kerja,Tidak,mimpi buruk
-4.3,4,Ya,1,1,jalan-jalan,Ya,-
-4.0,4,Tidak,1,0,kerja,Ya,sakit kepala
-6.7,1,Ya,1,5,nugas,Tidak,banyak tugas
-4.1,1,Tidak,1,2,olahraga,Tidak,nyaman
-6.2,4,Tidak,1,3,scroll hp,Tidak,nyaman
-6.3,2,Tidak,2,5,nugas,Ya,mimpi buruk
-7.1,2,Ya,2,4,nugas,Tidak,sakit kepala
-4.5,5,Tidak,2,0,olahraga,Ya,-
-6.6,3,Ya,2,2,scroll hp,Tidak,-
-4.9,3,Tidak,2,1,olahraga,Ya,nyaman
-5.0,5,Tidak,2,1,kerja,Ya,banyak tugas
-5.5,5,Ya,2,2,masak,Tidak,nyaman
-5.1,5,Tidak,2,0,jalan-jalan,Tidak,mimpi buruk
-4.3,3,Tidak,2,3,masak,Ya,-
-6.4,3,Ya,2,1,masak,Tidak,sakit kepala
-5.6,2,Tidak,2,1,olahraga,Tidak,-
-5.9,1,Tidak,2,5,scroll hp,Tidak,-
-4.2,2,Tidak,2,2,olahraga,Tidak,mimpi buruk
-6.3,2,Ya,2,4,jalan-jalan,Ya,-
-5.3,5,Tidak,2,0,olahraga,Tidak,banyak tugas
-6.2,0,Tidak,2,5,masak,Tidak,mimpi buruk
-6.0,3,Ya,2,1,olahraga,Tidak,mimpi buruk
-6.8,0,Ya,2,5,scroll hp,Tidak,nyaman
-6.2,4,Tidak,2,2,nugas,Tidak,sakit kepala
-5.5,5,Ya,2,1,jalan-jalan,Ya,nyaman
-5.5,1,Tidak,2,3,masak,Tidak,nyaman
-7.8,2,Ya,2,5,scroll hp,Tidak,nyaman
-7.7,1,Ya,2,5,scroll hp,Ya,nyaman
-7.7,0,Ya,2,5,scroll hp,Tidak,banyak tugas
-5.7,3,Tidak,2,1,jalan-jalan,Ya,-
-5.5,1,Ya,2,3,olahraga,Tidak,sakit kepala
-6.4,2,Ya,2,5,nugas,Tidak,nyaman
-5.7,3,Tidak,2,3,kerja,Ya,-
-4.5,5,Ya,2,2,masak,Ya,sakit kepala
-5.5,5,Tidak,2,0,olahraga,Ya,sakit kepala
-6.2,5,Tidak,2,1,scroll hp,Ya,-
-6.9,5,Tidak,2,2,nugas,Tidak,-
-4.1,3,Tidak,2,3,kerja,Tidak,nyaman
-5.1,1,Tidak,2,5,masak,Ya,sakit kepala
-7.3,2,Ya,2,4,scroll hp,Tidak,banyak tugas
-6.5,5,Ya,2,1,scroll hp,Ya,-
-6.6,5,Tidak,2,2,nugas,Tidak,mimpi buruk
-5.9,1,Tidak,2,5,scroll hp,Tidak,banyak tugas
-7.6,1,Tidak,2,5,nugas,Tidak,mimpi buruk
-6.2,4,Ya,2,3,scroll hp,Ya,sakit kepala
-6.8,5,Ya,2,1,kerja,Tidak,mimpi buruk
-4.5,5,Tidak,2,0,masak,Tidak,sakit kepala
-6.9,1,Ya,2,5,nugas,Tidak,nyaman
-4.9,2,Tidak,2,1,jalan-jalan,Tidak,banyak tugas
-5.3,5,Ya,2,0,jalan-jalan,Tidak,nyaman
-7.3,5,Ya,2,1,scroll hp,Tidak,nyaman
-5.0,5,Ya,2,1,masak,Ya,-
-5.9,0,Tidak,2,5,nugas,Ya,banyak tugas
-4.6,0,Tidak,2,4,olahraga,Ya,sakit kepala
-6.0,5,Ya,2,1,masak,Tidak,sakit kepala
-5.5,0,Ya,2,5,kerja,Ya,banyak tugas
-7.4,2,Tidak,2,5,nugas,Ya,nyaman
-6.2,2,Tidak,2,2,masak,Tidak,mimpi buruk
-5.4,2,Tidak,2,4,nugas,Ya,sakit kepala
-5.6,2,Ya,2,3,olahraga,Tidak,nyaman
-4.2,2,Tidak,2,3,masak,Tidak,nyaman
-4.4,2,Tidak,2,3,olahraga,Ya,mimpi buruk
-6.2,3,Ya,2,1,masak,Tidak,mimpi buruk
-6.6,0,Ya,2,5,scroll hp,Tidak,-
-5.7,3,Tidak,2,3,scroll hp,Ya,mimpi buruk
-6.3,1,Ya,2,4,scroll hp,Tidak,sakit kepala
-5.9,5,Ya,2,1,masak,Tidak,sakit kepala
-6.2,0,Ya,2,5,nugas,Ya,nyaman
-5.3,0,Tidak,2,5,kerja,Tidak,-
-5.5,3,Ya,2,3,olahraga,Tidak,sakit kepala
-4.9,2,Tidak,2,2,olahraga,Ya,nyaman
-4.3,2,Tidak,2,3,masak,Tidak,sakit kepala
-4.8,5,Tidak,2,1,masak,Ya,sakit kepala
-6.3,5,Ya,2,0,jalan-jalan,Ya,banyak tugas
-7.6,3,Ya,2,4,nugas,Tidak,banyak tugas
-6.0,0,Tidak,2,5,kerja,Tidak,banyak tugas
-7.8,5,Ya,2,2,scroll hp,Tidak,nyaman
-5.7,3,Ya,2,1,jalan-jalan,Tidak,mimpi buruk
-4.6,3,Tidak,2,3,masak,Ya,mimpi buruk
-5.1,3,Ya,2,1,olahraga,Tidak,banyak tugas
-6.4,3,Tidak,2,2,scroll hp,Ya,mimpi buruk
-5.2,0,Tidak,2,5,olahraga,Ya,sakit kepala
-6.9,3,Tidak,2,3,scroll hp,Tidak,banyak tugas
-6.9,4,Tidak,2,3,scroll hp,Tidak,mimpi buruk
-6.1,4,Tidak,2,1,scroll hp,Ya,nyaman
-4.8,4,Tidak,2,0,jalan-jalan,Tidak,sakit kepala
-5.4,5,Ya,2,1,jalan-jalan,Ya,banyak tugas
-4.6,1,Ya,2,5,jalan-jalan,Ya,sakit kepala
-7.9,3,Ya,2,2,scroll hp,Ya,-
-6.9,5,Tidak,2,0,kerja,Ya,mimpi buruk
-4.9,5,Ya,2,1,masak,Ya,sakit kepala
-6.2,4,Tidak,2,2,kerja,Tidak,mimpi buruk
-6.2,4,Ya,2,2,nugas,Tidak,sakit kepala
-5.1,3,Tidak,2,2,jalan-jalan,Tidak,nyaman
-5.2,2,Ya,2,4,masak,Tidak,-
-5.3,3,Tidak,2,1,kerja,Ya,banyak tugas
-6.9,1,Tidak,2,5,nugas,Ya,mimpi buruk
-5.6,5,Ya,2,0,jalan-jalan,Tidak,nyaman
-5.6,5,Tidak,2,0,jalan-jalan,Ya,nyaman
-4.1,0,Tidak,2,4,kerja,Tidak,sakit kepala
-4.9,3,Tidak,2,2,jalan-jalan,Ya,mimpi buruk
-5.0,2,Tidak,2,5,masak,Ya,sakit kepala
-7.5,5,Ya,2,1,nugas,Tidak,-
-6.2,3,Tidak,2,1,masak,Tidak,banyak tugas
-4.7,2,Tidak,2,3,jalan-jalan,Ya,nyaman
-6.7,0,Ya,3,3,jalan-jalan,Tidak,sakit kepala
-6.0,5,Tidak,3,0,jalan-jalan,Tidak,nyaman
-7.2,0,Ya,3,5,scroll hp,Ya,mimpi buruk
-5.8,1,Tidak,3,5,scroll hp,Ya,banyak tugas
-4.1,0,Tidak,3,5,kerja,Ya,banyak tugas
-6.7,2,Tidak,3,3,masak,Tidak,nyaman
-7.2,2,Tidak,3,4,scroll hp,Ya,nyaman
-7.9,1,Tidak,3,5,scroll hp,Ya,nyaman
-7.1,2,Tidak,3,2,kerja,Tidak,mimpi buruk
-8.7,3,Ya,3,4,scroll hp,Ya,nyaman
-7.9,3,Ya,3,2,nugas,Ya,-
-5.7,0,Tidak,3,5,masak,Ya,nyaman
-7.2,0,Ya,3,5,scroll hp,Tidak,-
-7.9,1,Tidak,3,5,scroll hp,Ya,-
-6.7,5,Ya,3,1,nugas,Ya,mimpi buruk
-5.8,3,Ya,3,4,masak,Tidak,mimpi buruk
-7.0,4,Ya,3,3,nugas,Ya,nyaman
-8.7,0,Ya,3,5,scroll hp,Ya,sakit kepala
-7.0,0,Tidak,3,5,nugas,Tidak,sakit kepala
-5.6,4,Tidak,3,1,masak,Tidak,-
-8.1,3,Ya,3,3,scroll hp,Ya,banyak tugas
-4.8,3,Tidak,3,2,olahraga,Ya,-
-5.7,2,Tidak,3,4,kerja,Ya,sakit kepala
-8.7,2,Tidak,3,4,scroll hp,Tidak,banyak tugas
-7.2,1,Ya,3,2,olahraga,Tidak,sakit kepala
-6.8,3,Ya,3,2,kerja,Tidak,nyaman
-7.1,2,Ya,3,3,masak,Ya,nyaman
-5.4,3,Ya,3,2,kerja,Ya,nyaman
-7.3,2,Tidak,3,4,kerja,Tidak,banyak tugas
-6.1,3,Tidak,3,3,masak,Ya,mimpi buruk
-5.3,4,Ya,3,0,olahraga,Ya,sakit kepala
-5.4,0,Tidak,3,4,olahraga,Tidak,nyaman
-7.1,5,Tidak,3,0,jalan-jalan,Tidak,sakit kepala
-6.1,5,Tidak,3,0,kerja,Ya,nyaman
-5.9,4,Ya,3,2,masak,Tidak,nyaman
-7.3,1,Tidak,3,4,jalan-jalan,Tidak,mimpi buruk
-5.9,3,Tidak,3,2,jalan-jalan,Ya,banyak tugas
-6.2,3,Ya,3,3,kerja,Ya,-
-6.0,5,Ya,3,0,kerja,Ya,banyak tugas
-5.7,4,Ya,3,1,kerja,Ya,-
-7.2,2,Tidak,3,5,nugas,Tidak,banyak tugas
-6.4,2,Tidak,3,1,jalan-jalan,Tidak,mimpi buruk
-6.3,4,Ya,3,0,kerja,Ya,nyaman
-6.5,4,Ya,3,0,olahraga,Tidak,banyak tugas
-4.9,5,Tidak,3,1,kerja,Ya,sakit kepala
-6.3,1,Tidak,3,5,kerja,Ya,-
-8.9,0,Tidak,3,5,scroll hp,Tidak,sakit kepala
-5.7,1,Tidak,3,5,kerja,Tidak,mimpi buruk
-7.6,3,Ya,3,2,nugas,Tidak,banyak tugas
-6.8,1,Tidak,3,5,nugas,Ya,sakit kepala
-6.5,5,Tidak,3,0,olahraga,Ya,mimpi buruk
-8.0,1,Tidak,3,5,nugas,Tidak,sakit kepala
-4.9,1,Ya,3,5,kerja,Ya,sakit kepala
-8.8,2,Ya,3,3,nugas,Tidak,banyak tugas
-5.9,5,Tidak,3,0,jalan-jalan,Tidak,nyaman
-6.5,2,Ya,3,3,olahraga,Ya,nyaman
-8.1,1,Tidak,3,5,nugas,Ya,-
-8.2,0,Ya,3,5,nugas,Tidak,mimpi buruk
-6.6,1,Ya,3,5,scroll hp,Ya,nyaman
-8.4,5,Tidak,3,2,nugas,Ya,banyak tugas
-7.2,4,Tidak,3,1,nugas,Tidak,sakit kepala
-8.1,4,Tidak,3,3,scroll hp,Tidak,nyaman
-6.1,2,Ya,3,3,olahraga,Ya,sakit kepala
-8.6,1,Tidak,3,4,scroll hp,Tidak,-
-7.0,4,Tidak,3,2,scroll hp,Tidak,mimpi buruk
-6.1,0,Ya,3,5,kerja,Tidak,-
-8.3,4,Tidak,3,3,scroll hp,Tidak,mimpi buruk
-4.9,5,Tidak,3,0,masak,Ya,mimpi buruk
-5.1,2,Ya,3,5,kerja,Ya,sakit kepala
-5.9,5,Ya,3,1,kerja,Ya,mimpi buruk
-7.0,2,Ya,3,3,kerja,Ya,-
-7.8,4,Tidak,3,2,scroll hp,Ya,-
-7.0,4,Ya,3,3,scroll hp,Ya,nyaman
-6.4,0,Ya,3,4,jalan-jalan,Ya,-
-6.9,3,Ya,3,3,nugas,Ya,sakit kepala
-6.1,0,Tidak,3,5,kerja,Ya,nyaman
-8.9,5,Ya,3,1,nugas,Ya,sakit kepala
-6.0,0,Ya,3,5,masak,Ya,sakit kepala
-6.6,0,Ya,3,5,masak,Tidak,-
-4.8,3,Tidak,3,3,masak,Ya,nyaman
-5.7,3,Tidak,3,0,olahraga,Tidak,-
-6.5,2,Tidak,3,2,jalan-jalan,Tidak,banyak tugas
-7.1,2,Ya,3,3,kerja,Tidak,-
-8.7,4,Tidak,3,1,scroll hp,Ya,sakit kepala
-7.7,1,Tidak,3,5,scroll hp,Ya,sakit kepala
-6.3,0,Tidak,3,4,jalan-jalan,Ya,mimpi buruk
-7.1,1,Ya,3,5,scroll hp,Ya,nyaman
-6.5,0,Tidak,3,4,kerja,Tidak,sakit kepala
-7.2,4,Ya,3,2,nugas,Tidak,banyak tugas
-5.9,4,Tidak,3,0,olahraga,Tidak,-
-6.0,2,Tidak,3,4,olahraga,Ya,banyak tugas
-7.6,0,Tidak,3,5,scroll hp,Ya,mimpi buruk
-6.0,0,Ya,3,4,jalan-jalan,Tidak,sakit kepala
-8.1,0,Ya,3,5,nugas,Tidak,nyaman
-7.5,2,Tidak,3,5,scroll hp,Tidak,-
-5.4,1,Tidak,3,4,kerja,Tidak,sakit kepala
-7.3,4,Ya,3,3,nugas,Ya,nyaman
-5.9,4,Ya,3,2,masak,Tidak,sakit kepala
-6.4,1,Tidak,3,5,kerja,Ya,mimpi buruk
-6.1,1,Tidak,3,5,scroll hp,Ya,banyak tugas
-6.6,4,Tidak,4,1,kerja,Tidak,nyaman
-6.9,5,Ya,4,1,masak,Ya,banyak tugas
-7.7,2,Tidak,4,2,olahraga,Ya,sakit kepala
-7.7,4,Tidak,4,1,olahraga,Tidak,nyaman
-8.6,0,Ya,4,5,nugas,Tidak,sakit kepala
-8.9,4,Ya,4,0,kerja,Tidak,banyak tugas
-7.2,2,Ya,4,2,olahraga,Ya,sakit kepala
-7.3,0,Tidak,4,4,jalan-jalan,Ya,banyak tugas
-5.7,0,Tidak,4,4,olahraga,Tidak,-
-7.9,0,Ya,4,4,jalan-jalan,Tidak,banyak tugas
-6.0,5,Tidak,4,0,jalan-jalan,Tidak,-
-8.0,1,Ya,4,3,masak,Tidak,mimpi buruk
-5.7,1,Tidak,4,4,jalan-jalan,Ya,nyaman
-6.5,4,Ya,4,3,kerja,Tidak,sakit kepala
-7.5,0,Ya,4,5,nugas,Ya,banyak tugas
-6.8,1,Ya,4,4,olahraga,Tidak,-
-6.9,5,Tidak,4,0,kerja,Tidak,nyaman
-6.2,3,Tidak,4,2,masak,Ya,nyaman
-8.3,4,Ya,4,3,scroll hp,Tidak,sakit kepala
-8.0,2,Tidak,4,2,jalan-jalan,Tidak,banyak tugas
-6.1,4,Ya,4,1,olahraga,Ya,nyaman
-8.1,5,Tidak,4,1,nugas,Ya,banyak tugas
-7.4,0,Tidak,4,5,kerja,Tidak,nyaman
-8.7,1,Tidak,4,5,nugas,Tidak,sakit kepala
-7.1,1,Ya,4,5,scroll hp,Ya,mimpi buruk
-7.7,0,Ya,4,4,jalan-jalan,Tidak,sakit kepala
-6.0,0,Tidak,4,3,jalan-jalan,Tidak,nyaman
-6.9,0,Tidak,4,5,masak,Ya,-
-8.3,4,Ya,4,1,scroll hp,Ya,-
-8.1,3,Tidak,4,2,olahraga,Tidak,nyaman
-7.3,3,Tidak,4,2,olahraga,Tidak,-
-6.6,1,Tidak,4,3,jalan-jalan,Tidak,banyak tugas
-7.2,0,Tidak,4,4,jalan-jalan,Tidak,mimpi buruk
-8.2,2,Ya,4,4,scroll hp,Ya,nyaman
-5.7,2,Tidak,4,2,olahraga,Tidak,banyak tugas
-6.0,4,Ya,4,0,jalan-jalan,Tidak,sakit kepala
-7.4,2,Ya,4,5,nugas,Ya,nyaman
-7.4,4,Ya,4,0,jalan-jalan,Tidak,sakit kepala
-7.2,4,Tidak,4,1,jalan-jalan,Ya,nyaman
-8.8,1,Ya,4,4,nugas,Tidak,-
-6.2,0,Tidak,4,5,jalan-jalan,Ya,sakit kepala
-6.3,3,Tidak,4,2,masak,Tidak,banyak tugas
-5.4,0,Tidak,4,5,olahraga,Ya,-
-7.2,2,Ya,4,3,jalan-jalan,Tidak,-
-8.6,2,Tidak,4,4,nugas,Tidak,banyak tugas
-6.9,2,Ya,4,5,nugas,Ya,banyak tugas
-8.1,1,Ya,4,4,scroll hp,Tidak,-
-8.4,1,Tidak,4,3,kerja,Tidak,sakit kepala
-6.9,0,Tidak,4,5,masak,Tidak,-
-6.9,0,Ya,4,5,kerja,Tidak,mimpi buruk
-6.1,0,Tidak,4,5,masak,Ya,nyaman
-7.5,5,Tidak,4,0,kerja,Ya,banyak tugas
-7.8,3,Ya,4,1,masak,Ya,banyak tugas
-8.1,0,Ya,4,5,olahraga,Ya,-
-7.9,3,Tidak,4,1,olahraga,Ya,nyaman
-8.3,1,Tidak,4,4,nugas,Tidak,sakit kepala
-7.2,2,Ya,4,3,jalan-jalan,Tidak,banyak tugas
-8.5,4,Tidak,4,0,kerja,Ya,nyaman
-8.1,0,Tidak,4,5,olahraga,Ya,sakit kepala
-8.4,4,Tidak,4,0,kerja,Ya,mimpi buruk
-5.6,0,Tidak,4,4,olahraga,Ya,nyaman
-7.9,0,Ya,4,5,jalan-jalan,Ya,mimpi buruk
-7.5,5,Tidak,4,1,kerja,Ya,nyaman
-7.1,0,Tidak,4,5,jalan-jalan,Ya,banyak tugas
-8.2,1,Tidak,4,5,nugas,Tidak,banyak tugas
-6.0,1,Ya,4,4,jalan-jalan,Ya,sakit kepala
-6.5,2,Ya,4,2,masak,Tidak,banyak tugas
-7.8,5,Tidak,4,0,olahraga,Ya,mimpi buruk
-7.9,1,Tidak,4,4,masak,Tidak,sakit kepala
-8.1,1,Ya,4,5,kerja,Tidak,mimpi buruk
-9.0,2,Tidak,4,5,nugas,Ya,sakit kepala
-6.2,1,Tidak,4,4,jalan-jalan,Ya,nyaman
-7.0,1,Tidak,4,4,jalan-jalan,Tidak,mimpi buruk
-7.9,3,Ya,4,1,masak,Ya,sakit kepala
-7.3,5,Tidak,4,0,olahraga,Tidak,-
-9.0,4,Tidak,4,3,scroll hp,Tidak,nyaman
-7.0,1,Ya,4,5,nugas,Ya,mimpi buruk
-7.5,3,Tidak,4,2,kerja,Tidak,sakit kepala
-5.3,4,Tidak,4,2,masak,Ya,mimpi buruk
-7.9,0,Tidak,4,4,olahraga,Tidak,mimpi buruk
-8.7,4,Ya,4,2,scroll hp,Ya,mimpi buruk
-7.2,3,Tidak,4,2,olahraga,Ya,-
-6.6,4,Ya,4,1,jalan-jalan,Ya,mimpi buruk
-8.2,0,Ya,4,5,scroll hp,Tidak,nyaman
-6.5,1,Ya,4,4,kerja,Ya,mimpi buruk
-6.5,0,Tidak,4,5,kerja,Ya,sakit kepala
-8.2,2,Ya,4,5,nugas,Tidak,-
-8.8,2,Tidak,4,3,nugas,Tidak,sakit kepala
-8.2,0,Tidak,4,5,scroll hp,Tidak,-
-8.2,4,Ya,4,1,scroll hp,Ya,mimpi buruk
-7.3,5,Ya,4,1,scroll hp,Ya,-
-6.0,5,Tidak,4,2,kerja,Ya,banyak tugas
-7.5,0,Ya,4,5,nugas,Tidak,banyak tugas
-8.8,2,Ya,4,5,nugas,Ya,banyak tugas
-7.3,1,Ya,4,3,masak,Tidak,sakit kepala
-7.6,0,Ya,4,4,jalan-jalan,Ya,-
-7.1,5,Ya,4,0,jalan-jalan,Tidak,-
-8.0,4,Tidak,4,0,olahraga,Tidak,banyak tugas
-6.2,1,Ya,4,4,masak,Ya,mimpi buruk
-8.3,2,Ya,4,3,nugas,Tidak,sakit kepala
-7.7,3,Ya,5,0,olahraga,Ya,sakit kepala
-6.9,0,Tidak,5,5,jalan-jalan,Ya,nyaman
-8.3,4,Tidak,5,3,kerja,Ya,mimpi buruk
-6.7,0,Ya,5,4,olahraga,Tidak,mimpi buruk
-7.6,2,Ya,5,5,nugas,Ya,nyaman
-8.8,5,Ya,5,0,masak,Tidak,banyak tugas
-7.9,4,Tidak,5,0,olahraga,Ya,-
-8.5,5,Ya,5,0,olahraga,Ya,-
-7.6,4,Ya,5,3,kerja,Ya,sakit kepala
-8.4,0,Ya,5,4,olahraga,Tidak,nyaman
-8.5,2,Ya,5,5,kerja,Ya,-
-6.7,2,Tidak,5,3,jalan-jalan,Ya,mimpi buruk
-8.0,2,Ya,5,2,jalan-jalan,Tidak,nyaman
-6.6,4,Ya,5,1,masak,Ya,mimpi buruk
-8.5,4,Tidak,5,0,masak,Tidak,mimpi buruk
-8.7,1,Ya,5,4,masak,Ya,mimpi buruk
-8.6,1,Tidak,5,2,jalan-jalan,Tidak,-
-9.0,2,Ya,5,4,olahraga,Ya,sakit kepala
-7.4,5,Ya,5,2,kerja,Ya,-
-6.6,1,Ya,5,3,masak,Tidak,mimpi buruk
-8.5,1,Ya,5,5,kerja,Ya,mimpi buruk
-8.0,2,Ya,5,1,jalan-jalan,Tidak,-
-7.5,3,Ya,5,2,kerja,Ya,banyak tugas
-8.5,1,Tidak,5,4,olahraga,Ya,nyaman
-8.3,4,Ya,5,1,masak,Ya,nyaman
-7.5,2,Ya,5,3,masak,Ya,mimpi buruk
-8.2,3,Ya,5,1,olahraga,Tidak,sakit kepala
-8.6,5,Tidak,5,0,jalan-jalan,Ya,nyaman
-8.7,0,Ya,5,5,masak,Ya,banyak tugas
-7.3,2,Tidak,5,3,masak,Ya,sakit kepala
-8.5,5,Ya,5,0,jalan-jalan,Ya,sakit kepala
-7.7,2,Ya,5,2,olahraga,Ya,-
-8.2,0,Tidak,5,5,masak,Ya,mimpi buruk
-8.8,0,Ya,5,5,nugas,Ya,nyaman
-8.9,2,Tidak,5,3,masak,Tidak,-
-5.7,2,Tidak,5,2,olahraga,Ya,mimpi buruk
-7.8,2,Ya,5,2,jalan-jalan,Tidak,mimpi buruk
-7.4,5,Tidak,5,0,olahraga,Tidak,sakit kepala
-7.3,1,Tidak,5,5,jalan-jalan,Ya,sakit kepala
-7.5,5,Ya,5,0,jalan-jalan,Tidak,-
-8.1,4,Tidak,5,3,nugas,Ya,-
-7.3,0,Ya,5,4,jalan-jalan,Ya,nyaman
-5.9,0,Tidak,5,4,jalan-jalan,Ya,-
-7.5,2,Tidak,5,3,masak,Ya,sakit kepala
-8.6,5,Tidak,5,0,masak,Tidak,nyaman
-8.2,1,Tidak,5,4,masak,Tidak,banyak tugas
-8.0,4,Tidak,5,0,kerja,Tidak,-
-7.9,0,Tidak,5,4,jalan-jalan,Ya,nyaman
-7.9,4,Tidak,5,1,jalan-jalan,Ya,sakit kepala
-6.2,1,Ya,5,4,olahraga,Ya,nyaman
-8.7,0,Tidak,5,4,olahraga,Tidak,sakit kepala
-6.4,3,Tidak,5,0,jalan-jalan,Ya,banyak tugas
-7.4,1,Tidak,5,4,kerja,Tidak,mimpi buruk
-7.6,1,Tidak,5,5,masak,Ya,mimpi buruk
-8.1,3,Ya,5,1,masak,Ya,banyak tugas
-7.2,1,Ya,5,4,kerja,Ya,nyaman
-7.6,3,Tidak,5,2,jalan-jalan,Ya,banyak tugas
-8.5,5,Tidak,5,1,kerja,Ya,banyak tugas
-8.5,1,Tidak,5,5,kerja,Ya,banyak tugas
-8.3,1,Tidak,5,4,jalan-jalan,Tidak,sakit kepala
-8.2,4,Ya,5,0,olahraga,Tidak,mimpi buruk
-7.3,0,Ya,5,4,olahraga,Tidak,-
-5.7,3,Tidak,5,2,jalan-jalan,Ya,mimpi buruk
-6.5,5,Tidak,5,1,kerja,Ya,nyaman
-8.9,1,Tidak,5,5,masak,Tidak,sakit kepala
-9.0,5,Ya,5,0,olahraga,Tidak,mimpi buruk
-5.7,4,Tidak,5,1,olahraga,Ya,sakit kepala
-7.7,3,Tidak,5,2,masak,Ya,mimpi buruk
-7.9,4,Ya,5,1,masak,Ya,nyaman
-8.8,0,Ya,5,5,masak,Ya,-
-8.4,3,Ya,5,1,masak,Tidak,sakit kepala
-7.5,5,Tidak,5,0,jalan-jalan,Tidak,banyak tugas
-6.6,5,Tidak,5,1,masak,Tidak,sakit kepala
-6.7,2,Ya,5,2,jalan-jalan,Tidak,banyak tugas
-8.8,4,Tidak,5,1,jalan-jalan,Ya,mimpi buruk
-8.2,4,Ya,5,1,olahraga,Tidak,nyaman
-8.3,5,Ya,5,0,jalan-jalan,Tidak,banyak tugas
-7.3,1,Ya,5,3,masak,Tidak,sakit kepala
-8.6,3,Ya,5,1,masak,Ya,banyak tugas
-8.6,1,Ya,5,4,masak,Ya,mimpi buruk
-8.1,2,Tidak,5,3,olahraga,Tidak,banyak tugas
-6.8,2,Tidak,5,3,kerja,Tidak,nyaman
-5.7,2,Tidak,5,4,olahraga,Ya,-
-7.1,2,Tidak,5,3,olahraga,Ya,-
-7.8,2,Tidak,5,5,masak,Ya,sakit kepala
-6.7,2,Ya,5,4,olahraga,Ya,mimpi buruk
-7.4,2,Tidak,5,3,jalan-jalan,Ya,sakit kepala
-8.9,5,Tidak,5,0,masak,Ya,sakit kepala
-6.4,1,Ya,5,4,masak,Ya,mimpi buruk
-7.7,5,Tidak,5,0,masak,Ya,nyaman
-8.8,0,Tidak,5,5,jalan-jalan,Ya,sakit kepala
-8.6,5,Tidak,5,1,kerja,Ya,-
-8.5,5,Tidak,5,0,olahraga,Tidak,sakit kepala
-6.4,3,Tidak,5,1,masak,Ya,mimpi buruk
-8.4,5,Ya,5,0,masak,Ya,nyaman
-8.8,2,Ya,5,3,olahraga,Ya,sakit kepala
-8.0,3,Ya,5,3,masak,Tidak,sakit kepala
-8.7,0,Tidak,5,5,kerja,Tidak,mimpi buruk
-8.2,3,Tidak,5,3,kerja,Ya,banyak tugas
-6.8,4,Ya,5,1,olahraga,Tidak,sakit kepala
+Jam Tidur,Kualitas Tidur,Bergadang,Kafein,Frekuensi Makan,Konsumsi Air,Screen Time,Aktivitas,Catatan,Mood,Stress Level
+4.0,1,Tidak,Ya,4,1.3,6.6,scroll hp,banyak tugas,0,4
+4.3,1,Tidak,Tidak,2,0.9,9.2,dating,sial,0,4
+4.6,0,Ya,Ya,4,1.4,9.5,olahraga,sakit perut,0,4
+4.0,2,Tidak,Tidak,3,2.8,9.5,scroll hp,-,0,3
+5.6,0,Ya,Ya,2,2.4,8.5,nugas,gajian,0,4
+4.2,1,Tidak,Tidak,5,0.5,7.5,jalan-jalan,ketiban sial,0,4
+4.1,1,Ya,Ya,4,0.5,4.7,nugas,kena sial,0,4
+7.7,0,Tidak,Ya,4,0.6,7.8,nugas,mual,0,4
+4.8,0,Tidak,Tidak,1,0.6,8.1,scroll hp,banyak tugas,0,4
+4.9,1,Ya,Tidak,4,1.2,8.5,olahraga,galau,0,4
+4.5,1,Ya,Tidak,5,2.7,7.5,scroll hp,diputusin,0,4
+4.7,0,Tidak,Ya,1,0.7,7.9,dating,sakit hati,0,4
+4.1,1,Ya,Ya,5,2.9,8.6,dating,kena sial,0,4
+4.7,3,Tidak,Tidak,1,3.2,7.8,nugas,ketiban sial,0,4
+5.0,0,Ya,Tidak,1,1.2,8.7,masak,-,0,4
+4.8,2,Ya,Ya,2,1.7,6.1,dating,sial,0,4
+5.1,2,Ya,Tidak,3,0.9,8.0,kerja,sakit perut,0,4
+4.2,3,Ya,Tidak,3,1.0,9.9,masak,mimpi buruk,0,4
+4.6,2,Ya,Ya,2,1.7,3.6,scroll hp,mual,0,4
+4.6,0,Tidak,Tidak,2,1.3,8.6,nugas,-,0,4
+6.8,0,Ya,Tidak,2,1.7,7.1,nugas,diputusin,0,4
+5.0,0,Tidak,Ya,1,2.0,8.0,nugas,mimpi buruk,0,4
+4.0,1,Ya,Ya,1,1.4,6.5,olahraga,sakit gigi,0,4
+5.5,3,Ya,Ya,5,0.9,6.9,nugas,kena sial,0,4
+4.1,4,Ya,Ya,1,1.3,3.5,nugas,sakit kepala,0,4
+4.6,2,Ya,Tidak,2,1.8,9.4,masak,ketiban sial,0,4
+4.4,0,Ya,Ya,1,1.6,9.2,dating,mimpi buruk,0,4
+4.2,1,Tidak,Tidak,1,0.9,6.0,masak,diputusin,0,4
+4.3,4,Ya,Tidak,4,2.6,6.7,nugas,kena sial,0,4
+4.9,0,Tidak,Ya,1,1.0,6.3,scroll hp,dapat gaji,0,4
+4.1,1,Tidak,Ya,3,0.7,4.9,scroll hp,ketiban sial,0,4
+5.2,1,Ya,Tidak,1,2.5,7.7,kerja,kena sial,0,4
+4.8,2,Ya,Ya,2,0.5,7.6,nugas,mimpi buruk,0,4
+4.9,4,Ya,Tidak,1,0.9,6.5,kerja,galau,0,4
+4.5,0,Tidak,Tidak,2,2.8,7.0,masak,mual,0,4
+4.1,0,Ya,Ya,1,2.4,7.8,scroll hp,galau,0,4
+5.5,1,Ya,Ya,1,0.7,7.0,jalan-jalan,kena sial,0,4
+4.8,3,Ya,Tidak,3,2.0,9.4,nugas,sakit gigi,0,4
+6.2,3,Tidak,Tidak,2,1.3,9.3,scroll hp,mual,0,4
+4.3,1,Ya,Ya,1,0.9,6.2,scroll hp,gajian,0,4
+4.1,1,Ya,Tidak,2,2.5,8.3,dating,sakit hati,0,4
+4.4,1,Ya,Ya,3,2.1,8.5,masak,sakit kepala,0,4
+4.1,4,Tidak,Tidak,4,1.5,8.0,nugas,sial,0,4
+5.0,0,Ya,Tidak,2,3.1,9.5,scroll hp,gajian,0,4
+4.8,0,Ya,Ya,2,0.5,9.9,kencan,dapat uang,0,4
+4.0,1,Ya,Ya,5,0.8,9.9,jalan-jalan,gajian,0,4
+5.7,4,Ya,Ya,4,0.8,8.4,scroll hp,kena sial,0,4
+6.1,2,Ya,Ya,1,1.7,9.6,nugas,sial,0,4
+4.9,0,Ya,Tidak,5,0.9,6.4,kerja,jadian,0,4
+5.0,0,Ya,Tidak,1,1.9,4.7,nugas,mual,0,4
+4.0,3,Ya,Tidak,4,0.8,8.7,kerja,galau,0,4
+5.8,1,Ya,Ya,1,2.8,9.8,nugas,sakit hati,0,4
+5.1,1,Ya,Tidak,1,0.9,8.2,nugas,sial,0,4
+6.1,0,Tidak,Ya,2,0.9,9.7,scroll hp,sakit perut,0,4
+4.9,1,Tidak,Ya,2,0.8,9.8,dating,kena sial,0,4
+4.7,0,Ya,Tidak,1,0.5,7.0,scroll hp,diputusin,0,4
+4.0,0,Ya,Ya,3,0.8,3.6,olahraga,sakit hati,0,4
+4.7,2,Ya,Tidak,1,3.3,6.9,nugas,banyak tugas,0,4
+4.1,5,Ya,Tidak,4,0.7,7.7,hobi,sakit perut,0,3
+6.5,1,Ya,Ya,1,3.1,9.1,scroll hp,mual,0,4
+4.1,0,Tidak,Ya,5,0.5,5.3,nugas,sakit kepala,0,4
+4.2,1,Tidak,Tidak,5,1.2,8.5,dating,diputusin,0,4
+7.2,0,Ya,Ya,1,3.1,9.8,nugas,kena sial,0,4
+5.4,3,Ya,Tidak,3,3.4,9.8,nugas,sakit hati,0,4
+4.5,1,Ya,Tidak,2,2.2,6.1,jalan-jalan,kena sial,0,4
+5.2,0,Ya,Tidak,2,1.1,6.5,masak,diputusin,0,4
+5.5,4,Ya,Ya,2,2.2,8.9,scroll hp,kena sial,0,4
+4.7,0,Tidak,Ya,3,0.6,8.9,olahraga,banyak tugas,0,4
+4.2,1,Ya,Tidak,2,1.8,6.5,nugas,sakit hati,0,4
+4.9,3,Ya,Ya,2,1.1,7.0,masak,kena sial,0,4
+6.2,3,Ya,Ya,3,0.9,6.8,nugas,mual,0,4
+6.8,2,Ya,Tidak,1,0.8,6.2,nugas,kena sial,0,4
+5.5,2,Ya,Ya,2,1.9,3.2,scroll hp,sakit kepala,0,4
+4.4,0,Ya,Ya,4,1.2,7.6,olahraga,mimpi buruk,0,4
+4.8,4,Ya,Tidak,2,1.7,6.8,nugas,ketiban sial,0,4
+4.8,0,Tidak,Tidak,1,1.1,8.1,kerja,sakit gigi,0,4
+4.8,2,Tidak,Tidak,2,2.5,8.2,nugas,galau,0,4
+7.5,1,Tidak,Tidak,2,1.2,7.9,scroll hp,sakit gigi,0,4
+4.7,1,Ya,Ya,2,3.4,9.8,kencan,-,0,4
+4.2,0,Tidak,Tidak,1,1.6,6.1,hobi,galau,0,4
+6.3,2,Tidak,Tidak,2,0.8,8.9,hobi,mimpi buruk,0,4
+4.9,4,Ya,Ya,2,0.7,7.8,scroll hp,banyak tugas,0,4
+4.6,3,Tidak,Ya,3,0.6,9.7,scroll hp,dapat uang,0,3
+4.2,5,Ya,Ya,1,1.8,7.6,nugas,sakit hati,0,4
+5.7,5,Ya,Tidak,3,1.7,9.2,scroll hp,mimpi buruk,0,4
+5.3,1,Ya,Ya,1,3.3,9.7,scroll hp,sial,0,4
+5.7,4,Ya,Tidak,4,0.6,9.7,scroll hp,ketiban sial,0,4
+5.2,0,Ya,Ya,5,0.5,6.3,nugas,nyaman,0,4
+6.2,1,Ya,Tidak,5,0.8,7.3,kerja,sakit kepala,0,4
+4.5,0,Ya,Tidak,4,0.5,3.7,dating,sakit kepala,0,4
+5.3,0,Ya,Tidak,2,3.2,4.7,scroll hp,ketiban sial,0,4
+4.0,0,Ya,Tidak,5,3.3,7.0,olahraga,mual,0,4
+4.9,1,Ya,Ya,5,3.5,7.6,nugas,kena sial,0,4
+4.6,2,Ya,Tidak,5,0.8,7.7,masak,sial,0,4
+4.5,4,Tidak,Tidak,4,1.0,9.5,nugas,mimpi buruk,0,4
+5.0,0,Ya,Ya,1,1.4,5.0,scroll hp,mimpi buruk,0,4
+4.1,0,Tidak,Tidak,3,1.2,6.2,nugas,kena sial,0,4
+4.9,0,Ya,Tidak,2,1.7,7.7,olahraga,mual,0,4
+4.8,1,Ya,Ya,2,2.3,7.3,masak,sakit hati,0,4
+4.3,2,Tidak,Tidak,1,1.8,8.3,kencan,kena sial,0,4
+4.1,0,Tidak,Ya,4,0.6,3.3,scroll hp,sakit hati,0,4
+4.8,5,Tidak,Ya,1,0.9,9.4,kerja,sakit gigi,0,4
+5.1,0,Ya,Ya,2,2.8,7.7,masak,sial,0,4
+4.1,5,Ya,Tidak,2,1.7,9.6,scroll hp,-,0,4
+7.0,0,Tidak,Ya,4,0.6,9.3,kerja,sakit hati,0,4
+5.1,1,Tidak,Tidak,2,1.4,5.4,scroll hp,sial,0,4
+4.1,1,Ya,Tidak,1,3.0,8.4,kerja,diputusin,0,4
+5.2,3,Ya,Tidak,5,1.0,7.0,scroll hp,sakit perut,0,4
+4.6,0,Tidak,Tidak,2,1.7,9.8,hobi,kena sial,0,4
+4.4,0,Ya,Ya,4,3.1,9.6,scroll hp,galau,0,4
+4.5,0,Ya,Ya,5,2.2,9.8,kerja,sakit hati,0,4
+4.1,1,Ya,Ya,5,2.0,7.7,dating,sakit perut,0,4
+5.2,3,Ya,Tidak,1,1.6,7.7,masak,sakit kepala,0,4
+5.2,1,Ya,Ya,3,1.0,9.1,nugas,banyak tugas,0,4
+4.2,0,Tidak,Ya,4,0.9,9.2,scroll hp,dapat uang,0,4
+4.5,2,Ya,Tidak,2,2.3,9.5,scroll hp,bahagia,0,4
+4.4,1,Tidak,Tidak,2,1.3,7.3,dating,ketiban sial,0,4
+4.2,4,Ya,Tidak,2,1.6,7.4,nugas,-,0,4
+4.0,0,Ya,Tidak,2,2.7,7.0,kerja,banyak tugas,0,4
+4.4,3,Ya,Tidak,2,1.5,9.9,nugas,mual,0,4
+5.3,3,Ya,Tidak,1,2.9,9.8,scroll hp,banyak tugas,0,4
+6.0,0,Tidak,Tidak,4,1.8,8.0,scroll hp,-,0,4
+4.2,0,Ya,Tidak,1,0.7,3.9,kerja,dapat uang,0,4
+4.5,4,Tidak,Tidak,2,0.9,4.8,scroll hp,sakit gigi,0,4
+6.0,1,Ya,Tidak,2,0.8,7.1,scroll hp,bahagia,0,4
+6.2,2,Ya,Tidak,5,0.8,9.1,nugas,galau,0,4
+5.1,5,Ya,Tidak,1,0.6,8.5,kencan,mual,0,4
+6.1,0,Tidak,Tidak,2,2.7,9.5,nugas,ketiban sial,0,4
+4.6,0,Tidak,Tidak,3,0.8,6.8,dating,diputusin,0,4
+5.2,5,Ya,Ya,2,1.2,9.4,nugas,galau,0,4
+5.2,0,Tidak,Tidak,1,0.6,9.2,hobi,ketiban sial,0,4
+6.5,0,Tidak,Ya,1,1.9,6.4,scroll hp,mual,0,4
+4.6,3,Ya,Ya,1,1.8,6.0,nugas,-,0,4
+4.7,2,Tidak,Ya,5,0.9,7.1,scroll hp,diputusin,0,4
+4.0,1,Tidak,Tidak,2,0.8,2.8,scroll hp,kena sial,0,4
+4.7,0,Ya,Ya,2,2.1,7.8,hobi,ketiban sial,0,4
+4.1,2,Tidak,Ya,4,0.8,7.4,hobi,kena sial,0,4
+4.3,2,Ya,Tidak,5,0.9,8.4,masak,sakit hati,0,4
+4.9,2,Ya,Ya,4,1.5,7.8,scroll hp,banyak tugas,0,4
+4.6,2,Tidak,Ya,2,0.6,4.2,scroll hp,sakit gigi,0,4
+5.8,3,Ya,Ya,2,0.6,8.0,scroll hp,sial,0,4
+4.1,5,Ya,Ya,3,0.8,6.2,scroll hp,ketiban sial,0,4
+7.6,0,Tidak,Ya,5,0.5,9.0,nugas,sakit kepala,0,4
+4.0,0,Tidak,Tidak,1,0.6,6.0,hobi,-,0,4
+4.0,2,Tidak,Tidak,4,0.7,6.1,dating,galau,0,4
+5.6,0,Tidak,Tidak,5,0.6,7.8,olahraga,sakit gigi,0,4
+4.4,3,Ya,Ya,4,2.0,8.1,nugas,sial,0,4
+4.3,0,Ya,Tidak,1,2.9,8.5,nugas,nyaman,0,4
+4.2,4,Tidak,Tidak,5,1.3,8.5,nugas,mual,0,4
+5.7,2,Ya,Tidak,1,1.7,8.4,kencan,sial,0,4
+4.7,5,Ya,Ya,5,0.9,7.3,nugas,galau,0,4
+4.5,0,Ya,Tidak,3,0.8,2.6,nugas,kena sial,0,4
+4.6,0,Ya,Tidak,4,1.3,8.3,kencan,ketiban sial,0,4
+6.6,0,Ya,Tidak,2,0.6,7.9,nugas,sakit gigi,0,4
+5.2,4,Tidak,Tidak,1,1.5,8.0,nugas,galau,0,4
+5.3,3,Tidak,Tidak,1,1.0,9.2,scroll hp,galau,0,4
+4.0,0,Ya,Tidak,5,2.7,9.2,kerja,mimpi buruk,0,4
+5.4,1,Ya,Ya,4,0.8,8.3,kerja,sakit hati,0,4
+4.4,1,Ya,Tidak,3,1.1,6.9,olahraga,sakit gigi,0,4
+4.9,2,Ya,Ya,2,1.4,9.1,scroll hp,diputusin,0,4
+4.9,4,Tidak,Ya,1,2.4,8.7,nugas,sakit gigi,0,4
+4.0,2,Ya,Tidak,4,1.3,7.5,jalan-jalan,sakit kepala,0,4
+6.0,4,Ya,Tidak,4,0.8,8.2,scroll hp,sakit perut,0,4
+4.3,2,Ya,Ya,1,1.7,5.8,scroll hp,sakit gigi,0,4
+4.7,0,Ya,Ya,2,2.5,8.8,masak,galau,0,4
+7.3,2,Ya,Tidak,4,0.9,7.9,nugas,galau,0,4
+5.3,2,Ya,Tidak,1,2.3,7.4,kerja,mual,0,4
+4.4,1,Tidak,Tidak,5,0.9,9.5,jalan-jalan,diputusin,0,4
+4.9,1,Ya,Ya,2,2.6,7.2,jalan-jalan,ketiban sial,0,4
+5.6,2,Ya,Tidak,3,0.7,9.3,kencan,sakit gigi,0,4
+5.8,0,Tidak,Ya,2,0.7,7.6,hobi,ketiban sial,0,4
+5.7,3,Ya,Ya,1,1.9,8.8,olahraga,sakit perut,0,4
+4.7,1,Ya,Tidak,3,0.7,7.4,kencan,mual,0,4
+6.8,1,Ya,Tidak,4,1.1,8.9,nugas,galau,0,4
+4.3,2,Ya,Tidak,1,1.3,8.2,dating,mual,0,4
+4.4,0,Ya,Tidak,2,0.9,5.3,nugas,mendapatkan gaji,0,4
+6.1,1,Tidak,Tidak,4,1.6,6.6,nugas,kena sial,0,4
+5.0,1,Ya,Tidak,5,1.4,7.6,nugas,senang,0,4
+4.7,1,Ya,Tidak,4,2.6,9.6,nugas,mual,0,4
+4.4,1,Tidak,Tidak,4,2.1,9.2,kerja,mimpi buruk,0,4
+5.6,3,Ya,Tidak,2,1.1,8.3,nugas,sial,0,4
+5.2,3,Ya,Tidak,5,1.2,7.7,scroll hp,ketiban sial,0,4
+5.0,1,Ya,Ya,5,2.8,8.6,nugas,sial,0,4
+4.4,0,Ya,Tidak,4,2.7,6.8,dating,galau,0,4
+5.4,0,Tidak,Ya,2,1.8,6.5,kerja,diputusin,0,4
+5.8,3,Tidak,Tidak,1,0.6,9.7,nugas,sakit perut,0,4
+7.6,0,Ya,Ya,3,0.8,7.8,nugas,mimpi buruk,0,4
+6.3,1,Ya,Tidak,1,1.2,9.0,kerja,sakit gigi,0,4
+5.3,1,Tidak,Ya,4,0.6,7.6,scroll hp,galau,0,4
+4.4,1,Tidak,Ya,4,1.7,8.6,scroll hp,sakit kepala,0,4
+4.5,0,Ya,Tidak,4,1.6,7.0,olahraga,banyak tugas,0,4
+5.6,2,Ya,Tidak,1,3.2,8.5,scroll hp,ketiban sial,0,4
+5.1,0,Ya,Ya,2,3.3,9.0,jalan-jalan,mual,0,4
+4.5,0,Ya,Tidak,5,2.8,8.0,olahraga,ketiban sial,0,4
+6.8,1,Tidak,Ya,4,0.7,8.6,nugas,kena sial,0,4
+5.6,0,Ya,Ya,2,2.4,6.8,scroll hp,-,0,4
+5.6,2,Tidak,Tidak,2,2.5,9.5,nugas,sakit gigi,0,4
+5.5,3,Ya,Ya,4,1.8,8.2,scroll hp,sial,0,4
+5.2,3,Tidak,Tidak,2,2.1,8.2,nugas,galau,0,4
+6.4,0,Tidak,Ya,1,0.7,6.8,nugas,banyak tugas,0,4
+5.7,3,Tidak,Ya,2,0.7,8.1,kerja,sakit perut,0,4
+5.2,0,Ya,Tidak,1,1.3,7.7,hobi,-,0,4
+6.6,2,Tidak,Tidak,2,1.5,8.5,nugas,sakit kepala,0,4
+4.8,3,Ya,Tidak,4,0.7,6.3,kencan,sial,0,4
+4.1,4,Tidak,Ya,1,1.8,8.5,nugas,sakit hati,0,4
+4.4,1,Ya,Tidak,2,2.9,8.7,jalan-jalan,sakit kepala,0,4
+5.4,0,Ya,Tidak,1,1.6,6.9,masak,diputusin,0,4
+4.7,0,Tidak,Tidak,4,1.0,8.5,olahraga,sakit perut,0,4
+5.1,0,Ya,Ya,1,3.1,6.1,kencan,sakit hati,0,4
+5.7,1,Ya,Tidak,3,0.7,6.8,hobi,kena sial,0,4
+6.6,0,Ya,Ya,2,0.5,3.4,nugas,mual,0,4
+5.9,0,Ya,Ya,1,1.3,10.0,nugas,sakit hati,0,4
+5.2,0,Ya,Tidak,5,1.4,9.9,kerja,sial,0,4
+5.2,0,Ya,Tidak,1,1.6,9.3,kencan,kena sial,0,4
+5.9,0,Ya,Ya,1,2.5,9.1,nugas,sakit gigi,0,4
+5.9,2,Ya,Ya,2,1.8,7.5,nugas,ketiban sial,0,4
+4.1,1,Tidak,Tidak,4,1.2,8.2,dating,sial,0,4
+4.4,3,Ya,Ya,2,0.9,8.6,masak,sakit gigi,0,4
+4.4,1,Ya,Ya,2,3.4,9.8,nugas,sakit perut,0,4
+4.1,0,Tidak,Tidak,5,2.1,9.4,hobi,sakit hati,0,4
+4.7,4,Ya,Tidak,4,1.7,9.2,kerja,galau,0,4
+4.9,4,Ya,Tidak,2,2.5,9.4,scroll hp,sial,0,4
+4.2,3,Ya,Ya,2,3.4,9.0,nugas,happy,0,3
+8.2,0,Tidak,Ya,2,1.2,7.5,scroll hp,sakit hati,0,4
+4.4,1,Ya,Tidak,1,3.4,6.1,hobi,mimpi buruk,0,4
+4.2,0,Tidak,Ya,3,1.9,7.2,masak,sakit perut,0,4
+5.9,4,Ya,Tidak,1,0.6,8.1,nugas,banyak tugas,0,4
+5.6,1,Tidak,Tidak,3,1.7,7.1,scroll hp,galau,0,4
+4.5,2,Ya,Tidak,3,2.7,6.1,nugas,diputusin,0,4
+5.1,1,Ya,Ya,1,0.7,3.2,scroll hp,ketiban sial,0,4
+4.3,2,Ya,Ya,2,1.6,6.5,scroll hp,gajian,0,4
+4.3,0,Ya,Tidak,4,1.4,8.9,kerja,sakit hati,0,4
+4.4,1,Tidak,Tidak,3,3.1,9.7,scroll hp,mual,0,4
+5.4,0,Ya,Tidak,2,2.2,6.4,scroll hp,galau,0,4
+4.9,1,Tidak,Tidak,5,3.5,7.0,nugas,kena sial,0,4
+4.7,0,Ya,Ya,5,1.7,7.9,dating,galau,0,4
+4.1,0,Tidak,Ya,3,0.9,6.3,scroll hp,dapat uang,0,4
+4.5,3,Ya,Ya,2,3.2,6.9,scroll hp,sakit gigi,0,4
+4.9,1,Ya,Ya,5,2.9,7.8,nugas,galau,0,4
+4.6,0,Ya,Tidak,5,0.6,5.9,nugas,mual,0,4
+4.9,0,Ya,Tidak,2,3.3,8.4,nugas,sakit gigi,0,4
+4.8,1,Tidak,Tidak,4,0.8,9.4,nugas,sakit gigi,0,4
+4.4,1,Ya,Tidak,4,2.8,8.9,scroll hp,sakit gigi,0,4
+4.8,0,Tidak,Tidak,4,1.2,8.6,masak,ketiban sial,0,4
+5.8,4,Ya,Ya,1,0.9,9.1,scroll hp,ketiban sial,0,4
+6.7,1,Tidak,Ya,3,1.4,9.3,nugas,sakit kepala,0,4
+5.9,1,Ya,Ya,2,1.8,9.8,masak,diputusin,0,4
+5.4,0,Tidak,Ya,2,1.3,6.7,nugas,ketiban sial,0,4
+4.2,0,Ya,Ya,4,1.3,8.7,hobi,galau,0,4
+4.0,3,Tidak,Tidak,2,0.5,6.6,jalan-jalan,galau,0,4
+6.6,2,Tidak,Tidak,5,0.8,7.9,scroll hp,ketiban sial,0,4
+5.1,2,Tidak,Tidak,4,1.5,9.5,scroll hp,mimpi buruk,0,4
+4.4,0,Tidak,Tidak,2,2.2,8.2,jalan-jalan,diputusin,0,4
+4.0,3,Ya,Tidak,4,0.8,8.5,nugas,sial,0,4
+4.5,2,Ya,Tidak,4,0.8,4.1,nugas,banyak tugas,0,4
+5.0,2,Tidak,Ya,1,0.8,9.6,jalan-jalan,ketiban sial,0,4
+5.0,2,Ya,Ya,1,1.7,8.0,hobi,mual,0,4
+5.0,1,Tidak,Tidak,5,0.6,8.9,hobi,sakit gigi,0,4
+4.3,0,Tidak,Tidak,2,2.5,9.4,hobi,mimpi buruk,0,4
+6.3,1,Tidak,Tidak,4,1.1,7.4,nugas,ketiban sial,0,4
+4.3,0,Ya,Ya,2,2.1,7.7,nugas,banyak tugas,0,4
+4.5,2,Ya,Tidak,2,2.1,9.6,hobi,diputusin,0,4
+4.3,0,Ya,Ya,1,0.8,6.4,olahraga,-,0,4
+4.7,2,Ya,Tidak,2,2.5,9.0,kerja,sakit perut,0,4
+4.0,0,Ya,Tidak,1,3.0,9.4,nugas,ketiban sial,0,4
+4.5,0,Tidak,Ya,2,1.5,5.3,scroll hp,sial,0,4
+4.1,4,Tidak,Tidak,4,1.8,8.2,nugas,sakit perut,0,4
+4.9,2,Ya,Tidak,5,0.5,8.5,masak,diputusin,0,4
+4.2,4,Tidak,Tidak,2,0.8,6.7,olahraga,sakit gigi,0,4
+4.5,1,Ya,Ya,2,3.2,6.3,masak,mual,0,4
+4.5,3,Ya,Ya,4,0.8,6.8,scroll hp,sakit perut,0,4
+4.9,0,Ya,Ya,2,0.9,6.0,nugas,sakit kepala,0,4
+4.1,3,Tidak,Ya,1,0.8,7.8,hobi,sakit perut,0,4
+4.2,0,Tidak,Ya,3,0.8,6.3,kerja,jadian,0,4
+6.7,0,Tidak,Tidak,2,0.9,5.8,nugas,galau,0,4
+5.0,2,Tidak,Tidak,2,1.3,7.7,kerja,sakit perut,0,4
+4.6,4,Ya,Tidak,4,1.4,9.4,scroll hp,mimpi buruk,0,4
+4.3,0,Ya,Ya,5,3.4,8.2,kerja,-,0,4
+4.3,1,Ya,Tidak,1,3.1,5.3,nugas,ketiban sial,0,4
+4.5,1,Tidak,Ya,2,1.2,4.7,nugas,sakit perut,0,4
+4.6,2,Ya,Ya,2,1.0,8.5,scroll hp,galau,0,4
+5.1,3,Ya,Tidak,3,2.5,8.9,scroll hp,sial,0,4
+4.1,1,Tidak,Ya,1,1.7,7.6,kencan,sakit gigi,0,4
+4.7,0,Tidak,Tidak,5,2.1,9.0,nugas,kena sial,0,4
+6.3,1,Ya,Tidak,2,1.6,8.8,nugas,ketiban sial,0,4
+5.7,0,Ya,Tidak,3,0.9,6.2,dating,sakit hati,0,4
+6.1,3,Tidak,Ya,2,0.9,8.8,nugas,galau,0,4
+5.7,1,Tidak,Tidak,4,1.0,9.6,kerja,ketiban sial,0,4
+4.7,1,Ya,Ya,2,3.0,8.0,nugas,-,0,4
+4.5,3,Tidak,Tidak,5,1.8,7.7,scroll hp,sakit perut,0,4
+4.3,0,Ya,Ya,1,3.2,7.0,kencan,sakit kepala,0,4
+4.8,5,Ya,Tidak,5,0.9,7.4,nugas,sakit perut,0,4
+4.6,1,Ya,Ya,5,2.4,6.3,nugas,kena sial,0,4
+6.9,1,Tidak,Tidak,5,0.9,7.1,nugas,sakit perut,0,4
+5.8,3,Ya,Tidak,2,2.8,9.2,kerja,mimpi buruk,0,4
+4.2,5,Ya,Tidak,1,1.4,4.8,scroll hp,sakit gigi,0,4
+4.2,1,Ya,Ya,1,0.6,8.5,hobi,dapat gaji,0,4
+5.5,3,Ya,Tidak,2,1.0,9.2,masak,ketiban sial,0,4
+4.1,4,Tidak,Tidak,2,3.0,9.9,nugas,mimpi buruk,0,4
+4.7,0,Ya,Ya,1,2.0,8.0,olahraga,galau,0,4
+4.6,0,Tidak,Ya,2,3.4,9.0,scroll hp,banyak tugas,0,4
+5.6,0,Ya,Tidak,4,2.2,8.4,scroll hp,ketiban sial,0,4
+4.3,1,Tidak,Ya,4,0.5,4.7,scroll hp,sakit kepala,0,4
+5.0,4,Ya,Tidak,5,0.7,6.7,kerja,kena sial,0,4
+4.3,2,Ya,Ya,2,0.6,3.7,nugas,diputusin,0,4
+5.4,1,Ya,Ya,3,1.6,9.7,scroll hp,banyak tugas,0,4
+4.4,2,Ya,Ya,1,2.9,9.6,nugas,sakit gigi,0,4
+5.4,1,Ya,Ya,2,1.5,5.2,nugas,sial,0,4
+7.1,0,Ya,Tidak,1,1.8,8.9,nugas,galau,0,4
+4.6,3,Ya,Tidak,2,0.8,5.9,masak,diputusin,0,4
+5.0,2,Tidak,Tidak,2,0.6,8.3,kencan,sakit gigi,0,4
+4.3,4,Ya,Ya,4,1.9,8.3,nugas,mual,0,4
+5.0,4,Tidak,Tidak,1,2.8,8.5,nugas,sial,0,4
+6.6,0,Ya,Tidak,5,1.2,9.7,kerja,diputusin,0,4
+5.7,1,Tidak,Ya,2,1.6,6.1,nugas,sakit perut,0,4
+6.4,0,Tidak,Tidak,1,1.7,9.7,jalan-jalan,sial,0,4
+5.0,2,Ya,Tidak,4,1.1,9.3,nugas,dapat uang,0,4
+4.5,1,Tidak,Tidak,3,1.9,8.9,nugas,-,0,4
+6.8,3,Tidak,Tidak,2,0.9,7.4,scroll hp,sakit hati,0,4
+4.2,0,Ya,Ya,1,2.1,6.5,kerja,gajian,0,4
+4.4,0,Ya,Tidak,1,2.8,9.2,masak,sakit kepala,0,4
+6.2,0,Tidak,Ya,1,0.6,4.1,nugas,sakit kepala,0,4
+5.0,1,Ya,Tidak,3,1.9,9.8,nugas,galau,0,4
+4.7,2,Ya,Tidak,2,0.9,9.8,jalan-jalan,sakit kepala,0,4
+5.3,3,Tidak,Tidak,2,0.5,9.5,nugas,sakit perut,0,4
+4.9,0,Ya,Tidak,3,1.8,9.5,jalan-jalan,banyak tugas,0,4
+5.0,0,Ya,Ya,5,2.0,9.2,scroll hp,sakit kepala,0,4
+4.1,1,Tidak,Tidak,5,1.7,9.9,scroll hp,mual,0,4
+5.9,0,Ya,Tidak,5,0.7,7.7,masak,mual,0,4
+4.8,1,Tidak,Tidak,2,0.5,7.3,hobi,kena sial,0,4
+5.5,2,Tidak,Ya,1,2.7,9.1,nugas,sakit gigi,0,4
+4.3,0,Ya,Tidak,1,2.4,7.3,kerja,sakit kepala,0,4
+8.0,0,Tidak,Ya,4,0.5,9.1,scroll hp,sakit kepala,0,4
+5.8,2,Tidak,Ya,2,1.8,8.5,nugas,mual,0,4
+5.8,2,Ya,Tidak,3,2.4,8.0,nugas,ketiban sial,0,4
+5.5,1,Tidak,Tidak,1,2.1,7.5,nugas,mimpi buruk,0,4
+5.1,0,Ya,Ya,2,3.0,8.1,scroll hp,bahagia,0,4
+5.6,1,Tidak,Tidak,1,0.8,6.7,kencan,sakit perut,0,4
+4.4,1,Ya,Ya,2,1.9,9.9,nugas,sial,0,4
+7.1,0,Tidak,Ya,2,1.1,6.1,nugas,ketiban sial,0,4
+4.3,0,Ya,Tidak,2,2.2,7.7,kencan,galau,0,4
+4.2,1,Ya,Tidak,1,1.4,8.0,dating,ketiban sial,0,4
+6.0,0,Tidak,Ya,2,1.7,9.7,nugas,galau,0,4
+5.2,4,Ya,Tidak,1,2.5,6.1,nugas,mual,0,4
+7.3,0,Tidak,Tidak,1,0.7,6.2,nugas,-,0,4
+4.0,0,Tidak,Tidak,3,3.0,9.1,kerja,banyak tugas,0,4
+6.7,0,Ya,Tidak,2,0.8,8.3,kerja,ketiban sial,0,4
+4.6,3,Tidak,Tidak,3,1.2,8.6,nugas,sakit gigi,0,4
+4.1,0,Tidak,Ya,1,0.8,3.6,hobi,sakit hati,0,4
+4.9,1,Ya,Ya,4,0.7,6.6,scroll hp,sakit hati,0,4
+4.5,0,Ya,Tidak,2,2.0,7.4,kencan,sakit kepala,0,4
+4.6,3,Tidak,Ya,3,1.8,9.4,nugas,sakit gigi,0,4
+7.3,1,Tidak,Tidak,3,0.8,7.6,scroll hp,sakit kepala,0,4
+4.5,2,Ya,Tidak,5,1.5,7.3,kerja,mual,0,4
+5.1,4,Ya,Ya,2,0.5,9.9,nugas,diputusin,0,4
+5.3,3,Ya,Tidak,2,1.1,8.4,kerja,diputusin,0,4
+5.7,2,Tidak,Ya,1,1.5,9.6,nugas,ketiban sial,0,4
+5.1,0,Ya,Ya,4,3.4,9.9,scroll hp,dapat uang,0,4
+4.9,1,Tidak,Ya,2,1.6,7.9,dating,ketiban sial,0,4
+6.7,0,Tidak,Tidak,1,1.7,9.9,kencan,mual,0,4
+4.1,5,Ya,Tidak,4,0.6,7.6,dating,sial,0,3
+5.6,0,Tidak,Ya,4,0.9,8.1,olahraga,sial,0,4
+4.3,3,Ya,Tidak,2,1.1,7.8,olahraga,sakit gigi,0,4
+4.9,2,Tidak,Tidak,2,0.6,8.0,scroll hp,diputusin,0,4
+4.1,0,Ya,Ya,2,1.1,3.4,jalan-jalan,sial,0,4
+4.1,2,Ya,Ya,4,0.6,9.2,nugas,sakit perut,0,4
+7.3,0,Ya,Tidak,5,0.7,8.4,scroll hp,mimpi buruk,0,4
+4.9,0,Tidak,Tidak,5,0.5,6.5,nugas,sakit kepala,0,4
+6.3,1,Tidak,Ya,4,0.9,9.0,scroll hp,diputusin,0,4
+4.3,4,Ya,Tidak,4,1.0,8.2,nugas,banyak tugas,0,4
+4.2,5,Ya,Tidak,2,2.4,8.3,kerja,diputusin,0,3
+4.1,1,Tidak,Ya,4,1.2,6.1,scroll hp,kena sial,0,4
+4.7,0,Tidak,Tidak,2,1.1,9.5,kerja,ketiban sial,0,4
+5.5,1,Tidak,Tidak,1,1.8,6.2,scroll hp,sakit perut,0,4
+5.4,1,Ya,Ya,2,3.3,5.3,scroll hp,ketiban sial,0,4
+4.1,2,Ya,Tidak,1,1.9,9.6,olahraga,gajian,0,3
+4.1,3,Ya,Tidak,4,1.3,5.3,scroll hp,mual,0,4
+4.8,0,Ya,Tidak,4,1.4,5.1,nugas,sial,0,4
+6.2,0,Tidak,Tidak,4,2.6,9.9,scroll hp,sakit hati,0,4
+4.1,0,Tidak,Tidak,1,1.6,6.7,kencan,mual,0,4
+4.1,4,Ya,Tidak,5,0.9,9.3,kerja,sial,0,4
+4.1,1,Tidak,Tidak,2,0.5,8.3,kencan,sakit perut,0,4
+5.3,0,Ya,Ya,4,1.1,6.3,dating,diputusin,0,4
+5.7,3,Ya,Tidak,1,3.2,8.8,nugas,sakit kepala,0,4
+5.5,0,Ya,Ya,1,3.5,7.7,kencan,galau,0,4
+4.2,0,Ya,Ya,4,0.5,5.3,scroll hp,sakit gigi,0,4
+4.7,5,Ya,Tidak,4,0.7,6.7,nugas,mual,0,4
+4.1,1,Tidak,Ya,4,2.2,8.5,nugas,diputusin,0,4
+4.9,0,Ya,Tidak,5,1.3,6.3,nugas,happy,0,4
+4.0,3,Ya,Ya,3,0.8,6.6,jalan-jalan,sial,0,4
+4.2,0,Tidak,Tidak,4,1.4,6.9,olahraga,sakit perut,0,4
+4.9,0,Tidak,Ya,5,0.9,7.3,masak,galau,0,4
+5.6,1,Ya,Tidak,5,1.4,8.4,jalan-jalan,mual,0,4
+5.5,2,Ya,Ya,4,2.9,9.9,scroll hp,galau,0,4
+4.8,0,Ya,Ya,5,2.7,9.6,dating,sial,0,4
+4.1,5,Ya,Tidak,5,1.9,7.2,nugas,sakit kepala,0,4
+6.7,1,Tidak,Ya,1,0.9,9.6,scroll hp,galau,0,4
+4.6,2,Ya,Tidak,2,2.2,7.7,jalan-jalan,sakit perut,0,4
+5.5,0,Ya,Tidak,5,0.8,9.4,kencan,galau,0,4
+4.3,2,Ya,Tidak,5,0.9,9.1,kerja,bahagia,0,4
+5.1,3,Tidak,Tidak,1,1.0,9.1,dating,sakit hati,1,3
+5.9,0,Tidak,Tidak,4,1.2,8.7,olahraga,diputusin,1,4
+5.3,1,Ya,Tidak,4,0.8,8.4,hobi,jadian,1,4
+6.0,0,Ya,Tidak,2,2.6,6.0,scroll hp,diputusin,1,4
+4.8,1,Tidak,Tidak,4,1.0,5.7,nugas,mimpi buruk,1,4
+4.6,1,Ya,Ya,2,3.2,6.7,jalan-jalan,sakit hati,1,4
+6.2,0,Tidak,Ya,1,2.6,7.7,nugas,-,1,4
+5.6,0,Ya,Tidak,2,1.6,3.3,jalan-jalan,kena sial,1,4
+8.3,0,Ya,Tidak,3,1.6,9.8,nugas,ketiban sial,1,4
+7.0,0,Ya,Tidak,5,0.8,8.0,dating,diputusin,1,4
+7.3,1,Tidak,Ya,5,1.6,8.5,nugas,mual,1,4
+4.1,0,Tidak,Tidak,5,2.2,8.7,nugas,nyaman,1,4
+5.3,1,Ya,Tidak,1,2.8,6.2,dating,mual,1,4
+4.1,1,Ya,Tidak,5,1.7,5.2,nugas,dapat uang,1,4
+5.5,3,Tidak,Tidak,2,1.8,8.7,olahraga,kena sial,1,3
+5.5,2,Tidak,Tidak,4,0.7,9.6,olahraga,ketiban sial,1,4
+5.0,0,Ya,Ya,1,1.8,6.1,hobi,dapat uang,1,4
+4.4,3,Ya,Ya,1,1.5,6.6,olahraga,mual,1,4
+5.4,0,Ya,Ya,5,1.3,7.0,masak,-,1,4
+6.5,2,Tidak,Ya,2,1.6,5.8,nugas,diputusin,1,4
+6.7,0,Tidak,Ya,2,1.8,7.7,olahraga,sakit hati,1,4
+6.2,2,Ya,Ya,1,0.8,8.7,masak,sial,1,4
+4.8,1,Tidak,Tidak,1,2.9,8.0,kencan,kena sial,1,4
+4.5,2,Ya,Tidak,2,1.6,2.9,nugas,diputusin,1,4
+4.0,5,Ya,Tidak,4,0.9,3.8,scroll hp,diputusin,1,4
+5.1,0,Tidak,Tidak,3,1.7,9.5,hobi,banyak tugas,1,4
+4.3,3,Tidak,Ya,5,1.8,8.3,dating,sakit hati,1,3
+5.3,3,Ya,Tidak,4,0.8,6.2,dating,sakit gigi,1,4
+4.2,4,Ya,Ya,2,1.1,7.9,nugas,mendapatkan gaji,1,4
+4.6,3,Tidak,Ya,4,0.6,7.6,kencan,sakit perut,1,3
+5.9,0,Tidak,Tidak,2,1.1,6.9,jalan-jalan,mimpi buruk,1,4
+5.0,5,Ya,Ya,2,1.4,9.7,jalan-jalan,sakit gigi,1,3
+4.5,1,Tidak,Tidak,3,2.5,8.9,olahraga,sial,1,3
+5.7,3,Tidak,Ya,4,0.7,6.2,scroll hp,-,1,4
+6.7,5,Tidak,Tidak,1,1.2,8.4,scroll hp,sakit perut,1,4
+5.2,1,Ya,Tidak,2,1.1,8.8,jalan-jalan,nyaman,1,4
+5.5,1,Ya,Ya,2,1.8,7.5,kerja,mimpi buruk,1,4
+4.0,3,Tidak,Tidak,1,1.9,9.5,olahraga,-,1,2
+5.4,5,Ya,Tidak,1,0.7,6.4,nugas,dapat gaji,1,4
+6.9,2,Ya,Tidak,2,1.1,6.6,nugas,sakit perut,1,4
+5.6,3,Tidak,Ya,2,1.3,6.9,kerja,sial,1,4
+6.3,0,Tidak,Tidak,3,3.3,6.6,nugas,kena sial,1,4
+6.2,3,Ya,Tidak,4,1.1,9.8,scroll hp,sakit kepala,1,4
+5.5,0,Tidak,Tidak,1,3.4,6.5,scroll hp,dapat uang,1,4
+4.1,4,Tidak,Ya,1,1.8,8.5,olahraga,mual,1,3
+4.6,1,Tidak,Ya,3,1.9,9.3,dating,sial,1,4
+4.1,1,Tidak,Tidak,5,3.3,8.5,jalan-jalan,sakit gigi,1,4
+4.6,2,Tidak,Tidak,2,0.8,1.7,nugas,sakit perut,1,4
+6.1,2,Ya,Ya,2,0.7,4.4,nugas,mual,1,4
+4.5,1,Ya,Tidak,3,1.8,9.7,kencan,happy,1,3
+6.4,3,Ya,Ya,4,1.5,9.3,nugas,sakit gigi,1,4
+4.2,1,Tidak,Tidak,3,3.4,5.2,nugas,galau,1,4
+6.3,2,Tidak,Tidak,1,0.5,6.1,jalan-jalan,ketiban sial,1,4
+4.2,0,Tidak,Tidak,5,2.0,9.2,scroll hp,dapat uang,1,4
+6.3,1,Ya,Tidak,5,3.5,8.2,nugas,sakit hati,1,4
+5.7,0,Ya,Ya,3,3.2,9.6,kerja,mual,1,4
+4.6,4,Ya,Tidak,2,0.6,2.2,scroll hp,sakit perut,1,4
+4.3,1,Tidak,Ya,4,2.3,7.6,nugas,mimpi buruk,1,4
+4.2,3,Ya,Ya,2,2.4,9.6,dating,galau,1,3
+5.0,0,Ya,Tidak,2,2.5,9.1,kencan,jadian,1,4
+6.1,3,Ya,Tidak,4,2.8,9.9,nugas,ketiban sial,1,3
+4.6,5,Tidak,Tidak,1,2.0,6.9,scroll hp,mual,1,3
+4.7,3,Ya,Ya,3,2.1,7.1,kerja,diputusin,1,3
+5.5,1,Tidak,Tidak,2,2.3,9.6,jalan-jalan,sial,1,4
+4.8,1,Ya,Ya,4,2.9,3.5,scroll hp,galau,1,4
+4.4,5,Tidak,Tidak,2,1.3,8.9,masak,mimpi buruk,1,3
+7.1,0,Ya,Tidak,3,1.2,8.3,kerja,sakit perut,1,4
+5.2,1,Ya,Tidak,5,0.7,5.6,olahraga,sakit perut,1,4
+4.6,1,Ya,Tidak,2,2.3,6.2,kerja,mendapatkan gaji,1,4
+5.8,1,Ya,Ya,2,2.7,6.8,dating,mimpi buruk,1,4
+4.1,1,Ya,Tidak,4,1.7,4.9,olahraga,mual,1,4
+4.1,2,Tidak,Tidak,1,1.0,8.9,kerja,gajian,1,4
+8.0,1,Tidak,Ya,2,1.1,7.0,nugas,sakit hati,1,4
+5.4,0,Tidak,Tidak,3,2.0,9.6,scroll hp,dapat uang,1,4
+4.8,0,Tidak,Tidak,4,1.6,6.1,dating,kena sial,1,4
+5.9,2,Tidak,Tidak,3,0.9,7.7,hobi,sakit perut,1,4
+5.7,0,Ya,Ya,1,2.8,6.3,dating,ketiban sial,1,4
+4.6,1,Tidak,Tidak,3,1.8,6.5,olahraga,sakit gigi,1,4
+5.1,1,Tidak,Tidak,1,0.9,6.0,kencan,sakit gigi,1,4
+5.1,0,Ya,Tidak,3,1.6,8.1,kerja,-,1,4
+6.2,0,Ya,Tidak,2,2.3,5.6,nugas,mimpi buruk,1,4
+4.5,4,Ya,Tidak,1,2.1,7.2,kencan,diputusin,1,3
+4.8,3,Tidak,Tidak,3,0.8,7.7,olahraga,sial,1,3
+5.8,2,Tidak,Tidak,1,1.6,8.4,hobi,kena sial,1,4
+4.4,2,Ya,Tidak,5,2.0,7.6,hobi,sakit kepala,1,4
+6.7,0,Tidak,Ya,1,1.8,8.2,olahraga,mimpi buruk,1,4
+4.9,2,Ya,Tidak,4,2.3,8.7,scroll hp,nyaman,1,3
+7.8,0,Ya,Tidak,5,1.0,7.2,scroll hp,sakit gigi,1,4
+6.1,0,Ya,Ya,1,3.1,9.7,kencan,sakit perut,1,4
+4.5,1,Tidak,Tidak,5,1.0,7.1,jalan-jalan,sial,1,4
+6.0,4,Ya,Tidak,1,0.9,8.0,scroll hp,nyaman,1,4
+4.4,3,Ya,Tidak,1,1.5,3.1,kerja,sakit hati,1,4
+5.5,1,Ya,Tidak,5,1.8,7.9,kerja,sakit perut,1,4
+4.5,5,Tidak,Tidak,5,2.8,8.9,scroll hp,galau,1,3
+5.7,3,Ya,Tidak,1,0.6,5.9,kencan,kena sial,1,4
+5.2,3,Tidak,Ya,1,1.5,4.7,scroll hp,sakit hati,1,4
+7.2,3,Ya,Ya,1,2.9,9.3,nugas,sakit hati,1,4
+6.7,0,Ya,Ya,2,1.3,3.8,nugas,mimpi buruk,1,4
+6.9,1,Ya,Tidak,4,0.8,8.5,hobi,diputusin,1,4
+4.2,0,Tidak,Tidak,5,3.5,8.7,jalan-jalan,galau,1,4
+4.0,5,Ya,Ya,4,0.6,7.8,masak,galau,1,4
+5.6,0,Ya,Tidak,1,1.9,4.9,nugas,senang,1,4
+6.0,1,Tidak,Tidak,1,1.5,5.6,nugas,mimpi buruk,1,4
+4.3,1,Ya,Tidak,3,2.4,8.3,kerja,senang,1,4
+5.8,3,Tidak,Tidak,1,1.3,9.8,hobi,galau,1,3
+5.5,2,Ya,Tidak,3,3.1,7.7,nugas,banyak tugas,1,4
+5.9,3,Ya,Ya,2,0.9,8.1,kerja,mimpi buruk,1,4
+4.3,4,Ya,Tidak,1,2.9,8.2,jalan-jalan,kena sial,1,3
+4.9,3,Ya,Tidak,2,2.7,9.5,jalan-jalan,kena sial,1,3
+4.1,2,Tidak,Tidak,2,0.8,1.9,nugas,mual,1,4
+5.3,3,Ya,Tidak,2,1.9,9.3,jalan-jalan,-,1,3
+5.1,4,Ya,Ya,3,0.6,7.7,scroll hp,mendapatkan gaji,1,4
+7.9,0,Tidak,Ya,2,2.7,6.2,scroll hp,sial,1,4
+4.1,5,Ya,Tidak,1,2.6,7.6,olahraga,kena sial,1,2
+4.6,2,Ya,Tidak,4,1.8,6.3,hobi,kena sial,1,4
+5.6,1,Ya,Tidak,3,1.4,6.1,scroll hp,senang,1,4
+4.6,4,Ya,Ya,2,1.5,6.2,masak,kena sial,1,4
+4.9,0,Ya,Ya,5,2.3,4.7,nugas,sakit gigi,1,4
+4.5,3,Ya,Ya,5,2.3,5.7,scroll hp,galau,1,4
+6.0,2,Tidak,Tidak,2,1.9,8.3,olahraga,mual,1,4
+4.9,2,Ya,Ya,4,1.8,4.5,scroll hp,ketiban sial,1,4
+7.4,3,Tidak,Tidak,1,1.7,7.7,scroll hp,sakit gigi,1,4
+6.9,4,Ya,Tidak,5,0.7,8.5,scroll hp,sakit perut,1,4
+4.6,0,Tidak,Ya,4,3.4,9.4,dating,mimpi buruk,1,4
+4.1,1,Ya,Ya,3,3.0,8.8,masak,mual,1,4
+4.5,0,Ya,Tidak,2,2.0,5.2,masak,mimpi buruk,1,4
+4.2,3,Ya,Ya,2,2.5,8.1,masak,diputusin,1,4
+5.1,2,Ya,Ya,4,1.7,7.7,masak,sakit kepala,1,4
+7.0,1,Tidak,Tidak,4,0.5,8.9,scroll hp,jadian,1,4
+5.9,0,Tidak,Tidak,3,1.1,9.9,nugas,dapat uang,1,4
+6.5,4,Tidak,Tidak,3,1.5,9.5,scroll hp,kena sial,1,4
+4.3,0,Ya,Ya,2,3.3,3.7,hobi,mual,1,4
+5.0,1,Ya,Tidak,4,0.7,1.2,scroll hp,ketiban sial,1,4
+6.2,0,Ya,Tidak,5,1.8,9.3,kencan,mimpi buruk,1,4
+6.3,1,Ya,Tidak,2,1.6,9.1,hobi,sial,1,4
+5.0,0,Ya,Ya,3,3.5,4.3,scroll hp,diputusin,1,4
+4.4,2,Ya,Ya,2,2.3,8.5,kerja,diputusin,1,4
+4.7,0,Tidak,Tidak,5,2.2,9.6,hobi,sakit perut,1,4
+4.4,1,Tidak,Ya,1,1.1,8.4,dating,sakit hati,1,4
+4.5,2,Tidak,Tidak,4,1.8,7.2,hobi,sakit hati,1,3
+4.9,0,Tidak,Tidak,4,1.1,4.4,scroll hp,sakit kepala,1,4
+4.7,2,Ya,Ya,4,1.8,7.8,scroll hp,jadian,1,4
+4.2,1,Ya,Ya,3,1.4,7.6,masak,sakit gigi,1,4
+4.2,1,Ya,Ya,4,2.5,8.4,kerja,jadian,1,4
+6.1,0,Tidak,Tidak,4,1.2,8.1,kerja,mimpi buruk,1,4
+5.7,3,Ya,Ya,2,3.0,9.1,dating,galau,1,3
+6.3,3,Tidak,Ya,2,0.9,7.1,jalan-jalan,sakit hati,1,4
+5.0,4,Tidak,Ya,2,0.7,6.4,masak,sakit hati,1,4
+5.3,0,Ya,Ya,1,2.2,8.6,olahraga,sakit hati,1,4
+5.6,3,Ya,Ya,4,2.4,7.0,scroll hp,galau,1,4
+5.8,1,Ya,Tidak,4,2.1,8.8,dating,sakit hati,1,4
+8.9,3,Ya,Ya,1,0.8,7.1,nugas,sakit kepala,1,4
+5.5,4,Ya,Tidak,4,0.9,7.3,olahraga,sakit hati,1,4
+4.4,2,Tidak,Tidak,4,0.7,6.5,masak,sial,1,4
+7.2,1,Tidak,Ya,5,0.9,9.3,nugas,dapat gaji,1,4
+6.2,4,Tidak,Ya,4,0.6,7.9,scroll hp,sial,1,4
+5.6,1,Tidak,Ya,1,0.7,8.1,masak,sial,1,4
+5.0,2,Ya,Ya,1,0.7,3.0,dating,kena sial,1,4
+4.6,1,Ya,Ya,1,1.4,7.5,olahraga,banyak tugas,1,4
+7.7,0,Ya,Tidak,5,1.6,8.5,scroll hp,ketiban sial,1,4
+4.7,4,Tidak,Ya,1,1.1,4.5,nugas,ketiban sial,1,4
+6.1,2,Tidak,Tidak,1,1.6,9.7,kencan,sakit gigi,1,4
+4.4,3,Ya,Tidak,3,1.6,3.9,nugas,sakit gigi,1,4
+4.7,1,Ya,Tidak,5,1.1,7.0,kerja,banyak tugas,1,4
+5.4,1,Tidak,Tidak,3,3.0,9.0,nugas,banyak tugas,1,4
+5.1,1,Ya,Ya,2,2.8,8.1,kerja,-,1,4
+6.3,2,Ya,Ya,2,0.7,6.5,kerja,sakit kepala,1,4
+4.5,0,Ya,Tidak,5,0.8,5.4,kerja,jadian,1,4
+5.0,1,Ya,Ya,4,3.3,8.3,scroll hp,dapat uang,1,4
+5.5,1,Tidak,Ya,5,2.1,8.3,scroll hp,sakit hati,1,4
+4.3,0,Ya,Ya,1,2.7,5.2,masak,mimpi buruk,1,4
+5.7,2,Ya,Ya,2,1.0,5.9,scroll hp,-,1,4
+4.4,2,Ya,Tidak,1,0.6,6.1,kencan,senang,1,4
+4.2,2,Tidak,Tidak,2,0.9,3.8,hobi,sial,1,4
+5.2,5,Ya,Tidak,1,1.5,8.0,hobi,sakit perut,1,3
+4.5,0,Tidak,Tidak,1,2.6,6.3,dating,sakit hati,1,4
+5.0,3,Ya,Tidak,2,2.7,9.7,jalan-jalan,diputusin,1,3
+4.1,2,Tidak,Tidak,5,1.3,6.1,olahraga,sakit kepala,1,4
+4.6,0,Ya,Tidak,4,2.7,6.7,kencan,diputusin,1,4
+6.6,1,Tidak,Tidak,4,1.3,6.6,scroll hp,sakit kepala,1,4
+7.0,1,Tidak,Tidak,1,1.1,10.0,kerja,diputusin,1,4
+5.5,3,Tidak,Ya,1,1.9,8.8,masak,sakit kepala,1,4
+5.3,1,Ya,Tidak,4,2.4,7.0,kerja,sakit kepala,1,4
+6.3,2,Tidak,Ya,2,3.1,7.9,nugas,sakit gigi,1,4
+4.3,4,Tidak,Ya,1,0.8,8.6,olahraga,diputusin,1,4
+6.2,1,Tidak,Tidak,5,0.7,6.9,jalan-jalan,galau,1,4
+5.0,1,Tidak,Tidak,1,3.1,7.4,hobi,sakit gigi,1,4
+4.5,5,Ya,Tidak,5,1.7,8.9,hobi,ketiban sial,1,3
+5.0,2,Tidak,Tidak,4,1.9,9.3,hobi,mimpi buruk,1,3
+5.2,1,Tidak,Tidak,5,1.1,9.1,scroll hp,jadian,1,4
+6.3,3,Ya,Tidak,3,1.5,9.3,nugas,sial,1,4
+5.0,1,Tidak,Ya,3,0.6,9.7,masak,sakit kepala,1,4
+5.2,2,Ya,Tidak,1,2.9,8.9,kencan,banyak tugas,1,4
+4.5,1,Ya,Ya,3,3.1,3.5,nugas,ketiban sial,1,4
+6.2,0,Ya,Ya,2,0.8,3.9,scroll hp,mimpi buruk,1,4
+4.5,1,Ya,Ya,1,0.7,3.7,jalan-jalan,kena sial,1,4
+4.8,2,Ya,Ya,2,1.5,6.0,masak,sial,1,4
+6.4,3,Tidak,Tidak,2,3.1,9.2,scroll hp,sakit kepala,1,4
+5.5,1,Ya,Tidak,3,1.3,6.7,hobi,sakit kepala,1,4
+6.5,1,Tidak,Tidak,2,2.0,6.1,nugas,galau,1,4
+5.8,1,Tidak,Tidak,1,1.4,3.7,scroll hp,kena sial,1,4
+5.3,0,Ya,Tidak,3,0.9,5.7,hobi,kena sial,1,4
+5.0,4,Tidak,Tidak,4,1.4,8.1,nugas,sakit kepala,1,4
+4.9,5,Ya,Tidak,4,0.6,9.0,masak,ketiban sial,1,4
+4.1,3,Ya,Tidak,1,2.3,7.5,hobi,diputusin,1,3
+4.1,2,Ya,Tidak,3,0.8,7.3,kencan,nyaman,1,3
+5.6,2,Ya,Tidak,1,1.2,8.3,hobi,-,1,4
+5.4,0,Tidak,Tidak,2,3.1,5.5,nugas,mimpi buruk,1,4
+5.8,5,Ya,Tidak,1,0.8,7.4,olahraga,mual,1,4
+7.3,0,Tidak,Tidak,5,3.4,8.9,nugas,ketiban sial,1,4
+5.0,4,Ya,Tidak,4,1.3,9.4,dating,sakit hati,1,3
+5.5,5,Ya,Tidak,1,0.6,6.7,olahraga,kena sial,1,4
+4.9,4,Ya,Ya,2,0.8,9.5,kencan,-,1,4
+5.4,4,Ya,Ya,5,1.5,6.3,nugas,-,1,4
+5.9,1,Tidak,Tidak,2,1.8,7.8,masak,sakit hati,1,4
+5.7,0,Tidak,Ya,5,1.3,7.7,masak,mual,1,4
+4.3,0,Tidak,Tidak,5,2.8,5.1,scroll hp,mual,1,4
+4.5,4,Ya,Tidak,4,1.0,7.1,kerja,sakit perut,1,4
+5.3,1,Ya,Tidak,3,2.5,7.9,olahraga,sial,1,4
+4.5,2,Ya,Tidak,1,1.8,5.5,olahraga,sakit gigi,1,4
+5.1,0,Tidak,Tidak,5,0.7,6.0,hobi,ketiban sial,1,4
+5.9,0,Tidak,Ya,1,1.9,4.7,scroll hp,ketiban sial,1,4
+5.1,4,Ya,Tidak,2,2.2,8.8,jalan-jalan,sakit hati,1,3
+6.5,0,Tidak,Tidak,1,2.0,9.5,kencan,sakit perut,1,4
+4.4,2,Ya,Tidak,4,0.8,7.9,jalan-jalan,senang,1,3
+7.3,4,Tidak,Ya,2,0.8,8.1,nugas,sial,1,4
+5.3,0,Ya,Tidak,1,2.2,8.7,hobi,-,1,4
+5.6,2,Ya,Ya,4,2.1,6.7,nugas,-,1,4
+4.5,2,Ya,Tidak,4,0.6,8.7,kencan,mendapatkan gaji,1,3
+5.2,3,Tidak,Ya,1,1.0,8.7,kerja,sial,1,4
+6.2,1,Tidak,Ya,3,1.3,9.0,nugas,sakit kepala,1,4
+5.5,4,Tidak,Ya,3,1.6,8.2,nugas,sakit perut,1,4
+6.2,2,Ya,Ya,1,0.8,6.1,olahraga,diputusin,1,4
+5.8,3,Ya,Tidak,1,3.4,8.5,kerja,mimpi buruk,1,4
+4.9,0,Ya,Tidak,4,2.6,7.2,olahraga,diputusin,1,4
+6.1,0,Ya,Ya,5,3.4,8.4,nugas,-,1,4
+4.3,2,Ya,Tidak,5,2.4,9.3,scroll hp,senang,1,4
+5.0,1,Ya,Tidak,1,1.4,6.3,kencan,banyak tugas,1,4
+4.3,4,Ya,Ya,2,3.4,7.9,kerja,mual,1,4
+7.1,2,Tidak,Ya,5,1.3,8.9,nugas,sakit perut,1,4
+4.5,0,Tidak,Tidak,1,2.0,6.9,hobi,sakit hati,1,4
+5.3,4,Ya,Ya,2,1.7,8.0,dating,kena sial,1,4
+4.3,0,Tidak,Ya,1,0.6,4.0,hobi,sakit kepala,1,4
+4.4,3,Ya,Ya,4,2.3,9.9,masak,diputusin,1,3
+7.9,1,Ya,Ya,5,0.7,7.9,nugas,diputusin,1,4
+6.8,1,Tidak,Tidak,5,1.2,8.1,nugas,ketiban sial,1,4
+4.4,0,Ya,Tidak,3,1.7,8.4,dating,senang,1,4
+8.0,3,Ya,Tidak,4,0.6,9.7,scroll hp,diputusin,1,4
+5.4,2,Ya,Ya,4,1.8,4.3,scroll hp,sial,1,4
+5.1,5,Tidak,Tidak,3,1.6,10.0,scroll hp,sakit kepala,1,3
+4.1,2,Ya,Ya,5,0.6,2.9,scroll hp,mual,1,4
+4.1,0,Ya,Ya,2,1.3,2.8,hobi,sakit kepala,1,4
+7.4,1,Ya,Ya,1,2.2,6.5,scroll hp,kena sial,1,4
+6.7,0,Ya,Ya,2,3.2,9.6,scroll hp,senang,1,4
+4.1,3,Tidak,Tidak,3,1.9,9.6,masak,ketiban sial,1,3
+4.5,3,Tidak,Tidak,5,1.5,8.9,kencan,mual,1,3
+4.5,3,Ya,Tidak,4,1.6,7.2,scroll hp,nyaman,1,3
+4.5,5,Tidak,Ya,2,0.8,7.4,dating,sakit kepala,1,3
+5.9,3,Ya,Ya,3,2.8,7.0,nugas,sakit hati,1,4
+4.1,1,Tidak,Tidak,3,2.2,7.7,masak,mual,1,4
+7.9,3,Tidak,Ya,1,1.6,9.7,nugas,sakit gigi,1,4
+6.0,0,Ya,Ya,5,3.3,6.9,scroll hp,galau,1,4
+4.3,0,Ya,Tidak,2,0.7,0.9,jalan-jalan,galau,1,4
+4.0,1,Tidak,Tidak,2,2.7,6.4,dating,ketiban sial,1,4
+5.4,1,Tidak,Ya,5,0.7,8.1,nugas,bahagia,1,4
+4.7,4,Ya,Tidak,1,2.8,8.7,dating,galau,1,3
+5.7,5,Ya,Tidak,2,2.4,7.5,scroll hp,sial,1,4
+5.3,1,Tidak,Ya,5,2.6,6.8,scroll hp,mimpi buruk,1,4
+5.4,2,Ya,Tidak,3,1.1,8.4,dating,sakit gigi,1,4
+5.2,2,Ya,Ya,2,1.1,6.9,dating,mimpi buruk,1,4
+6.5,3,Ya,Tidak,2,0.9,7.5,kencan,ketiban sial,1,4
+5.3,2,Tidak,Ya,5,1.8,8.2,nugas,sakit perut,1,4
+5.2,0,Tidak,Tidak,2,2.7,6.3,nugas,nyaman,1,4
+6.2,1,Ya,Ya,3,2.8,7.2,nugas,mual,1,4
+4.1,1,Tidak,Tidak,4,1.0,6.9,kerja,sakit kepala,1,4
+4.0,1,Tidak,Tidak,5,1.6,4.5,kerja,sakit perut,1,4
+5.3,3,Ya,Tidak,1,1.4,6.5,nugas,happy,1,4
+5.3,5,Ya,Ya,3,1.6,9.9,kerja,sakit hati,1,4
+5.5,2,Ya,Ya,1,3.0,7.9,dating,diputusin,1,4
+8.3,0,Ya,Tidak,1,3.1,9.3,nugas,sakit hati,1,4
+4.4,4,Tidak,Ya,1,1.6,8.5,jalan-jalan,mimpi buruk,1,3
+5.9,1,Tidak,Tidak,3,0.6,7.0,nugas,nyaman,1,4
+4.2,3,Tidak,Tidak,1,0.9,5.1,hobi,mual,1,3
+4.8,5,Tidak,Tidak,3,1.1,9.4,scroll hp,galau,1,3
+5.2,1,Ya,Tidak,4,2.1,7.4,kencan,mual,1,4
+5.4,3,Ya,Ya,1,1.6,8.8,masak,mimpi buruk,1,4
+6.0,2,Tidak,Ya,1,1.8,8.7,masak,sial,1,4
+5.1,1,Ya,Tidak,1,3.0,8.8,jalan-jalan,banyak tugas,1,4
+6.4,1,Ya,Ya,1,3.3,9.9,kerja,sial,1,4
+6.2,0,Ya,Tidak,4,1.1,8.7,scroll hp,gajian,1,4
+7.3,2,Tidak,Ya,5,0.8,9.1,nugas,mual,1,4
+5.9,1,Ya,Ya,3,1.5,8.8,kerja,sial,1,4
+5.9,2,Ya,Tidak,5,2.8,8.9,kerja,kena sial,1,4
+5.0,2,Ya,Ya,5,1.1,3.4,nugas,mual,1,4
+5.2,0,Tidak,Tidak,3,0.5,2.4,scroll hp,mimpi buruk,1,4
+5.3,0,Tidak,Ya,5,1.8,8.5,kerja,galau,1,4
+6.2,2,Ya,Ya,2,0.7,8.5,olahraga,galau,1,4
+4.3,5,Ya,Tidak,5,0.6,6.4,dating,mual,1,4
+5.5,3,Ya,Ya,1,2.3,7.9,scroll hp,sakit gigi,1,4
+6.4,2,Ya,Ya,5,1.1,7.0,scroll hp,ketiban sial,1,4
+4.4,0,Tidak,Ya,5,3.1,8.7,kerja,-,1,4
+5.4,4,Ya,Ya,2,3.3,9.6,hobi,mual,1,3
+5.3,1,Tidak,Tidak,3,2.6,6.6,scroll hp,sakit gigi,1,4
+5.0,2,Tidak,Ya,5,0.7,7.5,hobi,ketiban sial,1,4
+5.2,1,Ya,Tidak,3,0.7,3.9,hobi,kena sial,1,4
+4.2,0,Ya,Ya,5,1.5,4.5,olahraga,ketiban sial,1,4
+4.9,3,Ya,Tidak,2,2.0,3.8,scroll hp,ketiban sial,1,4
+5.7,2,Ya,Ya,1,3.0,9.4,olahraga,ketiban sial,1,4
+5.7,4,Ya,Ya,1,1.0,7.4,jalan-jalan,sakit hati,1,4
+5.0,1,Ya,Ya,5,3.4,9.7,kencan,mual,1,4
+4.1,4,Ya,Ya,2,2.5,7.2,jalan-jalan,sakit hati,1,3
+6.9,2,Tidak,Ya,3,0.6,7.8,nugas,sakit perut,1,4
+6.0,3,Tidak,Ya,1,0.9,6.3,dating,sakit kepala,1,4
+4.0,1,Tidak,Tidak,2,1.1,4.8,nugas,nyaman,1,4
+6.0,0,Ya,Tidak,2,2.8,8.4,dating,diputusin,1,4
+4.5,0,Tidak,Tidak,4,0.6,4.5,olahraga,mimpi buruk,1,4
+6.4,4,Tidak,Tidak,2,3.1,9.7,scroll hp,sakit perut,1,4
+5.4,3,Ya,Tidak,4,1.9,9.3,masak,sakit perut,1,4
+5.6,2,Ya,Ya,1,1.8,5.2,kerja,sakit kepala,1,4
+5.8,5,Ya,Ya,3,0.8,6.1,kerja,sakit kepala,1,4
+4.7,0,Tidak,Tidak,3,0.5,8.1,dating,happy,1,4
+5.4,3,Tidak,Tidak,2,0.8,4.3,nugas,sial,1,4
+4.2,0,Tidak,Tidak,5,3.4,8.9,dating,kena sial,1,4
+4.0,1,Ya,Ya,5,2.3,6.2,kerja,banyak tugas,1,4
+6.1,2,Ya,Tidak,2,1.1,7.4,kerja,ketiban sial,1,4
+4.7,3,Tidak,Tidak,5,1.3,9.6,dating,sakit gigi,1,3
+4.7,0,Ya,Ya,1,3.4,7.4,masak,galau,1,4
+6.3,0,Tidak,Tidak,2,2.1,9.6,kerja,banyak tugas,1,4
+4.2,3,Ya,Ya,2,3.3,6.1,kencan,mual,1,3
+6.2,2,Tidak,Tidak,1,0.9,7.5,olahraga,sakit hati,1,4
+5.7,2,Tidak,Tidak,4,0.8,7.1,kencan,diputusin,1,4
+6.3,1,Ya,Ya,2,1.0,8.7,dating,mual,1,4
+4.3,4,Ya,Ya,1,1.5,8.9,olahraga,ketiban sial,1,4
+5.0,4,Tidak,Ya,1,2.5,9.0,scroll hp,sakit hati,1,4
+4.8,2,Tidak,Ya,3,0.6,5.8,scroll hp,sial,1,4
+4.4,3,Tidak,Tidak,2,1.7,3.8,scroll hp,kena sial,1,4
+4.3,4,Ya,Ya,3,0.5,6.8,hobi,sakit perut,1,4
+5.1,0,Tidak,Tidak,2,2.6,8.1,hobi,mimpi buruk,1,4
+4.5,5,Ya,Ya,1,2.0,8.4,kerja,kena sial,1,4
+4.5,0,Tidak,Tidak,2,2.5,9.9,kerja,gajian,1,4
+6.7,0,Ya,Tidak,1,1.3,7.9,olahraga,sakit gigi,1,4
+4.3,2,Tidak,Ya,1,1.4,9.5,hobi,sakit gigi,1,4
+4.5,0,Ya,Tidak,1,2.2,4.9,hobi,sakit hati,1,4
+6.2,4,Ya,Ya,1,0.6,10.0,dating,sakit gigi,1,4
+6.0,4,Tidak,Tidak,4,0.9,6.6,scroll hp,sakit hati,1,4
+4.5,0,Tidak,Tidak,2,1.0,9.4,kerja,senang,1,4
+4.2,2,Tidak,Ya,2,3.0,7.6,jalan-jalan,ketiban sial,1,4
+5.2,3,Ya,Tidak,2,0.8,4.7,masak,galau,1,4
+5.6,1,Tidak,Tidak,2,3.2,5.5,scroll hp,kena sial,1,4
+5.2,1,Ya,Ya,1,1.0,8.8,kencan,jadian,1,4
+5.4,3,Tidak,Ya,2,1.2,7.5,scroll hp,mimpi buruk,1,4
+5.9,2,Ya,Tidak,2,1.8,9.8,kerja,gajian,1,4
+5.8,3,Ya,Ya,2,0.5,9.7,kencan,jadian,1,3
+5.4,0,Ya,Ya,5,1.8,10.0,masak,senang,1,4
+6.7,3,Ya,Ya,3,0.6,6.1,nugas,sakit kepala,1,4
+4.8,3,Ya,Tidak,3,1.1,8.0,masak,sakit perut,1,4
+7.1,0,Tidak,Tidak,3,0.9,5.9,nugas,galau,1,4
+4.8,0,Tidak,Tidak,2,2.9,6.5,jalan-jalan,galau,1,4
+4.6,3,Ya,Ya,4,3.2,6.1,scroll hp,diputusin,1,4
+6.6,2,Tidak,Ya,1,0.7,6.5,nugas,nyaman,1,4
+4.3,4,Ya,Tidak,3,1.2,3.8,scroll hp,kena sial,1,4
+6.2,1,Ya,Ya,1,0.7,8.4,masak,sakit kepala,1,4
+4.8,0,Tidak,Tidak,5,2.7,4.9,nugas,diputusin,1,4
+6.8,0,Tidak,Ya,1,0.9,5.8,nugas,mimpi buruk,1,4
+8.1,0,Tidak,Tidak,4,0.5,7.1,kerja,sakit hati,1,4
+6.5,0,Tidak,Tidak,5,0.7,7.5,kerja,mimpi buruk,1,4
+4.7,4,Tidak,Ya,2,1.9,9.1,hobi,sakit perut,1,3
+4.5,1,Ya,Ya,3,0.5,6.4,olahraga,bahagia,1,4
+4.0,3,Ya,Ya,5,2.0,8.4,hobi,ketiban sial,1,3
+4.9,2,Ya,Tidak,2,3.3,8.4,kerja,senang,1,3
+4.2,0,Ya,Tidak,2,2.5,7.9,dating,bahagia,1,4
+7.5,2,Tidak,Ya,3,1.0,8.6,nugas,sakit gigi,1,4
+5.2,0,Ya,Tidak,4,1.9,10.0,hobi,bahagia,1,4
+6.2,0,Tidak,Ya,3,0.7,6.8,masak,sakit perut,1,4
+5.2,3,Tidak,Tidak,3,0.8,7.3,jalan-jalan,sakit kepala,1,3
+4.7,1,Tidak,Tidak,2,3.3,7.8,hobi,mual,1,4
+6.4,2,Tidak,Ya,2,1.6,9.5,scroll hp,mendapatkan gaji,1,4
+7.5,1,Tidak,Ya,2,0.7,8.9,kerja,mual,1,4
+5.4,1,Ya,Ya,2,1.3,5.8,kencan,mual,1,4
+5.1,1,Tidak,Ya,5,1.5,7.5,hobi,sakit kepala,1,4
+4.7,1,Ya,Tidak,4,0.7,4.9,nugas,dapat uang,1,4
+5.8,1,Tidak,Ya,1,1.4,4.6,scroll hp,kena sial,1,4
+4.2,5,Ya,Tidak,1,0.7,3.8,scroll hp,-,1,4
+4.1,1,Tidak,Tidak,1,1.5,4.6,jalan-jalan,mual,1,4
+4.0,0,Ya,Ya,2,0.7,1.2,nugas,-,1,4
+4.8,1,Ya,Tidak,5,0.7,6.8,dating,bahagia,1,4
+4.4,4,Ya,Ya,1,1.9,9.9,jalan-jalan,-,1,3
+6.3,1,Ya,Ya,1,1.2,7.1,olahraga,ketiban sial,1,4
+4.2,0,Tidak,Tidak,3,2.8,3.7,scroll hp,sakit kepala,1,4
+4.8,3,Ya,Tidak,1,2.3,7.2,masak,galau,1,4
+4.1,2,Tidak,Tidak,2,2.4,7.5,kerja,mual,1,4
+6.4,0,Tidak,Tidak,4,1.6,6.4,kerja,diputusin,1,4
+6.7,0,Ya,Tidak,2,1.8,9.1,kencan,sakit kepala,1,4
+5.7,2,Tidak,Ya,2,1.1,8.9,olahraga,kena sial,1,4
+4.9,1,Tidak,Tidak,4,1.2,4.9,nugas,sakit perut,1,4
+5.5,3,Ya,Ya,2,0.9,7.1,dating,sakit hati,1,4
+5.0,5,Ya,Ya,3,1.6,7.9,nugas,mual,1,4
+4.2,1,Ya,Tidak,1,0.8,5.6,olahraga,nyaman,1,4
+4.3,0,Tidak,Ya,5,1.8,10.0,dating,senang,1,4
+5.7,0,Ya,Tidak,2,1.6,8.6,kerja,nyaman,1,4
+7.2,0,Ya,Ya,2,1.2,7.5,hobi,mimpi buruk,2,4
+4.5,1,Tidak,Ya,2,0.6,5.3,dating,mual,2,4
+5.1,4,Tidak,Tidak,4,1.4,8.8,jalan-jalan,galau,2,2
+6.5,0,Ya,Ya,5,1.4,8.8,masak,kena sial,2,4
+4.4,3,Ya,Ya,5,3.4,8.3,dating,sakit perut,2,3
+6.1,5,Ya,Ya,4,2.2,10.0,nugas,ketiban sial,2,2
+7.2,2,Ya,Tidak,1,1.3,5.3,nugas,mimpi buruk,2,4
+4.0,4,Tidak,Tidak,2,3.3,7.0,scroll hp,dapat gaji,2,2
+6.7,3,Tidak,Tidak,3,2.2,10.0,nugas,galau,2,3
+4.6,3,Tidak,Tidak,2,2.9,6.3,dating,sakit hati,2,2
+6.2,3,Tidak,Tidak,3,2.6,7.0,scroll hp,sial,2,3
+5.7,2,Tidak,Tidak,2,0.8,3.6,dating,sakit hati,2,4
+4.6,3,Tidak,Tidak,1,3.0,8.7,kerja,ketiban sial,2,4
+6.1,3,Ya,Tidak,5,1.2,9.8,olahraga,sial,2,3
+6.5,1,Tidak,Tidak,4,1.3,8.7,kerja,sakit hati,2,4
+5.2,0,Ya,Ya,3,3.3,6.4,dating,sakit hati,2,4
+5.4,1,Ya,Ya,2,2.1,9.9,jalan-jalan,-,2,4
+4.5,5,Ya,Tidak,5,1.3,4.2,scroll hp,mual,2,4
+5.2,5,Tidak,Ya,1,1.9,8.0,kencan,mual,2,2
+4.3,3,Ya,Tidak,2,1.1,0.9,nugas,sakit gigi,2,4
+8.5,1,Tidak,Ya,2,3.3,7.3,scroll hp,ketiban sial,2,4
+5.9,2,Ya,Tidak,2,1.6,5.8,kencan,mimpi buruk,2,4
+5.0,3,Tidak,Tidak,2,1.0,3.5,kerja,sakit kepala,2,4
+6.4,1,Ya,Ya,3,1.4,7.7,olahraga,sakit perut,2,4
+4.2,2,Tidak,Tidak,5,2.5,9.4,hobi,sakit kepala,2,3
+5.5,1,Tidak,Ya,2,1.9,7.7,dating,mimpi buruk,2,4
+6.4,4,Ya,Tidak,2,2.4,7.1,nugas,sakit kepala,2,4
+6.1,0,Ya,Ya,4,0.5,7.2,olahraga,sakit gigi,2,4
+7.7,2,Tidak,Tidak,2,2.9,6.6,scroll hp,diputusin,2,4
+6.9,2,Ya,Tidak,1,0.7,9.2,jalan-jalan,banyak tugas,2,4
+4.7,1,Ya,Tidak,2,2.9,6.6,masak,gajian,2,4
+7.8,1,Tidak,Ya,2,0.8,9.8,olahraga,mual,2,4
+4.8,0,Tidak,Tidak,4,3.4,3.6,nugas,diputusin,2,4
+4.9,3,Tidak,Ya,2,1.5,6.1,nugas,-,2,4
+4.6,3,Tidak,Ya,4,1.7,6.5,kerja,sakit perut,2,3
+4.5,4,Tidak,Tidak,1,1.0,6.1,dating,sakit gigi,2,3
+4.2,0,Tidak,Tidak,5,1.6,4.5,jalan-jalan,ketiban sial,2,4
+4.5,0,Tidak,Tidak,2,0.9,0.6,dating,sial,2,4
+5.4,3,Ya,Ya,4,1.9,7.1,jalan-jalan,mimpi buruk,2,3
+4.1,5,Tidak,Tidak,2,2.7,8.9,scroll hp,bahagia,2,1
+5.1,1,Ya,Ya,3,1.4,6.4,kencan,sakit perut,2,4
+5.1,5,Ya,Tidak,2,0.9,8.6,olahraga,nyaman,2,2
+5.9,0,Tidak,Tidak,4,1.8,7.1,scroll hp,bahagia,2,4
+6.2,1,Tidak,Ya,5,3.3,8.6,kerja,sial,2,4
+5.1,1,Tidak,Ya,1,1.7,4.8,hobi,sakit gigi,2,4
+4.3,5,Tidak,Tidak,2,1.2,8.0,masak,sakit gigi,2,3
+5.6,4,Ya,Tidak,3,1.1,8.7,dating,sial,2,3
+6.1,1,Tidak,Tidak,2,0.5,3.4,dating,sakit perut,2,4
+4.1,1,Tidak,Ya,1,3.3,6.7,masak,sakit perut,2,4
+5.0,1,Ya,Tidak,2,2.6,6.0,kencan,sakit kepala,2,4
+6.2,1,Tidak,Ya,2,2.2,6.7,kencan,sakit perut,2,4
+7.7,1,Tidak,Tidak,4,0.7,7.7,dating,diputusin,2,4
+6.3,3,Tidak,Tidak,5,0.7,9.3,kencan,sakit perut,2,4
+4.1,4,Ya,Ya,3,2.9,7.0,nugas,-,2,3
+4.0,0,Tidak,Tidak,1,2.3,7.0,kerja,nyaman,2,4
+6.8,2,Ya,Ya,2,1.0,8.5,scroll hp,mendapatkan gaji,2,4
+7.9,2,Ya,Tidak,3,1.6,7.9,nugas,kena sial,2,4
+6.3,2,Ya,Tidak,1,3.3,8.1,scroll hp,banyak tugas,2,4
+6.0,1,Ya,Tidak,1,3.4,3.2,scroll hp,sakit kepala,2,4
+6.7,2,Tidak,Tidak,3,2.6,8.4,scroll hp,sakit perut,2,4
+6.8,2,Tidak,Tidak,1,1.8,9.9,jalan-jalan,-,2,3
+5.5,4,Ya,Tidak,1,1.2,4.3,nugas,banyak tugas,2,4
+4.6,5,Tidak,Tidak,5,0.9,5.3,scroll hp,diputusin,2,4
+5.3,0,Tidak,Tidak,2,0.7,5.8,kerja,-,2,4
+6.4,1,Ya,Tidak,4,1.8,7.2,masak,sakit perut,2,4
+4.4,3,Ya,Tidak,3,3.5,3.4,nugas,mual,2,3
+4.9,1,Tidak,Tidak,4,0.6,8.5,dating,dapat gaji,2,3
+7.5,1,Ya,Tidak,2,1.1,8.7,kencan,ketiban sial,2,4
+6.4,5,Tidak,Tidak,2,0.9,8.4,dating,sakit kepala,2,3
+4.4,4,Ya,Tidak,2,2.9,6.4,masak,mimpi buruk,2,4
+5.4,5,Tidak,Ya,2,1.1,7.2,nugas,mual,2,4
+4.9,1,Ya,Ya,5,2.2,6.8,jalan-jalan,banyak tugas,2,4
+5.5,0,Ya,Ya,2,2.5,5.4,kencan,sakit perut,2,4
+5.2,0,Tidak,Ya,5,2.3,7.7,masak,diputusin,2,4
+4.3,3,Tidak,Tidak,5,0.8,2.3,scroll hp,kena sial,2,4
+5.0,0,Tidak,Tidak,4,0.7,4.9,hobi,ketiban sial,2,4
+4.3,0,Ya,Ya,4,2.3,6.3,olahraga,-,2,4
+6.0,4,Tidak,Ya,2,0.7,9.8,hobi,galau,2,4
+6.1,3,Tidak,Tidak,1,3.1,9.9,olahraga,sakit kepala,2,2
+6.9,1,Ya,Tidak,5,3.4,8.6,kerja,mual,2,4
+4.9,3,Ya,Ya,3,2.6,10.0,masak,banyak tugas,2,3
+6.7,5,Tidak,Tidak,1,0.7,5.7,nugas,sakit kepala,2,4
+4.2,5,Ya,Ya,4,1.1,8.3,kencan,sial,2,2
+6.1,4,Ya,Tidak,3,1.0,8.0,kerja,mual,2,3
+4.1,1,Ya,Ya,5,3.0,8.9,jalan-jalan,banyak tugas,2,4
+5.2,5,Ya,Ya,5,0.8,9.7,scroll hp,senang,2,4
+6.0,5,Ya,Tidak,1,3.4,8.1,nugas,sakit kepala,2,3
+7.0,0,Tidak,Tidak,3,1.9,8.3,jalan-jalan,mimpi buruk,2,4
+5.0,0,Ya,Tidak,5,0.8,2.8,kerja,mimpi buruk,2,4
+4.6,3,Tidak,Tidak,4,1.6,9.5,kerja,happy,2,2
+4.1,2,Tidak,Tidak,5,2.1,8.5,jalan-jalan,mual,2,3
+4.6,2,Tidak,Ya,4,2.8,8.7,kencan,sakit gigi,2,3
+4.5,0,Ya,Ya,2,3.5,5.9,scroll hp,nyaman,2,4
+4.7,3,Tidak,Tidak,2,2.5,8.6,kerja,diputusin,2,4
+4.2,4,Tidak,Tidak,1,3.0,7.2,masak,sakit hati,2,3
+4.2,2,Tidak,Ya,4,1.9,9.6,jalan-jalan,happy,2,2
+5.6,1,Ya,Ya,2,2.9,9.8,hobi,bahagia,2,4
+5.3,2,Tidak,Ya,2,0.7,8.9,olahraga,gajian,2,4
+7.4,2,Tidak,Ya,2,0.6,5.6,scroll hp,sakit gigi,2,4
+8.7,3,Tidak,Ya,2,0.6,8.4,scroll hp,diputusin,2,4
+6.7,0,Tidak,Tidak,1,2.1,8.6,masak,galau,2,4
+4.7,4,Ya,Tidak,3,3.2,9.2,kencan,diputusin,2,2
+4.4,1,Tidak,Ya,1,2.7,9.9,olahraga,banyak tugas,2,4
+6.1,2,Tidak,Ya,2,1.3,9.2,nugas,dapat uang,2,4
+6.7,2,Tidak,Ya,4,1.2,9.6,scroll hp,bahagia,2,4
+5.9,0,Ya,Tidak,2,2.7,2.0,scroll hp,mimpi buruk,2,4
+5.6,0,Tidak,Ya,2,3.0,8.9,hobi,sakit perut,2,4
+5.0,2,Tidak,Ya,3,0.5,5.5,masak,galau,2,4
+4.9,4,Ya,Ya,2,0.6,6.5,masak,dapat uang,2,4
+5.3,2,Tidak,Ya,4,1.9,6.2,olahraga,sakit gigi,2,4
+5.7,5,Ya,Tidak,1,1.8,7.6,scroll hp,bahagia,2,3
+4.7,1,Tidak,Ya,1,1.1,8.1,dating,gajian,2,4
+6.0,0,Ya,Ya,3,2.0,9.5,dating,mual,2,4
+5.7,5,Ya,Ya,1,1.0,5.6,nugas,sakit gigi,2,4
+5.6,2,Tidak,Ya,2,2.5,9.3,hobi,galau,2,4
+7.7,1,Ya,Ya,4,0.6,9.2,scroll hp,-,2,4
+5.7,3,Tidak,Tidak,1,1.9,7.8,scroll hp,happy,2,3
+4.6,2,Ya,Tidak,1,1.8,3.4,kencan,ketiban sial,2,4
+4.3,0,Tidak,Tidak,3,1.3,8.7,hobi,dapat gaji,2,2
+6.3,4,Tidak,Tidak,4,1.9,8.4,scroll hp,kena sial,2,4
+5.7,1,Tidak,Ya,1,1.0,6.1,jalan-jalan,sial,2,4
+4.2,2,Ya,Tidak,5,1.6,4.2,kencan,sakit gigi,2,4
+5.3,0,Ya,Tidak,2,3.2,4.3,olahraga,sakit kepala,2,4
+5.9,1,Ya,Ya,1,1.2,5.9,kerja,jadian,2,4
+7.2,2,Ya,Ya,1,0.8,8.0,olahraga,banyak tugas,2,4
+7.0,0,Ya,Ya,1,2.0,4.7,nugas,sakit kepala,2,4
+5.7,2,Ya,Tidak,1,1.8,7.0,masak,happy,2,4
+5.6,0,Ya,Ya,5,1.5,6.6,jalan-jalan,gajian,2,4
+5.9,0,Tidak,Ya,2,3.1,7.6,nugas,happy,2,4
+4.9,4,Ya,Ya,1,2.1,6.5,kencan,sakit kepala,2,3
+7.4,2,Tidak,Ya,2,2.2,7.3,scroll hp,sakit hati,2,4
+5.2,0,Tidak,Tidak,2,1.8,4.4,kerja,sakit perut,2,4
+4.8,4,Ya,Tidak,2,2.3,6.6,masak,mimpi buruk,2,4
+5.5,3,Ya,Tidak,4,2.0,8.9,hobi,diputusin,2,2
+5.6,4,Tidak,Tidak,2,1.1,8.7,scroll hp,gajian,2,3
+6.0,0,Ya,Ya,1,1.5,9.8,masak,nyaman,2,4
+5.4,0,Ya,Tidak,1,2.5,6.0,scroll hp,jadian,2,4
+4.5,2,Ya,Tidak,3,1.8,7.3,masak,nyaman,2,3
+4.3,3,Ya,Tidak,1,0.9,2.6,nugas,dapat gaji,2,3
+6.7,5,Ya,Ya,1,1.8,8.5,scroll hp,sakit kepala,2,4
+6.3,0,Ya,Ya,2,0.8,8.8,kencan,nyaman,2,4
+5.2,0,Ya,Ya,1,2.3,5.3,masak,sakit gigi,2,4
+4.2,3,Ya,Tidak,1,0.6,4.9,olahraga,senang,2,2
+5.8,4,Ya,Tidak,1,1.4,7.0,hobi,sakit hati,2,4
+5.7,0,Ya,Ya,4,2.8,6.1,jalan-jalan,ketiban sial,2,4
+6.0,0,Tidak,Ya,1,1.8,4.8,olahraga,sakit hati,2,4
+6.5,4,Ya,Tidak,2,1.6,9.8,scroll hp,dapat gaji,2,3
+5.8,0,Tidak,Tidak,3,2.0,9.5,kerja,sial,2,4
+4.7,0,Ya,Ya,1,3.1,8.1,masak,jadian,2,4
+5.0,1,Ya,Ya,3,2.4,8.8,hobi,-,2,4
+7.6,3,Ya,Tidak,2,3.1,7.5,nugas,diputusin,2,4
+4.6,5,Tidak,Ya,4,0.8,6.9,jalan-jalan,kena sial,2,2
+5.9,0,Tidak,Tidak,3,2.3,8.5,scroll hp,mendapatkan gaji,2,4
+4.0,1,Ya,Tidak,3,2.2,7.3,kerja,nyaman,2,4
+6.1,2,Tidak,Tidak,5,1.9,6.3,kerja,kena sial,2,4
+6.5,1,Ya,Ya,2,1.0,8.1,hobi,kena sial,2,4
+4.8,4,Ya,Ya,4,2.2,4.7,scroll hp,sakit hati,2,3
+5.2,3,Ya,Ya,3,3.2,7.3,kerja,galau,2,4
+4.6,0,Tidak,Tidak,2,2.5,4.6,kerja,mual,2,4
+4.5,0,Ya,Tidak,1,1.7,4.7,jalan-jalan,senang,2,4
+7.5,3,Ya,Tidak,1,0.6,8.9,scroll hp,bahagia,2,4
+6.4,3,Ya,Tidak,1,0.9,9.9,dating,-,2,3
+5.3,5,Ya,Tidak,5,0.6,6.5,kencan,sakit gigi,2,4
+4.7,1,Tidak,Ya,5,2.4,8.4,kencan,diputusin,2,4
+4.0,0,Ya,Ya,5,1.6,1.1,scroll hp,mual,2,4
+6.3,3,Tidak,Tidak,1,2.5,6.1,scroll hp,sakit gigi,2,4
+6.2,0,Ya,Ya,4,2.0,9.6,dating,sial,2,4
+4.9,0,Ya,Ya,5,2.5,6.5,olahraga,sakit hati,2,4
+6.1,5,Tidak,Ya,3,0.7,9.8,jalan-jalan,mual,2,2
+5.0,1,Tidak,Ya,2,1.5,4.1,kerja,sial,2,4
+5.8,0,Tidak,Ya,1,0.8,5.0,kencan,kena sial,2,4
+7.0,0,Tidak,Ya,2,2.9,7.8,scroll hp,-,2,4
+5.3,1,Tidak,Tidak,2,0.6,6.7,kencan,dapat gaji,2,4
+4.9,5,Ya,Tidak,2,0.7,4.0,dating,kena sial,2,3
+5.7,2,Tidak,Ya,5,0.6,6.4,olahraga,ketiban sial,2,4
+7.6,3,Ya,Ya,2,1.0,8.2,nugas,banyak tugas,2,4
+5.2,4,Tidak,Ya,1,2.1,9.0,hobi,sial,2,2
+5.0,1,Ya,Tidak,5,1.0,7.3,jalan-jalan,dapat uang,2,4
+6.7,1,Ya,Tidak,1,1.6,6.3,dating,ketiban sial,2,4
+5.1,3,Ya,Tidak,2,0.8,3.6,kerja,gajian,2,3
+5.7,3,Ya,Ya,2,0.6,5.4,hobi,banyak tugas,2,4
+4.9,2,Tidak,Tidak,4,2.0,8.8,jalan-jalan,mual,2,2
+7.4,0,Ya,Ya,5,0.9,7.6,kerja,diputusin,2,4
+6.4,1,Ya,Tidak,1,2.9,3.9,nugas,diputusin,2,4
+4.2,2,Ya,Ya,1,2.3,4.9,dating,diputusin,2,4
+5.5,0,Tidak,Tidak,5,3.1,9.5,nugas,senang,2,4
+4.5,5,Ya,Ya,1,2.0,6.6,jalan-jalan,mimpi buruk,2,2
+4.8,0,Tidak,Tidak,4,0.6,4.2,dating,galau,2,4
+6.1,0,Tidak,Tidak,4,1.5,9.6,kerja,jadian,2,4
+8.6,3,Ya,Ya,3,0.6,8.9,nugas,mual,2,4
+5.0,3,Tidak,Ya,3,1.1,8.4,scroll hp,dapat uang,2,2
+5.6,5,Tidak,Tidak,4,2.4,8.6,scroll hp,sakit kepala,2,2
+5.8,2,Ya,Ya,2,1.1,1.4,nugas,diputusin,2,4
+7.5,2,Ya,Tidak,1,1.0,8.7,masak,sakit perut,2,4
+4.5,4,Ya,Ya,4,3.5,4.7,nugas,kena sial,2,3
+5.9,4,Ya,Tidak,1,2.2,7.6,dating,kena sial,2,3
+4.1,1,Ya,Tidak,4,2.8,4.0,kerja,diputusin,2,4
+4.6,2,Tidak,Ya,4,2.3,7.9,hobi,sial,2,3
+4.7,4,Ya,Tidak,5,3.4,6.8,nugas,banyak tugas,2,4
+4.9,2,Ya,Tidak,1,1.7,5.9,dating,-,2,3
+5.9,2,Ya,Ya,2,2.0,5.9,nugas,kena sial,2,4
+4.6,4,Ya,Tidak,5,3.0,9.4,hobi,sakit perut,2,3
+4.5,4,Ya,Tidak,4,1.5,4.6,kerja,sakit hati,2,4
+7.6,2,Ya,Ya,3,0.9,9.0,kencan,sakit kepala,2,4
+6.0,1,Ya,Ya,1,0.5,4.6,hobi,galau,2,4
+6.3,1,Ya,Tidak,5,1.7,9.4,hobi,sakit hati,2,4
+4.2,5,Ya,Tidak,3,1.4,6.4,olahraga,sakit kepala,2,2
+4.2,4,Ya,Tidak,2,3.3,3.3,kerja,kena sial,2,4
+4.7,1,Tidak,Tidak,3,3.0,8.9,kencan,mual,2,3
+6.2,1,Tidak,Tidak,1,3.1,5.5,scroll hp,sakit kepala,2,4
+5.8,5,Tidak,Ya,2,2.3,9.2,scroll hp,sakit gigi,2,3
+7.2,2,Tidak,Tidak,3,0.8,9.0,hobi,mimpi buruk,2,4
+5.4,0,Ya,Ya,2,3.0,1.8,nugas,sial,2,4
+6.9,1,Tidak,Tidak,4,2.0,6.6,scroll hp,sakit hati,2,4
+5.4,1,Ya,Tidak,1,1.7,0.8,scroll hp,galau,2,4
+4.2,3,Ya,Ya,5,0.6,1.8,scroll hp,ketiban sial,2,4
+5.2,3,Ya,Tidak,4,1.9,8.2,jalan-jalan,-,2,2
+6.8,2,Ya,Ya,1,0.6,7.4,olahraga,galau,2,4
+8.3,1,Tidak,Ya,1,2.1,9.7,scroll hp,sakit kepala,2,4
+6.2,2,Tidak,Tidak,2,3.3,9.4,kencan,sakit hati,2,3
+5.5,5,Ya,Tidak,2,0.8,9.2,kencan,mendapatkan gaji,2,2
+5.7,1,Tidak,Tidak,1,2.0,8.0,dating,sakit perut,2,4
+4.1,1,Tidak,Ya,2,1.2,4.4,kerja,nyaman,2,4
+4.8,3,Ya,Tidak,4,2.5,8.0,scroll hp,bahagia,2,2
+4.5,2,Tidak,Ya,5,1.7,5.4,scroll hp,mual,2,4
+6.3,0,Ya,Ya,2,2.4,6.5,scroll hp,nyaman,2,4
+8.0,5,Tidak,Ya,2,0.8,9.1,nugas,kena sial,2,4
+7.4,0,Tidak,Ya,2,3.4,9.5,kencan,sakit perut,2,4
+5.5,2,Ya,Ya,3,0.8,8.6,jalan-jalan,happy,2,4
+5.6,1,Ya,Tidak,3,0.6,3.2,jalan-jalan,mual,2,4
+8.5,0,Tidak,Ya,2,3.5,8.3,scroll hp,sakit perut,2,4
+4.8,4,Ya,Tidak,1,1.3,8.8,olahraga,happy,2,2
+4.0,4,Ya,Tidak,1,1.7,3.4,scroll hp,jadian,2,3
+5.5,2,Ya,Ya,5,2.6,9.9,hobi,banyak tugas,2,4
+6.7,0,Ya,Ya,1,0.8,5.9,olahraga,sakit hati,2,4
+6.1,1,Ya,Ya,5,2.5,8.2,nugas,ketiban sial,2,4
+4.7,5,Tidak,Ya,2,1.3,7.6,dating,sakit perut,2,2
+7.5,0,Tidak,Tidak,2,2.2,7.4,nugas,-,2,4
+5.4,0,Ya,Tidak,2,2.7,9.3,olahraga,happy,2,4
+4.5,5,Ya,Tidak,2,2.7,7.8,hobi,ketiban sial,2,2
+4.6,4,Ya,Ya,5,1.1,7.5,hobi,sial,2,4
+4.3,0,Ya,Tidak,1,1.1,4.3,dating,mendapatkan gaji,2,4
+7.5,1,Tidak,Ya,1,1.4,9.5,scroll hp,happy,2,4
+5.9,2,Ya,Tidak,1,3.3,3.2,scroll hp,ketiban sial,2,4
+5.7,5,Tidak,Ya,5,2.6,10.0,scroll hp,sakit perut,2,3
+5.8,2,Ya,Ya,5,0.9,5.4,masak,sakit perut,2,4
+6.8,0,Tidak,Tidak,4,1.9,7.7,hobi,mimpi buruk,2,4
+5.2,5,Tidak,Tidak,4,0.6,8.4,kencan,sakit perut,2,2
+5.3,1,Ya,Tidak,4,1.2,8.3,kencan,jadian,2,3
+6.5,3,Tidak,Ya,2,0.6,6.9,jalan-jalan,mimpi buruk,2,4
+5.7,3,Ya,Ya,2,3.1,7.7,kerja,diputusin,2,4
+4.6,2,Tidak,Ya,2,3.3,6.1,kerja,sial,2,4
+4.6,4,Tidak,Tidak,1,0.9,5.2,masak,galau,2,4
+5.6,0,Tidak,Tidak,3,0.8,5.1,kerja,mual,2,4
+4.2,2,Tidak,Tidak,4,2.5,6.5,kencan,sakit perut,2,2
+5.2,3,Ya,Ya,2,1.9,7.2,scroll hp,senang,2,4
+5.3,0,Ya,Ya,1,2.2,8.8,masak,senang,2,4
+4.7,0,Ya,Tidak,5,2.9,4.2,nugas,senang,2,4
+6.6,3,Ya,Ya,4,0.9,8.3,kerja,sakit kepala,2,4
+4.8,5,Ya,Ya,1,1.6,7.4,masak,banyak tugas,2,4
+4.8,5,Tidak,Ya,2,0.5,5.5,nugas,ketiban sial,2,4
+5.1,3,Tidak,Tidak,5,2.9,8.5,nugas,-,2,3
+4.1,2,Tidak,Tidak,2,1.9,7.7,masak,dapat gaji,2,3
+7.5,0,Ya,Tidak,2,3.1,9.2,kencan,sakit gigi,2,4
+4.4,3,Ya,Tidak,1,1.5,8.0,masak,happy,2,3
+5.7,3,Ya,Ya,2,0.6,9.9,hobi,nyaman,2,3
+4.6,2,Ya,Tidak,2,1.9,2.6,kerja,mimpi buruk,2,4
+7.7,0,Tidak,Tidak,5,0.9,7.4,kencan,diputusin,2,4
+6.4,0,Ya,Ya,2,2.3,6.5,jalan-jalan,mimpi buruk,2,4
+4.2,5,Ya,Tidak,2,0.9,0.7,nugas,ketiban sial,2,4
+4.9,0,Tidak,Ya,3,2.7,8.0,jalan-jalan,mual,2,4
+8.3,1,Ya,Tidak,1,3.2,7.1,nugas,mimpi buruk,2,4
+4.6,0,Ya,Ya,5,2.5,8.4,kerja,jadian,2,4
+4.9,2,Tidak,Tidak,4,0.6,2.5,nugas,sakit hati,2,4
+6.7,5,Tidak,Tidak,5,0.7,8.0,kerja,mual,2,4
+4.7,2,Ya,Tidak,1,0.5,2.1,scroll hp,mendapatkan gaji,2,4
+9.0,0,Tidak,Tidak,2,0.6,6.8,hobi,galau,2,4
+6.3,5,Tidak,Ya,1,0.9,9.2,jalan-jalan,kena sial,2,3
+4.6,2,Ya,Ya,4,1.5,8.3,hobi,mendapatkan gaji,2,3
+6.9,3,Tidak,Ya,3,0.6,8.7,masak,kena sial,2,4
+4.6,1,Ya,Ya,2,2.4,8.0,kencan,bahagia,2,4
+6.8,2,Tidak,Ya,2,1.8,8.0,dating,galau,2,4
+7.0,0,Ya,Ya,3,2.8,7.2,scroll hp,-,2,4
+4.6,1,Ya,Tidak,2,2.3,5.4,kencan,sakit gigi,2,4
+5.1,4,Tidak,Tidak,2,1.0,8.3,masak,galau,2,4
+8.2,2,Tidak,Ya,1,1.9,7.5,nugas,sakit gigi,2,4
+6.9,0,Ya,Tidak,1,3.0,8.9,nugas,bahagia,2,4
+6.9,2,Tidak,Tidak,4,3.3,9.1,nugas,sial,2,4
+7.8,2,Ya,Tidak,1,2.7,9.9,kerja,sakit hati,2,4
+7.2,0,Ya,Ya,3,0.6,9.8,scroll hp,nyaman,2,4
+8.2,1,Tidak,Tidak,4,2.4,9.2,nugas,sial,2,4
+6.2,1,Tidak,Tidak,4,1.0,8.1,hobi,mimpi buruk,2,4
+6.4,3,Ya,Ya,1,1.5,6.0,scroll hp,sakit gigi,2,4
+6.9,0,Ya,Tidak,1,3.0,6.1,kerja,mimpi buruk,2,4
+5.2,3,Ya,Tidak,1,2.3,6.2,jalan-jalan,mimpi buruk,2,3
+4.6,0,Ya,Ya,5,3.4,5.9,masak,diputusin,2,4
+4.6,1,Ya,Ya,1,1.0,4.4,scroll hp,dapat uang,2,4
+5.2,3,Ya,Tidak,5,2.5,4.8,nugas,galau,2,4
+6.7,5,Tidak,Tidak,1,1.1,8.0,kerja,ketiban sial,2,3
+4.7,0,Tidak,Ya,1,3.4,7.5,dating,sakit perut,2,4
+7.9,0,Tidak,Tidak,4,0.9,4.9,nugas,sial,2,4
+4.9,5,Tidak,Tidak,4,2.0,7.2,nugas,mual,2,2
+6.0,5,Tidak,Tidak,1,1.9,9.2,nugas,-,2,3
+7.8,2,Tidak,Tidak,4,1.3,9.8,scroll hp,banyak tugas,2,4
+4.8,3,Ya,Tidak,1,0.7,2.7,kerja,sakit kepala,2,4
+4.7,3,Tidak,Tidak,3,1.2,3.8,scroll hp,sakit hati,2,3
+4.3,1,Ya,Ya,2,2.8,2.3,kerja,mual,2,4
+7.0,1,Tidak,Tidak,1,1.6,6.3,jalan-jalan,sakit perut,2,4
+6.4,0,Ya,Ya,2,1.3,7.4,nugas,mendapatkan gaji,2,4
+8.9,4,Ya,Tidak,1,1.3,9.0,scroll hp,sakit gigi,2,4
+4.5,2,Ya,Ya,2,0.5,2.2,masak,sakit kepala,2,4
+4.4,1,Ya,Tidak,2,3.0,2.8,kerja,mual,2,4
+7.3,5,Ya,Tidak,5,0.5,7.3,scroll hp,kena sial,2,4
+6.7,0,Ya,Ya,3,2.3,8.9,nugas,mimpi buruk,2,4
+5.6,0,Tidak,Ya,3,2.4,6.9,scroll hp,dapat uang,2,4
+5.3,2,Ya,Tidak,5,1.4,9.6,dating,dapat gaji,2,3
+5.3,5,Ya,Tidak,4,1.0,9.9,jalan-jalan,sakit gigi,2,2
+7.2,1,Tidak,Ya,5,0.7,7.8,nugas,senang,2,4
+4.5,3,Tidak,Ya,2,2.2,9.6,dating,mual,2,2
+6.1,1,Ya,Ya,4,0.5,6.8,hobi,galau,2,4
+4.7,2,Ya,Tidak,1,3.3,4.4,hobi,ketiban sial,2,3
+5.6,3,Tidak,Ya,1,3.2,7.9,nugas,-,2,3
+4.5,4,Tidak,Ya,3,1.1,6.7,nugas,kena sial,2,4
+6.5,0,Ya,Tidak,3,1.5,5.0,scroll hp,diputusin,2,4
+5.0,0,Ya,Ya,4,2.0,4.1,nugas,sial,2,4
+4.7,1,Ya,Tidak,2,0.5,5.6,jalan-jalan,dapat uang,2,4
+4.9,1,Tidak,Tidak,1,1.3,7.0,masak,happy,2,4
+6.6,1,Tidak,Tidak,5,1.7,8.6,nugas,mendapatkan gaji,2,4
+4.9,3,Ya,Ya,5,1.4,9.0,dating,galau,2,4
+8.2,1,Ya,Tidak,1,1.8,9.1,jalan-jalan,ketiban sial,2,4
+4.0,1,Ya,Tidak,5,2.5,5.3,jalan-jalan,mimpi buruk,2,4
+4.2,1,Ya,Ya,2,2.3,5.1,kencan,sakit hati,2,4
+4.2,5,Tidak,Tidak,4,1.9,8.5,olahraga,sial,2,1
+7.6,0,Tidak,Ya,4,1.3,7.2,scroll hp,sakit gigi,2,4
+4.2,1,Tidak,Tidak,1,3.5,7.9,kerja,dapat uang,2,3
+5.8,3,Ya,Tidak,1,0.5,7.9,dating,nyaman,2,3
+6.2,1,Tidak,Ya,4,1.5,7.5,dating,kena sial,2,4
+5.7,0,Ya,Ya,4,1.7,8.3,olahraga,bahagia,2,4
+5.4,5,Tidak,Ya,4,0.8,9.7,masak,diputusin,2,3
+6.3,0,Ya,Tidak,5,1.4,3.7,scroll hp,kena sial,2,4
+4.9,5,Tidak,Tidak,5,0.7,6.6,scroll hp,gajian,2,3
+7.0,1,Tidak,Tidak,2,1.6,8.1,scroll hp,happy,2,4
+4.6,0,Tidak,Tidak,3,2.3,8.1,hobi,banyak tugas,2,4
+5.4,1,Ya,Ya,4,0.9,3.3,olahraga,sial,2,4
+5.2,0,Ya,Ya,3,2.8,7.9,masak,ketiban sial,2,4
+8.3,3,Tidak,Ya,2,0.8,9.6,hobi,sakit kepala,2,4
+7.4,1,Ya,Tidak,1,1.5,9.7,olahraga,sakit perut,2,4
+4.1,5,Ya,Ya,1,1.9,5.2,scroll hp,dapat uang,2,2
+4.5,0,Ya,Tidak,1,3.4,3.5,jalan-jalan,galau,2,4
+6.3,0,Tidak,Tidak,4,3.4,9.4,hobi,galau,2,4
+5.1,4,Ya,Ya,3,0.8,8.2,nugas,bahagia,2,4
+5.6,0,Tidak,Tidak,4,2.0,8.5,olahraga,diputusin,2,4
+4.5,1,Ya,Tidak,1,3.5,5.0,hobi,diputusin,2,4
+6.6,4,Ya,Tidak,4,2.3,10.0,scroll hp,sial,2,3
+4.3,2,Tidak,Tidak,3,1.7,6.0,nugas,-,2,3
+7.0,4,Ya,Ya,1,0.6,7.0,nugas,mendapatkan gaji,2,4
+5.5,0,Tidak,Tidak,1,2.4,3.8,kerja,mual,2,4
+4.5,2,Tidak,Ya,5,1.4,9.2,kerja,mual,2,4
+6.3,0,Ya,Ya,3,0.9,5.9,dating,mimpi buruk,2,4
+8.3,2,Ya,Tidak,3,1.3,8.9,nugas,sakit kepala,2,4
+6.2,3,Ya,Tidak,1,0.7,6.8,kencan,banyak tugas,2,4
+4.9,2,Ya,Tidak,4,1.6,9.8,dating,gajian,2,2
+4.9,2,Ya,Tidak,3,3.4,7.1,masak,mimpi buruk,2,4
+5.0,3,Tidak,Ya,4,1.5,9.1,hobi,mimpi buruk,2,2
+4.7,5,Ya,Tidak,2,2.7,8.8,jalan-jalan,sakit kepala,2,2
+4.2,0,Tidak,Tidak,4,1.0,4.4,olahraga,sakit hati,2,4
+4.5,0,Ya,Ya,1,2.4,4.4,dating,sakit perut,2,4
+4.8,1,Ya,Tidak,1,0.8,1.2,nugas,mendapatkan gaji,2,4
+5.4,4,Tidak,Tidak,2,2.6,9.5,scroll hp,happy,2,2
+5.7,5,Ya,Tidak,2,2.9,9.1,dating,sakit kepala,2,2
+4.6,0,Ya,Ya,5,0.9,4.6,hobi,dapat uang,2,4
+6.5,1,Tidak,Ya,3,2.7,6.4,nugas,galau,2,4
+4.5,4,Tidak,Tidak,3,0.9,6.5,hobi,sial,2,3
+4.8,1,Tidak,Ya,2,0.5,5.0,scroll hp,dapat uang,2,4
+4.2,3,Ya,Ya,5,2.1,6.8,scroll hp,senang,2,3
+7.5,0,Ya,Tidak,2,1.2,7.6,hobi,sial,2,4
+7.1,3,Ya,Ya,1,0.5,3.4,scroll hp,sakit kepala,2,4
+8.3,0,Ya,Tidak,4,0.9,4.1,scroll hp,sakit perut,2,4
+7.1,0,Ya,Tidak,4,1.2,8.7,dating,sakit kepala,2,4
+4.5,2,Ya,Tidak,2,3.3,4.9,olahraga,galau,2,3
+4.0,4,Ya,Ya,3,3.2,9.7,jalan-jalan,sakit hati,2,2
+5.3,1,Tidak,Ya,2,2.0,7.1,jalan-jalan,mual,2,4
+6.0,4,Tidak,Tidak,3,0.6,8.7,scroll hp,bahagia,2,3
+6.4,3,Tidak,Tidak,2,1.6,8.9,kencan,diputusin,2,3
+6.1,4,Ya,Tidak,5,3.3,9.7,nugas,sakit hati,2,4
+6.0,2,Tidak,Ya,5,1.9,9.9,kerja,mual,2,4
+4.2,0,Ya,Tidak,4,0.6,3.2,kencan,dapat uang,2,4
+5.5,2,Ya,Ya,4,1.9,7.4,masak,galau,2,4
+8.1,1,Tidak,Tidak,1,1.3,5.7,scroll hp,sial,2,4
+4.1,0,Ya,Ya,4,0.7,5.6,hobi,happy,2,4
+5.2,2,Tidak,Tidak,2,1.6,5.6,jalan-jalan,sakit perut,2,3
+6.7,1,Tidak,Tidak,1,2.1,8.0,jalan-jalan,sakit gigi,2,4
+5.2,3,Tidak,Tidak,1,0.5,5.4,kencan,sakit hati,2,3
+4.4,5,Tidak,Tidak,4,1.7,7.9,scroll hp,-,2,2
+4.8,5,Tidak,Tidak,1,0.7,6.1,olahraga,diputusin,2,3
+5.8,0,Tidak,Ya,2,1.1,6.6,hobi,diputusin,2,4
+4.6,4,Tidak,Ya,4,0.9,6.8,dating,sakit perut,2,3
+5.4,3,Ya,Ya,1,3.3,5.9,kerja,sakit perut,2,3
+6.9,0,Ya,Ya,5,0.9,6.9,olahraga,-,2,4
+5.9,5,Ya,Tidak,3,0.8,4.2,scroll hp,mual,2,4
+8.0,0,Tidak,Tidak,4,1.0,7.7,jalan-jalan,ketiban sial,3,4
+4.4,2,Ya,Ya,3,2.4,8.4,kerja,dapat gaji,3,3
+4.3,4,Ya,Tidak,2,3.4,8.4,dating,gajian,3,1
+4.7,2,Tidak,Ya,3,3.1,8.9,dating,sakit perut,3,3
+6.7,2,Ya,Tidak,2,0.9,6.0,masak,mimpi buruk,3,4
+4.1,1,Tidak,Tidak,1,1.3,4.3,kencan,senang,3,2
+4.8,4,Tidak,Ya,2,2.7,9.7,kerja,sakit hati,3,3
+4.4,5,Ya,Ya,3,1.2,8.4,masak,sakit perut,3,3
+4.1,2,Tidak,Tidak,3,1.1,2.2,nugas,sakit perut,3,3
+4.2,3,Ya,Ya,1,2.3,7.5,kerja,dapat gaji,3,2
+7.6,3,Ya,Tidak,1,0.6,8.8,olahraga,banyak tugas,3,4
+5.2,4,Ya,Tidak,3,1.4,3.9,nugas,-,3,3
+6.7,2,Tidak,Tidak,4,1.3,8.4,scroll hp,dapat uang,3,3
+7.9,1,Ya,Ya,3,0.5,6.1,hobi,sakit gigi,3,4
+4.3,3,Ya,Tidak,5,2.9,6.5,kencan,banyak tugas,3,3
+4.8,0,Ya,Ya,3,2.9,4.8,kerja,diputusin,3,4
+5.5,0,Ya,Tidak,5,2.1,5.3,jalan-jalan,sial,3,4
+5.8,4,Tidak,Tidak,3,1.9,9.9,jalan-jalan,ketiban sial,3,2
+6.7,5,Ya,Tidak,3,1.8,6.3,scroll hp,mimpi buruk,3,3
+4.7,2,Tidak,Tidak,2,2.9,5.7,jalan-jalan,sakit kepala,3,2
+7.5,2,Tidak,Ya,1,2.1,9.3,hobi,sial,3,4
+8.8,1,Tidak,Tidak,3,0.6,6.0,nugas,sakit perut,3,4
+4.2,1,Tidak,Ya,5,2.9,7.3,kencan,sakit kepala,3,4
+5.1,2,Tidak,Tidak,4,2.6,7.8,masak,sakit perut,3,3
+6.5,1,Ya,Tidak,2,1.9,8.6,jalan-jalan,dapat uang,3,3
+4.6,1,Tidak,Ya,5,2.0,7.3,dating,sakit kepala,3,4
+6.3,0,Ya,Tidak,3,2.5,5.8,nugas,-,3,4
+6.0,1,Tidak,Tidak,4,2.8,5.7,nugas,galau,3,4
+5.5,3,Ya,Ya,5,2.7,7.9,hobi,kena sial,3,3
+5.3,2,Tidak,Tidak,4,0.7,5.2,nugas,gajian,3,3
+5.7,3,Ya,Ya,4,1.2,9.6,hobi,senang,3,1
+7.7,1,Ya,Ya,1,1.8,4.8,nugas,banyak tugas,3,4
+5.1,2,Ya,Ya,4,1.9,2.1,nugas,sakit perut,3,4
+6.9,2,Ya,Tidak,1,1.6,6.5,kencan,galau,3,4
+5.9,5,Tidak,Ya,3,0.8,8.2,hobi,sakit kepala,3,2
+8.3,0,Tidak,Tidak,1,0.9,9.0,hobi,jadian,3,4
+8.0,1,Tidak,Ya,5,0.8,3.1,nugas,ketiban sial,3,4
+5.8,2,Ya,Tidak,5,1.4,5.9,masak,mual,3,4
+5.2,2,Tidak,Tidak,4,3.3,8.6,dating,galau,3,2
+5.6,0,Tidak,Tidak,2,3.4,5.6,dating,galau,3,4
+4.1,5,Tidak,Tidak,2,1.6,4.6,dating,sakit kepala,3,1
+4.5,3,Ya,Tidak,2,3.0,5.9,kerja,bahagia,3,2
+6.8,1,Tidak,Tidak,1,2.5,7.6,olahraga,sakit perut,3,4
+6.1,1,Ya,Ya,1,2.2,5.9,nugas,sakit perut,3,4
+5.8,5,Ya,Ya,3,1.6,8.0,scroll hp,mendapatkan gaji,3,2
+5.4,0,Ya,Tidak,3,2.3,5.2,hobi,sakit hati,3,4
+7.9,1,Ya,Tidak,2,1.0,7.1,masak,sakit gigi,3,4
+4.4,1,Ya,Tidak,5,2.2,8.0,hobi,senang,3,3
+4.7,3,Ya,Tidak,3,3.0,8.1,masak,-,3,2
+4.9,4,Tidak,Ya,5,3.1,8.6,nugas,dapat gaji,3,2
+8.4,0,Tidak,Tidak,5,1.5,9.8,kencan,mual,3,4
+4.0,5,Ya,Tidak,1,2.2,8.0,olahraga,jadian,3,0
+4.6,4,Ya,Tidak,5,1.9,8.1,hobi,dapat gaji,3,2
+4.9,1,Tidak,Ya,1,2.6,9.8,kencan,bahagia,3,3
+6.3,4,Ya,Tidak,2,2.1,9.4,hobi,sakit gigi,3,2
+5.6,1,Ya,Tidak,2,2.1,1.0,nugas,sakit kepala,3,4
+4.5,4,Tidak,Ya,4,1.7,6.6,masak,diputusin,3,3
+4.8,1,Tidak,Tidak,2,2.0,5.7,masak,sakit perut,3,4
+7.0,1,Ya,Tidak,4,1.6,7.0,masak,kena sial,3,4
+6.3,0,Tidak,Ya,5,1.2,8.8,kencan,senang,3,4
+7.8,0,Tidak,Ya,4,1.4,4.5,scroll hp,sakit kepala,3,4
+4.9,4,Tidak,Tidak,4,2.4,9.0,masak,ketiban sial,3,2
+5.6,5,Ya,Ya,2,1.9,7.2,nugas,happy,3,3
+6.8,0,Tidak,Ya,4,2.1,8.0,olahraga,sakit perut,3,4
+5.6,3,Ya,Tidak,2,1.8,4.4,jalan-jalan,ketiban sial,3,3
+6.1,0,Tidak,Tidak,2,3.0,6.0,kencan,mual,3,4
+7.8,2,Tidak,Ya,1,1.0,6.7,nugas,senang,3,4
+7.2,2,Ya,Ya,5,0.8,8.3,scroll hp,nyaman,3,4
+4.1,3,Tidak,Tidak,1,0.5,1.3,dating,sakit kepala,3,2
+7.4,3,Ya,Tidak,1,1.0,5.2,nugas,ketiban sial,3,4
+6.2,2,Ya,Ya,4,3.2,6.4,kerja,sakit perut,3,4
+5.9,3,Ya,Tidak,3,2.4,7.3,jalan-jalan,mimpi buruk,3,2
+5.1,2,Ya,Ya,5,2.9,6.2,scroll hp,bahagia,3,4
+5.5,2,Ya,Ya,5,2.3,7.1,masak,mimpi buruk,3,4
+7.7,4,Tidak,Tidak,2,2.6,8.8,nugas,sakit gigi,3,4
+5.7,5,Tidak,Tidak,5,2.0,8.0,nugas,mual,3,3
+5.4,5,Ya,Ya,4,1.8,9.7,jalan-jalan,ketiban sial,3,2
+5.6,3,Tidak,Tidak,4,0.8,5.1,kencan,kena sial,3,2
+8.6,0,Ya,Tidak,2,0.8,8.8,kerja,dapat uang,3,4
+5.5,3,Ya,Tidak,1,2.4,2.4,nugas,mimpi buruk,3,3
+5.6,2,Tidak,Ya,4,3.2,8.7,hobi,sakit kepala,3,3
+8.1,0,Ya,Ya,1,3.2,6.6,nugas,sakit perut,3,4
+5.0,5,Tidak,Tidak,5,0.6,8.6,jalan-jalan,banyak tugas,3,3
+6.0,4,Ya,Ya,3,0.8,9.3,scroll hp,dapat uang,3,3
+4.1,3,Tidak,Ya,5,1.1,6.1,masak,-,3,3
+4.6,4,Ya,Ya,1,1.6,4.9,nugas,bahagia,3,3
+4.5,4,Ya,Tidak,2,2.3,7.3,masak,bahagia,3,2
+6.1,1,Ya,Tidak,2,2.4,9.8,olahraga,dapat gaji,3,2
+4.8,3,Ya,Ya,4,3.2,8.8,olahraga,diputusin,3,2
+5.7,1,Ya,Tidak,3,1.2,3.4,scroll hp,nyaman,3,4
+4.7,1,Tidak,Tidak,4,1.1,8.1,hobi,mendapatkan gaji,3,2
+4.5,3,Ya,Ya,2,0.5,0.8,scroll hp,dapat gaji,3,3
+5.5,4,Ya,Tidak,5,3.5,5.2,scroll hp,sial,3,4
+7.8,2,Tidak,Tidak,2,1.0,6.2,dating,sakit hati,3,4
+4.0,5,Ya,Ya,2,3.0,4.3,kencan,galau,3,1
+8.3,4,Ya,Tidak,1,2.6,8.0,scroll hp,sakit hati,3,4
+4.8,1,Ya,Ya,2,1.9,4.7,olahraga,mendapatkan gaji,3,4
+4.6,1,Tidak,Ya,1,2.5,6.0,scroll hp,nyaman,3,4
+8.3,1,Tidak,Ya,2,0.8,3.1,scroll hp,kena sial,3,4
+8.0,0,Ya,Tidak,5,1.8,9.6,dating,sakit gigi,3,4
+5.4,0,Tidak,Ya,2,3.5,8.7,dating,nyaman,3,4
+5.5,3,Ya,Ya,2,1.1,9.9,olahraga,bahagia,3,2
+5.1,2,Tidak,Ya,1,2.3,3.9,kerja,sial,3,4
+4.3,2,Tidak,Tidak,2,3.0,3.9,jalan-jalan,sakit perut,3,2
+6.8,2,Tidak,Ya,2,2.0,9.2,nugas,banyak tugas,3,4
+8.9,1,Ya,Tidak,1,1.7,7.6,jalan-jalan,sakit perut,3,4
+4.4,1,Tidak,Tidak,4,1.9,7.3,jalan-jalan,nyaman,3,2
+8.9,1,Tidak,Ya,2,1.5,4.3,scroll hp,sakit kepala,3,4
+7.1,5,Tidak,Ya,1,3.1,9.9,scroll hp,sakit kepala,3,3
+6.4,4,Tidak,Ya,5,0.5,6.2,olahraga,sial,3,4
+5.6,0,Tidak,Ya,5,1.1,7.3,kencan,banyak tugas,3,4
+5.4,1,Ya,Tidak,3,0.8,5.5,hobi,jadian,3,3
+4.4,2,Tidak,Ya,4,2.9,7.0,jalan-jalan,mual,3,3
+7.5,2,Tidak,Tidak,5,0.8,7.5,olahraga,kena sial,3,4
+7.5,0,Ya,Ya,3,1.0,8.8,kencan,sial,3,4
+8.4,3,Ya,Ya,1,1.3,9.5,dating,sakit gigi,3,3
+5.8,2,Ya,Ya,2,0.7,4.6,olahraga,bahagia,3,4
+4.2,1,Ya,Tidak,5,2.5,4.1,kerja,sakit perut,3,4
+7.4,3,Ya,Tidak,2,0.6,6.0,nugas,-,3,4
+4.4,2,Tidak,Ya,4,2.3,6.7,jalan-jalan,sakit perut,3,3
+5.7,1,Ya,Ya,4,1.3,1.6,nugas,galau,3,4
+5.0,4,Ya,Ya,1,3.1,6.8,jalan-jalan,mual,3,3
+8.4,1,Tidak,Ya,2,1.3,6.9,dating,sakit hati,3,4
+4.1,4,Tidak,Ya,5,1.0,6.2,nugas,jadian,3,3
+6.6,0,Tidak,Tidak,1,1.9,3.4,hobi,sakit hati,3,4
+5.5,3,Tidak,Tidak,3,2.7,10.0,jalan-jalan,sakit kepala,3,1
+4.5,4,Ya,Tidak,3,1.0,5.0,kerja,ketiban sial,3,4
+7.8,1,Tidak,Tidak,4,1.6,5.8,nugas,sakit gigi,3,4
+5.1,4,Tidak,Tidak,2,3.3,8.8,jalan-jalan,-,3,1
+5.7,5,Tidak,Ya,3,1.1,9.1,dating,sakit perut,3,1
+6.3,1,Ya,Tidak,2,2.5,4.9,nugas,banyak tugas,3,4
+4.1,2,Tidak,Tidak,2,3.0,3.5,olahraga,sakit perut,3,2
+4.4,5,Tidak,Tidak,3,1.6,9.9,dating,-,3,0
+4.4,3,Ya,Ya,5,3.2,9.6,dating,gajian,3,1
+7.4,1,Tidak,Tidak,2,2.6,7.6,nugas,mendapatkan gaji,3,4
+7.8,1,Tidak,Tidak,2,2.3,8.6,hobi,galau,3,4
+4.1,3,Ya,Ya,5,1.5,8.0,kencan,dapat uang,3,2
+5.4,4,Tidak,Tidak,1,0.7,6.1,kencan,happy,3,2
+4.8,1,Tidak,Ya,5,2.8,6.1,masak,mual,3,4
+4.2,3,Ya,Ya,4,1.1,4.3,jalan-jalan,sakit gigi,3,2
+7.3,3,Tidak,Ya,3,0.5,8.8,jalan-jalan,diputusin,3,3
+5.9,3,Ya,Ya,2,1.8,8.3,masak,nyaman,3,3
+4.7,4,Tidak,Tidak,4,0.5,8.2,jalan-jalan,jadian,3,1
+7.3,2,Tidak,Tidak,1,2.5,9.6,olahraga,sakit kepala,3,3
+6.9,2,Tidak,Ya,4,0.9,7.7,kerja,senang,3,4
+5.9,2,Ya,Tidak,5,1.9,1.6,nugas,diputusin,3,4
+4.5,3,Tidak,Tidak,3,2.7,8.1,masak,diputusin,3,2
+5.2,1,Ya,Tidak,2,2.9,4.7,olahraga,-,3,3
+5.9,1,Tidak,Ya,2,1.6,3.5,kencan,mual,3,4
+4.1,3,Tidak,Ya,3,0.7,5.8,scroll hp,dapat gaji,3,2
+4.9,3,Tidak,Tidak,1,1.6,2.4,scroll hp,sakit gigi,3,3
+4.7,3,Ya,Tidak,3,1.7,2.3,scroll hp,sakit gigi,3,3
+4.1,0,Tidak,Tidak,4,2.0,3.6,nugas,dapat gaji,3,2
+7.5,4,Tidak,Ya,1,1.1,8.4,masak,mimpi buruk,3,4
+8.7,2,Tidak,Tidak,4,2.6,9.6,nugas,mual,3,4
+6.6,0,Ya,Tidak,2,0.8,5.0,jalan-jalan,banyak tugas,3,4
+5.8,2,Tidak,Ya,4,3.0,6.0,nugas,sakit hati,3,4
+8.0,1,Ya,Tidak,4,1.0,9.1,jalan-jalan,sakit perut,3,4
+8.5,3,Ya,Tidak,3,2.2,9.5,scroll hp,kena sial,3,3
+5.4,1,Ya,Tidak,3,0.7,1.1,scroll hp,dapat gaji,3,4
+4.7,4,Tidak,Ya,4,2.9,9.5,nugas,mendapatkan gaji,3,1
+6.3,1,Ya,Ya,1,1.5,6.1,masak,sakit perut,3,4
+5.6,5,Tidak,Ya,3,0.6,6.9,hobi,sakit perut,3,2
+4.2,4,Ya,Tidak,4,1.2,0.8,scroll hp,mual,3,3
+8.4,4,Ya,Ya,2,1.0,9.0,nugas,galau,3,4
+4.4,5,Tidak,Tidak,1,2.4,8.4,masak,diputusin,3,2
+8.5,2,Tidak,Tidak,5,0.6,8.6,scroll hp,dapat gaji,3,4
+4.8,1,Ya,Tidak,5,3.3,7.5,dating,happy,3,3
+5.4,4,Tidak,Tidak,1,0.7,7.2,dating,senang,3,2
+6.4,0,Tidak,Ya,4,1.2,5.9,nugas,bahagia,3,4
+7.0,1,Tidak,Ya,5,0.9,7.6,olahraga,sial,3,4
+7.5,2,Tidak,Tidak,1,2.3,5.6,nugas,sakit hati,3,4
+7.0,1,Ya,Tidak,2,3.2,3.5,nugas,ketiban sial,3,4
+4.8,0,Ya,Tidak,1,0.8,2.7,kencan,gajian,3,4
+5.5,0,Ya,Tidak,1,1.1,3.5,jalan-jalan,dapat uang,3,4
+5.5,0,Ya,Tidak,4,3.2,3.8,masak,sakit gigi,3,4
+6.8,0,Ya,Tidak,4,3.1,9.4,masak,ketiban sial,3,4
+6.2,2,Tidak,Tidak,5,1.9,8.1,masak,mimpi buruk,3,4
+5.4,4,Tidak,Tidak,5,1.5,8.1,scroll hp,nyaman,3,3
+4.7,2,Ya,Ya,3,3.3,6.9,jalan-jalan,sakit hati,3,4
+5.1,2,Tidak,Tidak,5,3.1,7.0,kencan,mual,3,3
+6.0,0,Ya,Tidak,4,0.6,5.5,kerja,bahagia,3,4
+7.9,2,Ya,Tidak,4,1.6,8.0,kerja,sial,3,4
+7.2,1,Ya,Tidak,2,0.6,9.0,kerja,dapat gaji,3,4
+5.6,4,Tidak,Tidak,1,3.2,7.7,scroll hp,senang,3,2
+7.2,4,Tidak,Ya,1,0.8,7.2,jalan-jalan,kena sial,3,4
+4.3,1,Tidak,Tidak,5,1.7,6.3,jalan-jalan,senang,3,3
+7.0,0,Tidak,Ya,2,1.7,9.8,jalan-jalan,mendapatkan gaji,3,4
+4.3,0,Ya,Tidak,2,1.3,2.8,kencan,-,3,4
+7.8,4,Ya,Tidak,1,0.6,7.1,olahraga,kena sial,3,4
+5.6,5,Ya,Tidak,1,2.3,8.2,scroll hp,dapat uang,3,2
+6.1,2,Ya,Ya,5,2.0,8.7,scroll hp,happy,3,4
+4.2,3,Tidak,Tidak,1,2.7,8.6,hobi,nyaman,3,0
+7.2,1,Tidak,Ya,3,3.5,6.4,scroll hp,diputusin,3,4
+4.6,3,Tidak,Ya,2,0.7,5.3,kerja,banyak tugas,3,4
+4.4,5,Ya,Tidak,3,3.1,6.3,hobi,kena sial,3,1
+5.3,0,Tidak,Tidak,2,2.1,4.3,kencan,kena sial,3,4
+4.1,2,Tidak,Tidak,1,1.8,5.6,jalan-jalan,banyak tugas,3,3
+4.3,5,Tidak,Tidak,5,1.9,6.8,kencan,sakit kepala,3,2
+7.9,2,Tidak,Tidak,2,1.3,8.6,hobi,ketiban sial,3,4
+7.9,2,Tidak,Ya,2,1.2,8.3,kencan,mual,3,4
+7.0,1,Ya,Ya,3,0.5,7.7,kencan,sakit gigi,3,4
+6.0,1,Tidak,Ya,4,2.2,9.4,masak,mual,3,4
+5.7,5,Tidak,Tidak,3,1.3,9.0,masak,sial,3,2
+5.4,0,Ya,Ya,2,2.9,5.5,olahraga,banyak tugas,3,4
+4.8,4,Ya,Ya,4,1.1,9.1,hobi,jadian,3,1
+7.2,1,Tidak,Tidak,2,0.9,5.8,olahraga,mual,3,4
+6.6,4,Tidak,Tidak,2,1.8,8.7,jalan-jalan,diputusin,3,3
+5.4,5,Ya,Tidak,2,0.7,5.4,dating,banyak tugas,3,3
+6.8,0,Tidak,Ya,1,1.3,4.8,hobi,sakit gigi,3,4
+6.7,4,Tidak,Tidak,4,1.8,6.9,kerja,ketiban sial,3,3
+4.2,2,Tidak,Ya,3,1.8,4.3,scroll hp,nyaman,3,3
+4.5,3,Ya,Tidak,4,3.1,6.0,kerja,sial,3,3
+5.1,0,Tidak,Ya,2,2.8,6.1,olahraga,bahagia,3,4
+6.1,5,Tidak,Tidak,5,0.8,6.7,masak,sial,3,4
+7.9,4,Tidak,Tidak,3,1.1,6.6,scroll hp,mimpi buruk,3,4
+7.5,1,Tidak,Ya,4,0.5,9.9,hobi,sial,3,4
+8.1,2,Tidak,Tidak,1,1.6,7.0,kencan,sakit kepala,3,4
+7.8,3,Ya,Tidak,5,0.8,8.4,olahraga,sakit hati,3,4
+6.0,2,Tidak,Ya,4,1.8,9.8,kencan,diputusin,3,4
+6.0,3,Tidak,Ya,3,1.6,6.4,olahraga,mual,3,2
+8.1,2,Ya,Ya,2,0.7,7.1,jalan-jalan,kena sial,3,4
+6.0,2,Tidak,Ya,4,1.8,9.7,hobi,diputusin,3,4
+7.9,2,Tidak,Ya,4,0.6,3.4,nugas,sial,3,4
+5.8,1,Ya,Ya,2,1.3,2.6,scroll hp,banyak tugas,3,4
+7.0,2,Tidak,Tidak,4,1.6,8.0,dating,kena sial,3,3
+5.6,2,Tidak,Ya,3,0.6,8.0,jalan-jalan,mendapatkan gaji,3,3
+4.4,1,Tidak,Tidak,4,2.8,5.9,kencan,mual,3,2
+5.4,4,Ya,Ya,3,3.1,8.9,jalan-jalan,diputusin,3,2
+4.8,0,Ya,Ya,4,2.8,10.0,jalan-jalan,nyaman,3,4
+8.2,3,Ya,Ya,5,0.9,9.3,kerja,sakit kepala,3,4
+6.2,2,Ya,Ya,2,2.8,7.4,jalan-jalan,sakit gigi,3,4
+4.5,4,Ya,Tidak,3,1.0,9.4,masak,mendapatkan gaji,3,2
+4.9,2,Tidak,Tidak,5,2.9,6.2,hobi,sakit perut,3,3
+5.4,2,Ya,Tidak,2,2.7,9.2,olahraga,mendapatkan gaji,3,2
+8.3,3,Ya,Tidak,2,0.6,3.3,scroll hp,mual,3,4
+8.5,0,Tidak,Ya,3,0.8,7.8,hobi,sakit hati,3,4
+7.8,1,Ya,Tidak,5,1.0,8.6,olahraga,ketiban sial,3,4
+6.3,1,Ya,Ya,1,1.4,4.6,olahraga,sakit kepala,3,4
+7.3,1,Tidak,Tidak,2,0.5,7.5,masak,senang,3,4
+6.3,2,Ya,Tidak,3,2.1,8.5,kencan,sakit perut,3,2
+4.3,3,Tidak,Ya,1,3.2,9.2,hobi,mendapatkan gaji,3,0
+4.9,1,Ya,Tidak,2,0.5,1.7,dating,-,3,4
+7.3,0,Ya,Ya,4,0.7,9.3,dating,gajian,3,4
+7.0,2,Tidak,Tidak,4,2.4,8.9,kerja,sial,3,3
+7.9,1,Tidak,Ya,2,2.8,4.5,scroll hp,kena sial,3,4
+5.0,0,Tidak,Ya,5,3.3,9.1,hobi,senang,3,4
+4.9,4,Ya,Tidak,2,0.9,5.7,jalan-jalan,gajian,3,2
+5.3,5,Ya,Ya,1,2.4,8.7,kencan,sakit perut,3,2
+8.9,0,Ya,Ya,3,3.0,7.7,nugas,ketiban sial,3,4
+4.5,5,Tidak,Ya,3,0.9,9.3,kencan,gajian,3,0
+6.4,1,Ya,Ya,2,1.8,5.7,kerja,mimpi buruk,3,4
+5.1,1,Tidak,Ya,4,0.7,5.0,jalan-jalan,galau,3,4
+5.6,4,Tidak,Tidak,2,3.0,6.0,nugas,sial,3,3
+8.1,4,Ya,Tidak,1,3.4,9.8,nugas,sial,3,4
+4.8,0,Tidak,Ya,2,2.2,9.9,kencan,nyaman,3,4
+4.1,0,Tidak,Ya,2,1.2,1.7,kerja,banyak tugas,3,4
+7.7,1,Tidak,Tidak,2,2.5,8.3,kerja,sakit gigi,3,4
+5.5,4,Ya,Ya,2,1.4,5.1,masak,galau,3,4
+8.0,3,Ya,Tidak,3,2.3,8.5,nugas,mual,3,3
+5.0,3,Ya,Ya,2,1.5,3.7,dating,kena sial,3,3
+4.2,1,Ya,Ya,3,2.5,6.7,olahraga,senang,3,3
+4.5,0,Tidak,Tidak,5,2.7,4.1,hobi,diputusin,3,4
+5.2,4,Ya,Ya,5,1.2,8.7,kerja,jadian,3,4
+5.6,1,Tidak,Ya,4,2.8,5.5,nugas,sakit gigi,3,4
+6.1,0,Tidak,Tidak,4,2.0,7.5,masak,galau,3,4
+4.8,0,Tidak,Ya,2,3.1,6.1,jalan-jalan,gajian,3,4
+6.4,0,Tidak,Tidak,3,3.0,7.7,scroll hp,gajian,3,4
+4.8,2,Tidak,Ya,5,2.3,6.3,olahraga,sial,3,4
+7.9,2,Tidak,Tidak,1,1.2,8.9,kencan,mual,3,4
+5.4,5,Tidak,Ya,4,0.6,7.0,olahraga,diputusin,3,2
+8.4,2,Tidak,Ya,2,1.7,8.6,kerja,sakit perut,3,4
+5.3,3,Tidak,Tidak,5,2.9,7.9,dating,mual,3,2
+6.8,0,Tidak,Tidak,2,1.9,3.2,scroll hp,mendapatkan gaji,3,4
+6.5,4,Tidak,Tidak,1,1.1,3.0,scroll hp,sakit perut,3,4
+6.0,0,Ya,Ya,1,2.1,5.8,dating,mimpi buruk,3,4
+6.1,3,Tidak,Tidak,5,1.9,4.3,scroll hp,sakit kepala,3,4
+4.9,3,Tidak,Tidak,4,0.9,5.9,scroll hp,dapat uang,3,2
+4.5,1,Ya,Ya,5,2.7,6.2,jalan-jalan,senang,3,4
+6.5,0,Ya,Tidak,1,1.5,7.3,masak,senang,3,4
+6.4,1,Tidak,Ya,5,1.0,9.6,nugas,happy,3,4
+9.0,0,Ya,Tidak,1,0.6,6.2,olahraga,banyak tugas,3,4
+4.5,5,Tidak,Ya,4,0.9,8.6,scroll hp,jadian,3,2
+4.7,3,Tidak,Tidak,4,2.9,3.8,nugas,galau,3,2
+6.1,2,Ya,Ya,3,2.2,5.5,nugas,sakit hati,3,4
+5.3,5,Tidak,Tidak,1,1.7,5.8,kerja,kena sial,3,3
+7.7,0,Tidak,Ya,2,1.8,9.3,olahraga,senang,3,4
+7.6,2,Tidak,Ya,5,1.3,5.9,scroll hp,sakit gigi,3,4
+8.1,3,Tidak,Tidak,2,0.9,3.3,scroll hp,sakit kepala,3,4
+4.8,3,Ya,Ya,4,2.7,7.3,jalan-jalan,ketiban sial,3,2
+6.6,4,Tidak,Ya,5,0.7,6.7,hobi,sakit gigi,3,4
+5.7,1,Tidak,Tidak,3,0.8,5.8,kencan,-,3,3
+5.7,2,Ya,Tidak,4,3.1,6.3,jalan-jalan,mimpi buruk,3,3
+7.0,0,Tidak,Ya,4,0.7,6.7,olahraga,-,3,4
+7.3,5,Ya,Tidak,1,0.8,9.2,kencan,sakit gigi,3,3
+7.2,5,Tidak,Ya,1,1.5,8.5,scroll hp,sakit gigi,3,4
+4.5,0,Ya,Ya,4,1.4,3.5,jalan-jalan,diputusin,3,4
+4.4,0,Tidak,Ya,4,1.8,6.0,jalan-jalan,diputusin,3,4
+7.5,2,Tidak,Tidak,4,1.1,8.3,kerja,sakit kepala,3,4
+5.4,5,Ya,Tidak,1,3.4,10.0,masak,-,3,2
+4.4,1,Ya,Tidak,5,3.4,7.4,dating,happy,3,3
+4.6,1,Ya,Ya,3,0.6,3.1,jalan-jalan,dapat gaji,3,4
+5.9,0,Tidak,Tidak,5,1.0,8.1,hobi,dapat gaji,3,4
+6.6,4,Tidak,Tidak,1,1.7,9.2,masak,diputusin,3,4
+5.4,5,Ya,Tidak,5,1.7,7.7,scroll hp,jadian,3,3
+8.3,5,Ya,Tidak,4,0.7,9.5,scroll hp,-,3,3
+5.1,5,Tidak,Ya,2,1.9,4.5,nugas,mimpi buruk,3,3
+4.3,4,Tidak,Ya,2,3.4,6.8,hobi,sakit perut,3,2
+5.0,4,Tidak,Ya,1,1.4,6.1,kerja,sakit perut,3,4
+5.1,0,Ya,Tidak,3,3.3,7.2,olahraga,jadian,3,2
+8.5,0,Ya,Tidak,3,3.2,6.4,scroll hp,sial,3,4
+4.7,1,Tidak,Tidak,2,2.0,6.5,jalan-jalan,mendapatkan gaji,3,2
+5.6,2,Tidak,Ya,1,2.3,8.5,dating,mual,3,4
+7.0,0,Ya,Tidak,1,0.5,6.2,hobi,nyaman,3,4
+6.4,0,Ya,Ya,5,0.7,4.4,jalan-jalan,diputusin,3,4
+4.9,1,Tidak,Ya,5,2.6,7.5,nugas,dapat gaji,3,4
+4.1,0,Tidak,Tidak,5,2.7,9.0,jalan-jalan,senang,3,2
+6.4,0,Ya,Tidak,3,3.1,7.3,olahraga,galau,3,4
+5.8,1,Ya,Tidak,5,2.2,9.9,jalan-jalan,senang,3,3
+6.3,2,Tidak,Ya,2,1.9,7.1,scroll hp,jadian,3,4
+4.5,3,Tidak,Tidak,4,3.0,7.1,jalan-jalan,sakit gigi,3,1
+4.7,3,Ya,Tidak,5,1.3,5.6,jalan-jalan,sakit hati,3,3
+4.8,2,Tidak,Ya,4,3.0,9.8,kencan,ketiban sial,3,3
+6.0,1,Tidak,Ya,1,2.4,8.3,kerja,-,3,4
+4.1,5,Tidak,Ya,5,1.9,8.2,kencan,sial,3,2
+5.2,5,Ya,Tidak,5,2.9,4.4,nugas,diputusin,3,3
+7.4,3,Ya,Ya,1,1.4,7.0,hobi,sakit perut,3,3
+5.4,0,Ya,Ya,2,1.4,1.5,olahraga,sakit perut,3,4
+4.0,2,Ya,Tidak,5,0.8,1.3,nugas,happy,3,4
+6.6,0,Ya,Tidak,4,3.5,6.2,nugas,gajian,3,4
+4.1,2,Tidak,Tidak,5,1.6,4.2,kerja,ketiban sial,3,4
+5.6,0,Ya,Ya,1,2.0,4.5,dating,ketiban sial,3,4
+4.1,1,Ya,Ya,3,1.5,3.5,kerja,mendapatkan gaji,3,4
+5.2,3,Tidak,Tidak,1,1.4,4.7,nugas,gajian,3,2
+5.8,2,Tidak,Tidak,2,3.2,9.6,kerja,mendapatkan gaji,3,2
+5.6,2,Tidak,Tidak,1,1.8,5.0,kerja,galau,3,4
+6.0,4,Ya,Tidak,5,0.6,6.1,jalan-jalan,diputusin,3,4
+4.8,3,Ya,Ya,2,1.4,3.3,masak,sial,3,4
+5.3,3,Tidak,Ya,1,2.1,7.8,kencan,sakit perut,3,2
+7.7,1,Ya,Ya,5,3.0,9.8,scroll hp,sakit gigi,3,4
+4.9,3,Ya,Ya,4,2.2,8.4,kencan,ketiban sial,3,2
+5.0,0,Tidak,Ya,5,2.7,7.7,kencan,kena sial,3,4
+5.3,3,Tidak,Tidak,3,1.5,3.9,scroll hp,sial,3,3
+6.0,4,Ya,Ya,1,1.2,6.2,masak,sakit gigi,3,4
+5.4,0,Ya,Tidak,4,2.3,3.8,dating,galau,3,4
+6.1,1,Tidak,Tidak,4,1.6,9.5,hobi,-,3,3
+6.3,2,Tidak,Ya,3,1.0,4.0,nugas,sial,3,4
+7.8,4,Tidak,Tidak,1,1.2,9.6,jalan-jalan,kena sial,3,3
+7.8,0,Ya,Ya,1,1.3,9.5,kerja,dapat uang,3,4
+5.9,5,Tidak,Ya,4,0.5,6.2,hobi,kena sial,3,2
+5.3,3,Ya,Tidak,5,0.8,4.9,kerja,jadian,3,3
+5.9,2,Tidak,Ya,5,2.2,8.1,olahraga,sakit hati,3,4
+8.5,2,Tidak,Tidak,1,1.5,9.9,kencan,mimpi buruk,3,4
+5.8,5,Ya,Tidak,4,1.8,7.6,jalan-jalan,kena sial,3,2
+5.7,4,Tidak,Ya,2,1.5,8.9,jalan-jalan,sakit gigi,3,3
+4.8,2,Ya,Tidak,5,3.2,9.6,olahraga,dapat uang,3,2
+6.5,1,Tidak,Tidak,1,2.6,6.8,hobi,sakit kepala,3,4
+6.8,3,Tidak,Ya,2,2.2,8.4,masak,sial,3,3
+6.9,5,Tidak,Tidak,3,0.7,9.7,scroll hp,mendapatkan gaji,3,2
+4.8,1,Tidak,Ya,1,0.6,2.7,jalan-jalan,diputusin,3,4
+7.6,1,Ya,Tidak,3,1.4,7.4,scroll hp,jadian,3,4
+4.2,3,Tidak,Tidak,4,2.0,4.1,scroll hp,sakit perut,3,2
+5.7,3,Tidak,Tidak,3,0.8,9.0,kerja,happy,3,3
+8.7,0,Tidak,Tidak,5,0.9,7.3,masak,ketiban sial,3,4
+6.0,0,Ya,Ya,2,2.9,7.2,dating,sakit gigi,3,4
+5.2,0,Ya,Ya,1,0.6,3.4,jalan-jalan,senang,3,4
+5.8,0,Tidak,Tidak,3,2.2,7.2,olahraga,banyak tugas,3,4
+6.3,2,Tidak,Tidak,5,1.6,8.8,kencan,banyak tugas,3,4
+5.4,1,Tidak,Tidak,4,3.2,8.0,kerja,bahagia,3,3
+5.8,0,Tidak,Ya,2,1.2,8.5,dating,nyaman,3,4
+8.7,1,Tidak,Tidak,3,1.7,6.5,scroll hp,sial,3,4
+4.4,0,Tidak,Ya,4,1.1,5.1,olahraga,sakit gigi,3,4
+9.0,0,Ya,Tidak,3,0.6,7.0,kencan,ketiban sial,3,4
+7.2,1,Tidak,Ya,1,0.6,3.5,hobi,mual,3,4
+5.6,1,Ya,Tidak,3,1.4,4.9,dating,sakit kepala,3,4
+5.5,0,Ya,Tidak,2,2.3,4.8,jalan-jalan,banyak tugas,3,4
+6.4,0,Ya,Ya,4,0.6,4.0,dating,sakit hati,3,4
+8.4,0,Tidak,Ya,4,0.9,8.9,masak,sial,3,4
+5.4,4,Ya,Ya,3,1.9,3.0,nugas,-,3,3
+7.1,1,Ya,Tidak,5,0.5,5.7,kencan,mimpi buruk,3,4
+5.7,3,Tidak,Tidak,2,2.7,5.5,kerja,sakit hati,3,2
+8.3,1,Ya,Tidak,1,0.6,6.0,scroll hp,senang,3,4
+4.7,0,Ya,Ya,5,3.2,9.5,hobi,mendapatkan gaji,3,4
+4.4,3,Ya,Ya,1,3.0,2.8,kerja,kena sial,3,2
+5.6,0,Ya,Ya,2,2.7,1.6,nugas,galau,3,4
+4.7,1,Tidak,Tidak,2,0.6,5.6,dating,happy,3,3
+4.9,5,Tidak,Tidak,2,3.0,9.0,jalan-jalan,sakit perut,3,1
+5.2,2,Ya,Ya,5,1.0,9.3,jalan-jalan,senang,3,4
+5.8,5,Ya,Tidak,4,2.9,7.1,nugas,-,3,2
+5.9,1,Ya,Tidak,4,1.6,1.5,nugas,ketiban sial,3,4
+8.1,0,Tidak,Tidak,5,1.2,9.9,masak,sakit perut,3,4
+4.9,2,Ya,Ya,4,2.7,6.0,hobi,sakit kepala,3,3
+6.2,5,Tidak,Ya,4,0.7,6.8,scroll hp,dapat gaji,3,2
+4.3,5,Ya,Tidak,2,2.9,10.0,jalan-jalan,gajian,3,0
+7.0,1,Ya,Tidak,2,3.4,4.8,nugas,mual,3,4
+4.2,2,Ya,Ya,1,3.5,5.7,nugas,mendapatkan gaji,3,4
+4.5,3,Tidak,Ya,3,3.2,7.9,nugas,mendapatkan gaji,3,1
+7.1,2,Tidak,Ya,3,1.2,8.8,dating,sakit gigi,3,4
+6.5,5,Tidak,Tidak,3,0.7,8.3,kencan,diputusin,3,2
+6.6,2,Tidak,Tidak,1,1.8,9.5,hobi,senang,3,2
+8.8,2,Tidak,Tidak,3,1.6,1.5,kerja,dapat uang,4,1
+8.3,0,Ya,Tidak,3,1.9,4.1,masak,ketiban sial,4,4
+7.4,5,Ya,Ya,5,2.4,9.4,jalan-jalan,dapat uang,4,0
+5.3,5,Ya,Ya,3,1.2,7.0,kerja,jadian,4,1
+4.7,5,Tidak,Tidak,5,1.3,5.8,masak,diputusin,4,2
+9.0,1,Ya,Ya,1,0.8,5.3,jalan-jalan,dapat gaji,4,4
+7.0,3,Tidak,Ya,5,3.5,4.1,scroll hp,dapat gaji,4,1
+7.8,2,Ya,Tidak,4,1.8,1.6,kencan,kena sial,4,1
+7.0,3,Ya,Ya,3,3.3,0.7,olahraga,mual,4,0
+5.3,4,Ya,Tidak,5,1.1,4.5,hobi,dapat gaji,4,1
+7.2,3,Ya,Ya,2,1.9,9.0,masak,-,4,3
+6.9,0,Ya,Ya,2,2.4,1.2,masak,banyak tugas,4,4
+5.4,3,Tidak,Ya,5,0.9,2.5,dating,bahagia,4,0
+4.5,5,Ya,Ya,4,1.8,4.6,kerja,senang,4,0
+5.0,4,Tidak,Ya,3,1.8,4.8,scroll hp,dapat uang,4,1
+6.9,4,Tidak,Ya,1,1.4,1.1,kerja,sakit gigi,4,2
+7.0,5,Ya,Ya,5,1.7,8.7,scroll hp,bahagia,4,2
+8.7,1,Tidak,Ya,3,1.4,6.9,nugas,dapat uang,4,4
+8.6,0,Ya,Ya,5,2.4,0.6,kencan,ketiban sial,4,4
+7.1,5,Tidak,Ya,5,2.5,5.5,jalan-jalan,galau,4,0
+8.4,5,Ya,Tidak,5,1.3,5.8,olahraga,dapat gaji,4,0
+8.5,1,Tidak,Ya,3,2.5,7.0,olahraga,kena sial,4,4
+8.4,0,Ya,Tidak,4,3.3,2.2,jalan-jalan,nyaman,4,0
+7.4,4,Ya,Tidak,3,0.6,3.6,kerja,nyaman,4,2
+7.6,2,Tidak,Ya,1,3.5,4.6,nugas,mimpi buruk,4,4
+8.6,4,Tidak,Tidak,3,3.0,3.5,masak,senang,4,0
+7.5,4,Ya,Tidak,4,1.8,1.7,hobi,sakit perut,4,0
+8.2,2,Tidak,Tidak,5,1.8,3.2,dating,dapat uang,4,1
+7.4,4,Ya,Tidak,2,3.2,5.0,kencan,dapat gaji,4,0
+7.2,2,Tidak,Ya,2,3.4,1.4,olahraga,sakit kepala,4,2
+4.2,3,Tidak,Ya,4,2.8,6.3,hobi,gajian,4,0
+5.2,5,Tidak,Ya,1,3.2,7.0,jalan-jalan,sakit gigi,4,1
+8.1,4,Ya,Tidak,4,3.2,4.6,dating,galau,4,0
+7.8,5,Ya,Tidak,4,2.8,3.1,dating,banyak tugas,4,0
+7.6,1,Ya,Ya,5,1.5,3.1,jalan-jalan,diputusin,4,4
+7.5,5,Tidak,Tidak,3,1.7,2.5,kerja,ketiban sial,4,1
+8.5,4,Tidak,Tidak,5,0.6,9.5,kerja,happy,4,4
+8.3,3,Ya,Tidak,5,2.7,5.6,olahraga,galau,4,1
+6.2,0,Ya,Tidak,4,2.5,4.2,jalan-jalan,sial,4,2
+6.7,3,Tidak,Ya,1,2.5,6.1,dating,kena sial,4,2
+5.3,2,Tidak,Tidak,4,1.5,2.5,nugas,banyak tugas,4,3
+6.4,5,Ya,Ya,3,3.5,5.6,kerja,-,4,0
+7.1,1,Ya,Tidak,5,2.5,1.7,nugas,happy,4,2
+7.3,0,Tidak,Ya,4,1.5,5.3,hobi,happy,4,2
+7.5,3,Tidak,Tidak,3,2.1,2.2,hobi,mual,4,0
+4.1,1,Ya,Tidak,4,2.7,1.3,dating,dapat uang,4,0
+8.0,0,Tidak,Tidak,2,1.7,3.3,dating,sakit perut,4,4
+5.2,5,Ya,Ya,5,0.9,2.3,olahraga,gajian,4,0
+7.6,4,Tidak,Ya,2,3.4,6.2,masak,kena sial,4,3
+4.1,4,Tidak,Ya,1,0.6,1.7,dating,nyaman,4,0
+6.9,3,Tidak,Tidak,1,1.5,5.0,scroll hp,banyak tugas,4,4
+8.3,3,Ya,Ya,5,2.4,3.4,olahraga,galau,4,1
+5.2,5,Ya,Tidak,1,3.1,3.2,olahraga,bahagia,4,0
+6.4,5,Tidak,Tidak,5,1.3,4.7,scroll hp,gajian,4,1
+7.3,3,Ya,Tidak,4,2.2,8.2,nugas,jadian,4,1
+7.1,0,Tidak,Tidak,3,2.1,2.4,scroll hp,-,4,2
+8.9,4,Ya,Tidak,3,2.6,8.1,scroll hp,diputusin,4,3
+9.0,0,Tidak,Tidak,2,0.9,4.9,kencan,galau,4,4
+8.3,3,Tidak,Tidak,5,1.5,5.6,masak,ketiban sial,4,3
+8.9,1,Ya,Tidak,4,1.2,5.9,dating,senang,4,1
+5.9,5,Tidak,Ya,2,2.5,8.0,jalan-jalan,sakit gigi,4,1
+8.3,3,Ya,Tidak,1,3.2,1.4,jalan-jalan,banyak tugas,4,0
+6.3,2,Tidak,Tidak,1,2.6,3.7,masak,mendapatkan gaji,4,1
+4.9,4,Tidak,Ya,2,2.4,8.8,olahraga,dapat uang,4,0
+6.3,5,Ya,Ya,3,2.9,0.6,dating,happy,4,0
+7.2,3,Ya,Tidak,3,1.9,7.1,dating,nyaman,4,0
+6.8,5,Tidak,Tidak,5,3.4,7.9,olahraga,sial,4,1
+8.0,1,Ya,Ya,2,2.4,6.5,nugas,dapat uang,4,4
+6.9,5,Tidak,Ya,3,3.2,1.7,olahraga,sakit kepala,4,0
+8.8,1,Tidak,Ya,4,1.2,7.7,hobi,-,4,4
+6.7,3,Tidak,Tidak,3,2.7,4.0,scroll hp,dapat gaji,4,0
+5.9,2,Tidak,Ya,5,2.7,6.9,hobi,mendapatkan gaji,4,2
+8.2,4,Tidak,Ya,1,3.4,4.4,dating,dapat uang,4,0
+8.8,3,Ya,Ya,5,1.1,1.4,masak,diputusin,4,2
+7.9,1,Ya,Ya,2,2.8,1.2,masak,sakit kepala,4,4
+7.7,3,Ya,Tidak,5,1.6,4.8,kencan,diputusin,4,2
+8.7,0,Tidak,Tidak,5,3.2,7.4,kerja,mimpi buruk,4,4
+6.1,0,Ya,Tidak,1,3.2,5.2,jalan-jalan,banyak tugas,4,4
+4.6,4,Tidak,Tidak,3,2.1,6.5,dating,sakit gigi,4,1
+6.1,3,Tidak,Tidak,3,2.7,4.3,nugas,happy,4,0
+8.8,5,Ya,Tidak,1,0.7,9.3,scroll hp,happy,4,3
+8.1,4,Tidak,Ya,5,3.4,1.1,hobi,happy,4,0
+8.3,5,Tidak,Ya,3,1.4,1.0,kencan,ketiban sial,4,0
+8.0,4,Ya,Tidak,5,3.0,9.8,kerja,kena sial,4,4
+8.6,2,Tidak,Ya,5,3.1,0.6,jalan-jalan,mendapatkan gaji,4,0
+4.5,4,Ya,Tidak,3,1.8,2.5,nugas,jadian,4,1
+7.9,4,Ya,Ya,2,3.2,6.2,scroll hp,galau,4,4
+7.3,3,Ya,Tidak,2,1.7,6.3,hobi,nyaman,4,1
+5.4,5,Ya,Ya,3,2.1,6.1,hobi,sial,4,1
+6.5,3,Tidak,Ya,2,1.6,2.2,hobi,mimpi buruk,4,1
+6.0,2,Tidak,Ya,4,3.3,2.1,hobi,nyaman,4,0
+6.2,3,Tidak,Ya,3,1.7,5.5,masak,kena sial,4,2
+6.6,0,Tidak,Ya,3,1.1,5.5,olahraga,nyaman,4,2
+7.8,3,Tidak,Tidak,5,3.1,7.0,jalan-jalan,dapat uang,4,0
+5.6,3,Ya,Ya,3,1.6,0.9,kencan,senang,4,0
+6.9,5,Ya,Tidak,5,1.8,9.0,dating,sakit gigi,4,2
+5.8,2,Ya,Tidak,5,2.8,4.2,scroll hp,jadian,4,3
+7.3,2,Ya,Ya,4,2.5,3.4,nugas,sakit perut,4,4
+7.2,2,Ya,Tidak,5,2.5,8.2,kencan,happy,4,1
+4.1,2,Ya,Ya,4,1.1,2.2,jalan-jalan,sakit kepala,4,3
+5.9,1,Ya,Tidak,5,2.6,2.2,kerja,bahagia,4,2
+8.8,4,Ya,Ya,4,2.7,3.2,nugas,gajian,4,0
+8.0,1,Tidak,Ya,4,0.7,8.8,kencan,nyaman,4,4
+4.4,1,Tidak,Ya,2,3.2,3.1,olahraga,dapat uang,4,2
+8.7,3,Tidak,Ya,2,2.0,1.0,masak,diputusin,4,1
+7.8,3,Ya,Tidak,1,0.5,4.8,olahraga,sakit kepala,4,3
+7.6,2,Tidak,Ya,2,2.3,4.6,scroll hp,sakit gigi,4,4
+4.3,4,Ya,Tidak,5,2.9,5.7,dating,mimpi buruk,4,2
+7.2,2,Tidak,Ya,1,0.5,2.9,scroll hp,mual,4,4
+6.0,4,Tidak,Tidak,2,0.6,5.0,kerja,mendapatkan gaji,4,3
+4.6,2,Tidak,Tidak,4,1.7,4.7,jalan-jalan,gajian,4,0
+6.7,2,Tidak,Tidak,3,1.5,1.5,hobi,kena sial,4,1
+7.4,2,Tidak,Tidak,3,2.7,4.7,kerja,banyak tugas,4,3
+6.6,5,Tidak,Ya,2,3.4,7.0,jalan-jalan,banyak tugas,4,1
+7.9,2,Ya,Tidak,1,3.3,3.9,masak,happy,4,1
+6.2,0,Tidak,Tidak,4,2.1,6.0,olahraga,nyaman,4,0
+5.1,4,Ya,Ya,4,3.2,3.2,jalan-jalan,banyak tugas,4,1
+4.9,5,Tidak,Ya,3,0.8,4.7,kencan,sakit perut,4,1
+5.2,3,Tidak,Ya,3,2.2,0.7,scroll hp,banyak tugas,4,1
+6.0,5,Ya,Ya,4,2.1,7.3,masak,mendapatkan gaji,4,0
+6.2,5,Ya,Ya,5,0.9,5.4,hobi,sakit gigi,4,2
+8.2,4,Ya,Tidak,3,1.0,2.0,kencan,sakit hati,4,0
+8.2,2,Ya,Tidak,3,3.4,2.4,kencan,banyak tugas,4,0
+6.5,1,Tidak,Ya,2,2.2,6.1,kerja,banyak tugas,4,4
+7.8,3,Tidak,Tidak,5,0.6,6.4,dating,diputusin,4,4
+8.0,5,Ya,Tidak,1,1.9,4.4,hobi,gajian,4,0
+6.3,2,Tidak,Tidak,3,1.4,6.3,jalan-jalan,happy,4,1
+6.6,0,Tidak,Ya,3,1.9,3.5,jalan-jalan,nyaman,4,2
+6.5,4,Ya,Ya,4,3.1,4.9,hobi,sakit gigi,4,0
+4.0,0,Tidak,Tidak,3,3.1,4.6,kerja,senang,4,2
+5.8,2,Tidak,Ya,5,2.0,1.2,jalan-jalan,nyaman,4,0
+8.7,2,Tidak,Tidak,3,3.5,2.0,nugas,gajian,4,0
+8.1,2,Tidak,Ya,4,0.8,3.6,dating,galau,4,4
+7.6,4,Tidak,Ya,5,2.1,5.1,olahraga,mimpi buruk,4,1
+9.0,3,Tidak,Tidak,2,1.4,5.5,kencan,happy,4,0
+7.4,5,Tidak,Ya,3,2.9,7.0,olahraga,galau,4,0
+8.7,5,Tidak,Tidak,5,0.9,3.1,masak,sakit kepala,4,3
+8.1,2,Ya,Ya,2,2.6,9.4,olahraga,mimpi buruk,4,4
+7.2,0,Ya,Ya,4,1.5,1.5,kerja,sakit perut,4,4
+8.6,1,Tidak,Tidak,1,3.0,4.5,jalan-jalan,sakit hati,4,3
+8.4,0,Tidak,Tidak,3,2.3,3.3,kencan,sakit gigi,4,2
+7.2,5,Ya,Ya,3,2.7,2.3,hobi,bahagia,4,0
+4.4,5,Tidak,Ya,4,3.4,1.4,kerja,galau,4,0
+7.8,2,Tidak,Tidak,1,2.7,3.4,olahraga,mimpi buruk,4,2
+7.3,3,Tidak,Ya,5,1.7,3.4,nugas,happy,4,2
+5.1,1,Tidak,Tidak,5,1.9,5.0,kencan,gajian,4,2
+7.8,5,Ya,Tidak,5,2.8,8.3,kencan,happy,4,0
+4.4,4,Ya,Ya,5,3.0,1.6,jalan-jalan,jadian,4,0
+7.7,4,Ya,Ya,1,1.8,1.2,dating,mimpi buruk,4,1
+6.0,1,Tidak,Tidak,4,3.4,7.8,dating,senang,4,1
+5.9,5,Tidak,Ya,2,3.1,9.7,jalan-jalan,sakit perut,4,1
+6.6,5,Tidak,Tidak,1,3.0,9.8,kencan,bahagia,4,0
+6.7,1,Ya,Ya,3,1.5,2.9,kerja,dapat gaji,4,2
+6.7,0,Tidak,Tidak,2,3.5,1.8,olahraga,sakit hati,4,2
+8.4,5,Ya,Ya,3,1.7,5.5,hobi,sakit perut,4,0
+8.8,4,Ya,Tidak,3,1.7,5.5,scroll hp,dapat uang,4,1
+8.2,0,Tidak,Tidak,1,3.0,5.6,kerja,banyak tugas,4,4
+6.4,2,Ya,Ya,2,3.2,3.4,dating,diputusin,4,3
+5.8,3,Tidak,Ya,4,2.9,4.9,masak,jadian,4,0
+5.6,3,Tidak,Tidak,5,1.2,5.9,dating,mendapatkan gaji,4,0
+7.7,3,Ya,Tidak,2,2.9,2.1,jalan-jalan,sakit perut,4,0
+9.0,0,Ya,Ya,1,3.0,5.5,hobi,sakit kepala,4,4
+4.3,1,Ya,Tidak,3,2.0,0.6,dating,-,4,1
+4.0,4,Tidak,Ya,3,0.6,4.4,kencan,dapat gaji,4,0
+8.0,1,Ya,Ya,2,0.8,1.5,kencan,galau,4,4
+5.3,3,Ya,Ya,4,3.4,1.3,nugas,dapat gaji,4,0
+7.3,5,Tidak,Tidak,4,0.8,7.7,kerja,mendapatkan gaji,4,1
+6.9,5,Ya,Ya,3,3.3,8.3,hobi,dapat gaji,4,0
+5.9,5,Tidak,Ya,1,3.5,1.8,scroll hp,bahagia,4,0
+8.2,2,Tidak,Tidak,5,2.3,6.2,kerja,mendapatkan gaji,4,3
+4.4,1,Tidak,Tidak,2,2.9,4.1,masak,nyaman,4,2
+4.5,2,Ya,Ya,1,2.8,4.7,jalan-jalan,bahagia,4,2
+6.8,4,Ya,Tidak,3,0.6,4.4,hobi,-,4,1
+7.9,2,Ya,Tidak,4,1.2,2.9,scroll hp,sakit kepala,4,3
+5.5,3,Tidak,Tidak,3,2.4,3.7,hobi,mendapatkan gaji,4,0
+8.9,1,Tidak,Tidak,2,2.3,3.4,jalan-jalan,senang,4,1
+8.8,2,Ya,Tidak,5,2.4,7.5,hobi,galau,4,3
+8.1,3,Ya,Ya,2,3.3,4.0,dating,ketiban sial,4,1
+8.0,5,Tidak,Ya,4,3.0,1.2,nugas,diputusin,4,0
+7.3,5,Tidak,Tidak,4,1.6,4.5,kencan,sakit gigi,4,0
+8.6,5,Ya,Ya,3,0.6,4.5,olahraga,dapat gaji,4,0
+4.8,4,Tidak,Tidak,4,3.5,0.9,scroll hp,-,4,0
+4.5,1,Ya,Tidak,5,2.1,5.4,masak,senang,4,3
+6.3,5,Ya,Tidak,3,2.0,6.1,scroll hp,sakit hati,4,2
+6.1,0,Tidak,Tidak,2,3.3,1.6,masak,dapat uang,4,2
+7.9,4,Tidak,Tidak,4,1.9,5.1,scroll hp,sakit hati,4,3
+4.2,5,Ya,Ya,1,3.0,1.6,kencan,kena sial,4,0
+8.0,4,Ya,Tidak,4,1.5,2.3,dating,sakit gigi,4,0
+8.8,2,Ya,Tidak,5,2.3,6.2,masak,dapat uang,4,2
+7.1,5,Ya,Ya,5,1.4,7.2,masak,nyaman,4,1
+5.5,1,Tidak,Ya,4,0.9,4.0,hobi,bahagia,4,3
+4.9,3,Tidak,Ya,1,3.1,6.4,olahraga,senang,4,0
+6.0,3,Ya,Ya,4,3.0,4.4,kerja,diputusin,4,2
+5.6,5,Ya,Ya,5,2.2,3.3,hobi,mimpi buruk,4,1
+8.3,1,Tidak,Ya,2,0.9,7.2,hobi,gajian,4,4
+7.5,2,Ya,Ya,5,2.0,4.8,dating,mendapatkan gaji,4,1
+8.3,4,Tidak,Tidak,2,3.4,4.3,masak,sakit hati,4,2
+5.7,4,Ya,Ya,3,3.1,1.7,scroll hp,mendapatkan gaji,4,0
+4.3,4,Tidak,Ya,4,2.5,0.6,jalan-jalan,bahagia,4,0
+6.5,4,Tidak,Tidak,1,3.2,1.2,jalan-jalan,senang,4,0
+8.3,4,Tidak,Ya,2,2.1,4.5,kerja,mual,4,3
+7.2,4,Ya,Ya,3,1.3,6.4,jalan-jalan,sakit perut,4,2
+6.0,5,Tidak,Tidak,1,2.4,7.8,olahraga,mimpi buruk,4,1
+5.2,3,Tidak,Ya,1,2.3,1.6,scroll hp,-,4,1
+7.5,1,Tidak,Ya,5,1.5,5.2,masak,sakit kepala,4,4
+6.5,4,Ya,Tidak,5,2.0,3.9,jalan-jalan,galau,4,1
+7.9,4,Ya,Ya,5,0.8,6.9,kerja,diputusin,4,4
+5.9,1,Tidak,Ya,1,3.4,2.2,masak,diputusin,4,4
+8.6,2,Ya,Ya,3,0.7,3.1,jalan-jalan,diputusin,4,4
+8.8,0,Tidak,Ya,3,3.1,8.8,kencan,dapat uang,4,2
+8.9,1,Ya,Ya,2,2.1,7.5,hobi,-,4,4
+6.7,5,Ya,Tidak,3,3.1,8.5,nugas,nyaman,4,0
+5.0,1,Tidak,Ya,2,3.4,4.5,kerja,diputusin,4,4
+8.9,0,Ya,Ya,4,2.0,6.0,hobi,dapat gaji,4,2
+5.2,1,Ya,Ya,1,2.8,1.8,jalan-jalan,dapat uang,4,2
+8.3,0,Ya,Ya,5,2.6,2.0,masak,sakit kepala,4,4
+7.6,2,Tidak,Ya,3,0.6,4.3,kerja,senang,4,3
+6.3,1,Ya,Ya,2,0.7,1.7,hobi,happy,4,3
+8.5,2,Ya,Tidak,1,3.3,1.7,hobi,gajian,4,0
+4.2,4,Tidak,Tidak,4,2.4,6.4,kerja,banyak tugas,4,3
+6.7,3,Tidak,Tidak,3,2.2,3.8,jalan-jalan,-,4,0
+5.6,1,Ya,Tidak,3,2.9,0.8,kencan,happy,4,0
+5.8,1,Ya,Tidak,3,2.3,2.2,jalan-jalan,mual,4,2
+8.7,3,Ya,Ya,1,1.0,5.7,olahraga,sial,4,2
+4.1,3,Ya,Tidak,2,3.3,0.5,jalan-jalan,jadian,4,0
+4.3,1,Tidak,Ya,1,3.3,6.1,masak,dapat gaji,4,4
+6.9,2,Tidak,Tidak,2,0.9,3.4,masak,kena sial,4,4
+7.5,4,Ya,Ya,3,3.3,7.1,hobi,sakit hati,4,1
+4.6,5,Tidak,Ya,5,2.6,0.5,jalan-jalan,sial,4,0
+8.6,4,Ya,Tidak,4,2.2,2.6,scroll hp,diputusin,4,1
+5.7,2,Tidak,Tidak,1,3.2,2.1,kerja,galau,4,2
+7.5,2,Ya,Tidak,1,0.8,2.9,dating,bahagia,4,1
+8.8,3,Tidak,Ya,5,1.6,5.2,dating,mual,4,2
+5.7,3,Tidak,Tidak,1,0.7,2.0,kerja,bahagia,4,2
+8.1,5,Ya,Ya,1,1.1,6.2,nugas,banyak tugas,4,4
+8.2,2,Ya,Tidak,3,1.9,8.0,jalan-jalan,happy,4,1
+8.4,2,Tidak,Tidak,4,0.6,2.3,olahraga,galau,4,2
+6.0,5,Ya,Ya,5,2.2,0.8,dating,kena sial,4,0
+8.9,1,Ya,Ya,4,1.8,1.7,nugas,jadian,4,3
+4.4,4,Tidak,Ya,3,1.5,4.3,kencan,bahagia,4,0
+8.4,2,Tidak,Ya,5,2.0,4.1,jalan-jalan,galau,4,3
+4.7,4,Tidak,Ya,4,1.7,7.0,kerja,gajian,4,1
+5.7,2,Ya,Ya,1,3.0,3.5,nugas,dapat uang,4,4
+8.3,0,Tidak,Ya,3,1.0,5.4,kencan,mual,4,4
+5.8,3,Ya,Ya,1,2.4,5.3,masak,gajian,4,1
+6.6,5,Ya,Ya,2,3.2,0.6,nugas,sial,4,1
+7.6,5,Tidak,Tidak,4,1.8,6.6,nugas,ketiban sial,4,3
+6.3,5,Ya,Ya,5,2.4,5.4,kencan,dapat gaji,4,0
+6.8,4,Tidak,Ya,1,1.4,6.3,masak,galau,4,4
+8.3,2,Ya,Ya,3,3.4,6.7,kencan,diputusin,4,3
+8.0,4,Ya,Tidak,2,1.5,4.3,nugas,galau,4,4
+8.5,3,Ya,Tidak,5,0.6,4.2,olahraga,dapat gaji,4,1
+6.7,3,Tidak,Ya,5,2.5,9.1,kencan,kena sial,4,2
+5.8,5,Tidak,Tidak,3,1.8,8.8,nugas,dapat uang,4,1
+8.3,3,Ya,Tidak,5,2.4,1.0,olahraga,sakit gigi,4,0
+4.6,5,Ya,Ya,1,1.4,4.1,olahraga,jadian,4,0
+8.9,3,Ya,Tidak,2,3.1,1.9,masak,mendapatkan gaji,4,0
+8.9,2,Ya,Ya,3,0.5,6.5,jalan-jalan,gajian,4,3
+8.5,4,Ya,Tidak,2,2.5,2.3,nugas,sakit kepala,4,2
+7.0,2,Tidak,Tidak,2,2.6,4.6,masak,ketiban sial,4,3
+4.8,3,Ya,Ya,2,1.2,0.7,kencan,kena sial,4,2
+7.5,5,Tidak,Ya,1,1.8,0.6,hobi,nyaman,4,0
+4.8,4,Tidak,Ya,4,1.1,5.2,kerja,-,4,2
+6.3,0,Tidak,Tidak,3,3.1,8.2,hobi,nyaman,4,2
+5.3,5,Ya,Tidak,2,2.9,1.4,hobi,dapat uang,4,0
+4.5,4,Ya,Tidak,4,2.2,5.1,masak,sial,4,2
+6.2,0,Ya,Tidak,5,1.4,3.0,kencan,sakit gigi,4,4
+7.4,4,Tidak,Tidak,2,2.5,1.4,hobi,sakit kepala,4,0
+8.2,4,Ya,Tidak,1,2.3,9.0,dating,kena sial,4,2
+4.4,3,Ya,Ya,3,1.5,3.5,kencan,mendapatkan gaji,4,0
+6.0,1,Tidak,Ya,5,1.8,1.2,dating,dapat uang,4,2
+8.1,4,Ya,Tidak,5,2.4,9.7,masak,happy,4,1
+8.1,1,Tidak,Tidak,5,1.5,8.5,dating,nyaman,4,3
+4.5,5,Tidak,Ya,3,1.5,2.6,kerja,kena sial,4,1
+4.5,4,Ya,Tidak,4,0.9,2.4,olahraga,jadian,4,0
+4.5,3,Ya,Tidak,5,2.4,0.9,dating,dapat gaji,4,0
+6.9,4,Ya,Tidak,5,2.0,1.8,dating,sakit gigi,4,0
+8.4,3,Tidak,Tidak,2,3.2,9.8,masak,sakit hati,4,3
+6.3,1,Tidak,Tidak,5,2.3,1.8,kencan,mendapatkan gaji,4,0
+7.6,2,Tidak,Tidak,4,2.2,5.8,kerja,sakit gigi,4,2
+7.5,2,Tidak,Ya,3,2.1,2.4,kencan,diputusin,4,1
+5.2,5,Tidak,Tidak,4,2.5,3.2,masak,sakit perut,4,0
+4.3,5,Ya,Tidak,4,2.4,2.9,kencan,sial,4,0
+5.9,3,Tidak,Ya,2,1.3,3.2,masak,dapat uang,4,1
+4.2,2,Tidak,Tidak,5,2.8,6.2,kencan,happy,4,1
+4.4,5,Ya,Ya,2,1.2,3.5,hobi,sakit perut,4,2
+6.7,4,Ya,Tidak,1,3.4,8.3,dating,diputusin,4,2
+8.5,4,Tidak,Tidak,1,1.2,9.2,scroll hp,senang,4,3
+5.3,5,Tidak,Tidak,3,3.2,3.2,kerja,sakit hati,4,1
+6.6,0,Ya,Ya,5,3.4,2.1,olahraga,dapat gaji,4,2
+8.3,3,Ya,Ya,4,1.1,8.4,kerja,dapat uang,4,1
+6.3,3,Ya,Ya,1,0.6,4.6,kerja,banyak tugas,4,4
+7.9,2,Tidak,Tidak,4,1.3,6.3,kerja,gajian,4,2
+6.8,4,Tidak,Ya,5,0.6,1.8,nugas,ketiban sial,4,4
+5.3,1,Tidak,Ya,3,2.0,7.4,olahraga,nyaman,4,2
+7.1,1,Tidak,Ya,5,1.9,3.5,masak,jadian,4,4
+4.8,2,Tidak,Tidak,4,1.2,2.8,jalan-jalan,dapat gaji,4,0
+7.7,3,Tidak,Ya,3,1.6,4.9,jalan-jalan,mendapatkan gaji,4,0
+8.2,1,Ya,Ya,1,1.1,9.0,kencan,mendapatkan gaji,4,4
+8.1,4,Tidak,Tidak,1,2.3,4.3,jalan-jalan,happy,4,0
+6.0,4,Ya,Tidak,4,1.4,7.5,masak,sakit gigi,4,3
+6.8,4,Tidak,Ya,4,3.4,6.8,olahraga,gajian,4,0
+4.3,2,Tidak,Tidak,5,2.5,2.7,dating,dapat uang,4,0
+4.9,5,Tidak,Tidak,1,2.3,4.1,olahraga,sakit gigi,4,0
+6.0,2,Ya,Ya,5,1.9,5.1,dating,kena sial,4,4
+4.4,5,Tidak,Ya,2,1.0,3.2,olahraga,bahagia,4,0
+7.6,3,Ya,Tidak,5,1.9,6.9,kerja,diputusin,4,4
+6.9,1,Ya,Ya,5,2.0,1.8,jalan-jalan,galau,4,3
+6.6,3,Tidak,Ya,1,2.2,6.2,olahraga,dapat uang,4,0
+8.3,1,Ya,Tidak,2,1.7,2.6,jalan-jalan,dapat gaji,4,1
+6.6,4,Ya,Ya,5,3.0,7.0,dating,sial,4,2
+8.4,4,Ya,Ya,4,0.9,5.3,hobi,sakit gigi,4,2
+6.0,0,Tidak,Tidak,3,2.5,2.0,masak,sial,4,2
+5.4,5,Tidak,Ya,5,1.1,4.3,masak,sakit perut,4,2
+5.3,2,Ya,Ya,4,2.8,6.0,olahraga,dapat uang,4,1
+4.5,4,Ya,Ya,5,1.5,4.3,hobi,mendapatkan gaji,4,1
+8.0,1,Ya,Tidak,1,2.3,5.0,olahraga,happy,4,1
+4.4,0,Tidak,Ya,4,3.3,7.4,jalan-jalan,mendapatkan gaji,4,2
+5.8,5,Tidak,Tidak,3,1.0,0.5,hobi,senang,4,0
+6.9,4,Tidak,Tidak,1,2.6,0.6,masak,galau,4,1
+6.8,4,Tidak,Tidak,5,3.3,3.3,dating,senang,4,0
+6.8,1,Tidak,Ya,4,3.4,7.7,dating,nyaman,4,2
+8.7,3,Tidak,Ya,5,1.2,3.5,olahraga,gajian,4,0
+4.6,0,Ya,Ya,5,2.5,6.9,dating,happy,4,4
+6.5,4,Tidak,Tidak,5,2.0,8.8,olahraga,mual,4,2
+7.9,3,Tidak,Ya,4,2.6,9.8,kerja,dapat gaji,4,0
+5.7,1,Tidak,Tidak,3,1.1,5.2,nugas,dapat uang,4,3
+5.0,5,Tidak,Tidak,2,2.9,1.9,jalan-jalan,mendapatkan gaji,4,0
+6.6,5,Ya,Tidak,3,2.0,3.5,scroll hp,kena sial,4,1
+4.3,2,Tidak,Tidak,4,2.4,5.0,masak,happy,4,0
+6.8,2,Ya,Ya,3,1.7,3.8,nugas,happy,4,3
+7.4,3,Tidak,Tidak,1,1.8,7.9,dating,mendapatkan gaji,4,1
+8.8,1,Tidak,Ya,4,3.3,6.6,scroll hp,kena sial,4,4
+5.1,2,Tidak,Tidak,5,2.6,6.7,dating,happy,4,1
+7.7,4,Ya,Ya,2,1.7,9.7,olahraga,dapat gaji,4,1
+8.7,5,Ya,Ya,4,1.1,7.6,scroll hp,gajian,4,1
+4.1,3,Tidak,Ya,1,3.5,5.5,scroll hp,mendapatkan gaji,4,1
+7.2,4,Ya,Ya,5,1.5,3.4,dating,sakit hati,4,2
+6.7,1,Ya,Ya,4,2.2,4.4,hobi,senang,4,1
+5.3,3,Tidak,Tidak,5,2.0,6.4,kencan,galau,4,2
+6.1,0,Tidak,Tidak,4,1.4,2.2,dating,ketiban sial,4,2
+7.6,5,Tidak,Ya,1,0.8,0.6,masak,bahagia,4,0
+7.9,3,Tidak,Ya,1,1.9,10.0,jalan-jalan,mimpi buruk,4,3
+7.9,0,Tidak,Ya,3,1.0,5.7,scroll hp,diputusin,4,4
+7.9,3,Tidak,Ya,2,3.5,2.8,kencan,dapat gaji,4,0
+6.4,5,Ya,Ya,2,3.3,9.6,nugas,gajian,4,1
+5.9,0,Tidak,Ya,5,2.0,2.9,kerja,happy,4,2
+6.4,2,Tidak,Ya,3,2.9,9.8,kerja,senang,4,3
+8.5,3,Tidak,Ya,5,2.2,7.2,jalan-jalan,sakit perut,4,2
+5.6,3,Ya,Ya,5,3.0,3.1,kencan,sakit kepala,4,2
+5.5,2,Tidak,Ya,5,1.9,5.6,kerja,sial,4,4
+7.6,5,Tidak,Ya,2,3.0,9.7,nugas,jadian,4,1
+7.2,0,Ya,Ya,1,2.5,1.4,kerja,ketiban sial,4,4
+8.1,5,Ya,Ya,5,2.4,1.1,nugas,banyak tugas,4,1
+8.8,0,Ya,Ya,4,1.2,1.5,kencan,dapat gaji,4,2
+6.9,1,Tidak,Tidak,1,2.2,5.8,hobi,nyaman,4,1
+9.0,2,Tidak,Ya,4,1.7,8.5,kencan,ketiban sial,4,4
+7.8,5,Tidak,Ya,4,3.4,2.9,kerja,sakit hati,4,0
+4.0,1,Ya,Ya,3,1.4,2.5,kerja,dapat uang,4,3
+5.3,4,Ya,Tidak,3,1.3,2.9,olahraga,banyak tugas,4,1
+7.6,3,Ya,Tidak,5,3.0,2.1,kerja,mual,4,1
+7.9,2,Ya,Ya,4,3.0,3.8,kerja,mendapatkan gaji,4,2
+6.6,2,Ya,Ya,5,0.9,5.6,kerja,dapat gaji,4,4
+4.4,4,Tidak,Ya,2,2.6,4.6,dating,senang,4,0
+6.8,5,Tidak,Tidak,3,1.2,5.5,scroll hp,nyaman,4,0
+7.4,3,Ya,Tidak,3,1.1,4.0,jalan-jalan,happy,4,0
+7.1,3,Ya,Tidak,2,1.8,6.4,jalan-jalan,banyak tugas,4,3
+4.6,0,Tidak,Ya,2,2.4,2.8,masak,nyaman,4,2
+6.3,0,Ya,Tidak,2,2.7,3.7,kencan,gajian,4,2
+7.1,1,Ya,Tidak,4,2.5,7.1,jalan-jalan,mimpi buruk,4,3
+8.3,5,Tidak,Ya,3,0.8,3.9,hobi,sakit gigi,4,1
+8.5,3,Ya,Tidak,2,2.1,8.7,kencan,-,4,1
+4.2,4,Ya,Tidak,2,2.0,3.4,masak,happy,4,1
+7.1,1,Ya,Tidak,3,3.4,10.0,hobi,-,4,2
+8.7,2,Ya,Ya,4,1.5,2.6,hobi,sakit gigi,4,2
+6.1,4,Tidak,Tidak,5,3.4,2.0,kencan,sakit kepala,4,0
+4.9,1,Tidak,Tidak,4,2.8,7.4,dating,mendapatkan gaji,4,1
+8.7,2,Ya,Ya,2,1.1,1.9,nugas,sial,4,4
+8.3,3,Ya,Tidak,2,1.0,5.0,kerja,galau,4,3
+6.1,0,Tidak,Ya,3,3.0,6.3,kencan,nyaman,4,2
+4.9,3,Tidak,Ya,3,1.4,4.3,hobi,sakit hati,4,1
+7.4,1,Ya,Ya,1,2.4,4.9,kencan,sakit kepala,4,4
+6.1,3,Tidak,Ya,2,1.9,0.7,nugas,jadian,4,1
+7.6,0,Ya,Tidak,3,2.6,1.4,kencan,sial,4,2
+8.7,3,Tidak,Ya,2,0.6,5.7,jalan-jalan,sakit kepala,4,3
+4.0,2,Ya,Tidak,4,2.0,0.6,olahraga,ketiban sial,4,1
+6.9,3,Ya,Ya,5,1.8,4.8,kencan,galau,4,2
+4.2,1,Ya,Tidak,2,1.5,1.0,masak,banyak tugas,4,4
+4.5,2,Tidak,Ya,1,3.2,3.6,nugas,gajian,4,3
+6.4,5,Tidak,Tidak,3,2.9,6.2,nugas,sakit gigi,4,2
+6.9,4,Tidak,Tidak,5,0.9,3.9,dating,kena sial,4,3
+8.4,1,Ya,Ya,1,3.4,7.2,dating,mendapatkan gaji,4,3
+7.7,1,Ya,Tidak,4,3.5,8.1,masak,sakit perut,4,4
+8.0,1,Tidak,Ya,3,1.1,0.6,nugas,sakit hati,4,4
+7.8,0,Ya,Ya,5,1.5,7.0,olahraga,jadian,4,4
+8.6,3,Tidak,Ya,2,2.9,9.2,dating,sakit perut,4,2
+8.9,5,Tidak,Ya,5,1.0,5.6,scroll hp,sakit hati,4,3
+7.5,2,Tidak,Tidak,2,2.0,4.4,nugas,ketiban sial,4,4
+6.6,1,Ya,Tidak,2,2.9,1.6,kencan,-,4,1
+8.0,4,Tidak,Tidak,4,1.5,2.0,jalan-jalan,nyaman,4,0
