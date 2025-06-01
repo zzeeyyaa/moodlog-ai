@@ -17,7 +17,7 @@ def generate_dummy_data_balanced(per_class, seed=42):
         makan_perhari = random.randint(1, 5)
         bergadang = random.choice(["Ya", "Tidak"])
         kafein = random.choice(["Ya", "Tidak"])
-        aktivitas = random.choice(["kerja", "scroll hp", "jalan-jalan", "olahraga", "nugas", "masak", "hobi", "dating", "kencan"])
+        aktivitas = random.choice(["kerja", "scroll hp", "jalan-jalan", "olahraga", "nugas", "masak", "hobi", "dating", "kencan", "nonton", "meeting", "tiduran"])
         catatan = random.choice(["-", "mimpi buruk", "banyak tugas", "nyaman", "sakit kepala", "kena sial", "ketiban sial", "diputusin", "galau", "sakit hati",
                                  "jadian", "happy", "senang", "bahagia", "dapat uang", "gajian",
                                  "sakit gigi", "sakit perut", "mual", "sial", "mendapatkan gaji", "dapat gaji"])
