@@ -1,19 +1,48 @@
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import GridSearchCV
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import StandardScaler
+from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics import mean_absolute_error
+from sklearn.pipeline import Pipeline
 import numpy as np
 
-def fine_tune_model(X_train, y_train, X_test, y_test):
+def fine_tune_model(X_train, y_train):
+    # Daftar kolom numerik/kategori dan kolom teks
+    num_cols = ['Jam Tidur', 'Kualitas Tidur', 'Bergadang', 'Screen Time', 'Aktivitas', 'Kafein', 'Frekuensi Makan', 'Konsumsi Air']
+    text_col = 'Catatan'
+    
+    # Pipeline preprocessing: gabung numerik dengna text data
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ('num', StandardScaler(), num_cols),
+            ('txt', TfidfVectorizer(), text_col)
+        ]
+    )
+    # Pipeline model
+    pipeline = Pipeline([
+        ('preprocess', preprocessor),
+        ('regressor', RandomForestRegressor(random_state=42))
+    ])
+    
+    # gridsearch param pipeline
+    # param_grid = {
+    #     'n_estimators': [200, 500, 800],
+    #     'max_depth': [None, 10, 20],
+    #     'min_samples_split': [2, 5, 10],
+    #     'min_samples_leaf': [1, 2, 4],
+    #     'max_features': ['sqrt', 'log2']
+    # }
+
     param_grid = {
-        'n_estimators': [200, 500, 800],
-        'max_depth': [None, 10, 20],
-        'min_samples_split': [2, 5, 10],
-        'min_samples_leaf': [1, 2, 4],
-        'max_features': ['sqrt', 'log2']
+    'regressor__n_estimators': [200, 500, 800],
+    'regressor__max_depth': [None, 10, 20],
+    'regressor__min_samples_split': [2, 5, 10],
+    'regressor__min_samples_leaf': [1, 2, 4],
+    'regressor__max_features': ['sqrt', 'log2']
     }
 
-    rf = RandomForestRegressor(random_state=42)
-    grid_search = GridSearchCV(estimator=rf, param_grid=param_grid,
+    grid_search = GridSearchCV(estimator=pipeline, param_grid=param_grid,
                                cv=3, scoring='neg_mean_absolute_error',
                                verbose=1, n_jobs=-1)
 
@@ -21,9 +50,4 @@ def fine_tune_model(X_train, y_train, X_test, y_test):
     best_model = grid_search.best_estimator_
 
     print("Best Parameters:", grid_search.best_params_)
-
-    y_pred = best_model.predict(X_test)
-    mae = mean_absolute_error(y_test, y_pred)
-    print(f"MAE dari model terbaik: {mae:.2f}")
-
     return best_model

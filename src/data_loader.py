@@ -4,7 +4,7 @@ from sklearn.preprocessing import LabelEncoder
 def load_and_preprocess(filepath="data/moodlog_dummy.csv"):
     df = pd.read_csv(filepath)
     
-    X = df[["Jam Tidur", "Kualitas Tidur", "Bergadang", "Screen Time","Aktivitas", "Kafein", "Frekuensi Makan", "Konsumsi Air"]].copy()
+    X = df[["Jam Tidur", "Kualitas Tidur", "Bergadang", "Screen Time","Aktivitas", "Kafein", "Frekuensi Makan", "Konsumsi Air", "Catatan"]].copy()
     y = df["Mood"]
     
     le_bergadang = LabelEncoder()

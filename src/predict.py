@@ -1,6 +1,7 @@
 import joblib
 import pandas as pd
 import streamlit as st
+import plotly.graph_objects as go
 import os
 from datetime import datetime
 
@@ -30,8 +31,41 @@ aktivitas_list = [
 # aktivitas_idx = int(input("Masukkan nomor aktivitas (1-10): "))
 # aktivitas = aktivitas_list[aktivitas_idx - 1]
 
-# cobain streamlit
+# cobain streamlit - dashboard & summary
 st.title("📊 Mood Predictor Harian")
+
+log_path = "logs/mood_log.csv"
+os.makedirs("logs", exist_ok=True)
+
+
+if os.path.exists(log_path):
+    df_log = pd.read_csv(log_path)
+    df_last7 = df_log.tail(7)
+    st.subheader("Statistik Minggu Ini")
+    st.metric("Rata-rata Mood (0-4)", f"{df_last7['Mood (Prediksi)'].mean():.2f}")
+
+    # st.write("Mood 7 Hari Terakhir:")
+
+    # fig = go.Figure()
+    # fig.add_trace(go.Scatter(
+    #     x=df_last7['Tanggal'],
+    #     y=df_last7['Mood (Prediksi)'],
+    #     mode='lines+markers',
+    #     name='Mood'
+    # ))
+    # fig.update_layout(
+    #     xaxis_title='Tanggal',
+    #     yaxis_title='Mood (Prediksi)',
+    #     yaxis=dict(range=[-0.2, 4.2]),
+    #     xaxis_tickangle=0  # Biar horizontal
+    # )
+    # st.plotly_chart(fig, use_container_width=True)
+
+    st.write("Log Terakhir:")
+    st.dataframe(df_log.tail(5), hide_index=True, use_container_width=True)
+else:
+    st.info("Belum ada data log. Silakan input data harian pertama!")
+
 
 with st.form("form_mood"):
     jam_tidur = st.slider("🛌 Jam Tidur", 4.0, 9.0, 6.5, 0.5)
@@ -40,8 +74,9 @@ with st.form("form_mood"):
     kafein = st.radio("☕ Minum kafein hari ini?", ["Ya", "Tidak"])
     screen_time = st.slider("📱 Screen Time (jam)", 0.0, 12.0, 4.0, 0.5)
     frekuensi_makan = st.slider("🍽️ Frekuensi Makan", 1, 5, 3)
-    konsumsi_air = st.slider("💧 Konsumsi Air (liter)", 0.5, 3.5, 1.5, 0.1)
-    aktivitas = st.selectbox("🏃🏻‍♂️ Aktivitas Utama", aktivitas_list)
+    konsumsi_air = st.slider("💧 Konsums  i Air (liter)", 0.5, 3.5, 1.5, 0.1)
+    aktivitas = st.selectbox("🏃🏻‍♂️ A      ktivitas Utama", aktivitas_list)
+    catatan = st.text_area("📝 Catatan harian (opsional, boleh diisi perasaan/kejadian hari ini)", "")
     
     submitted = st.form_submit_button("Prediksi Mood")
 
@@ -57,12 +92,13 @@ if submitted:
         "Frekuensi Makan": frekuensi_makan,
         "Konsumsi Air": konsumsi_air,
         "Aktivitas": le_aktivitas.transform([aktivitas])[0],
+        "Catatan": catatan
     }])
 
     # Susun urutan kolom agar sesuai model
     df_input = df_input[[
         "Jam Tidur", "Kualitas Tidur", "Bergadang", "Screen Time",
-        "Aktivitas", "Kafein", "Frekuensi Makan", "Konsumsi Air"
+        "Aktivitas", "Kafein", "Frekuensi Makan", "Konsumsi Air", "Catatan"
     ]]
 
     # Prediksi dan tampilkan hasil
@@ -84,10 +120,11 @@ if submitted:
         "Kualitas Tidur": kualitas_tidur,
         "Bergadang": bergadang,
         "Screen Time": screen_time,
-        "Aktivitas": aktivitas,
         "Kafein": kafein,
         "Frekuensi Makan": frekuensi_makan,
         "Konsumsi Air": konsumsi_air,
+        "Aktivitas": aktivitas,
+        "Catatan":catatan,
         "Mood (Prediksi)": pred,
         "Deskripsi": mood_desc[pred]
     }

@@ -11,23 +11,28 @@ def train_and_save_model():
     # tryna load data and encode
     X, y,le_bergadang, le_aktivitas, le_kafein = load_and_preprocess()
     
-    # split data to data train and data test
-    X_train, X_test, y_train, y_test =  train_test_split(X, y, test_size=0.2, random_state=42)
+    # split data to data train and data temp
+    X_train, X_temp, y_train, y_temp =  train_test_split(X, y, test_size=0.4, random_state=42)
     
-    # build and train model
-    model = fine_tune_model(X_train, y_train, X_test, y_test)
-    # model.fit(X_train, y_train)
+    # split data to data test and data cv
+    X_test, X_cv, y_test, y_cv = train_test_split(X_temp, y_temp, test_size=0.5, random_state=42)
     
-    # evaluate
-    y_pred = model.predict(X_test)
-    # acc = accuracy_score(y_test, y_pred)
-    # report = classification_report(y_test, y_pred)
-    # print(f"Report klasifikasi: {report}")
-    # print(f"Akurasi model: {acc:.2f}")
-    mse = mean_squared_error(y_test, y_pred)
-    mae = mean_absolute_error(y_test, y_pred)
-    print(f"Mean Squared Error: {mse:.2f}")
-    print(f"Mean Absolute Error: {mae:.2f}")
+    # build and train model using data train
+    model = fine_tune_model(X_train, y_train)
+    
+    # Evaluation using cross validation
+    y_pred_cv = model.predict(X_cv)
+    mse_cv = mean_squared_error(y_cv, y_pred_cv)
+    mae_cv = mean_absolute_error(y_cv, y_pred_cv)
+    print(f"Cross Validation MSE: {mse_cv: .2f}")
+    print(f"Cross Validation MAE: {mae_cv: .2f}")
+    
+    # Final evaluation using data test
+    y_pred_test = model.predict(X_test)
+    mse_test = mean_squared_error(y_test, y_pred_test)
+    mae_test = mean_absolute_error(y_test, y_pred_test)
+    print(f"Test MSE: {mse_test: .2f}")
+    print(f"Test MAE: {mae_test: .2f}")
     
     # save model and encoders
     os.makedirs("model", exist_ok=True)
