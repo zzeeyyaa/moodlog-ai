@@ -51,3 +51,15 @@ def fine_tune_model(X_train, y_train):
 
     print("Best Parameters:", grid_search.best_params_)
     return best_model
+# 
+    # Fitting 3 folds for each of 162 candidates, totalling 486 fits
+    # Best Parameters: {'regressor__max_depth': None, 'regressor__max_features': 'sqrt', 'regressor__min_samples_leaf': 1, 'regressor__min_samples_split': 2, 'regressor__n_estimators': 800}
+    # Cross Validation MSE:  0.81
+    # Cross Validation MAE:  0.75
+    # Test MSE:  0.71
+    # Test MAE:  0.72
+    # Cross Validation MAE:  0.75
+    # Test MSE:  0.71
+    # Test MAE:  0.72
+    # Model dan encoder disimpan di folder `model/`
+# 
