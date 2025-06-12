@@ -1,5 +1,5 @@
 from src.data_loader import load_and_preprocess
-from src.model import fine_tune_model
+from src.model_xgboost import fine_tune_model
 from sklearn.model_selection import train_test_split
 # from sklearn.metrics import accuracy_score, classification_report
 from sklearn.metrics import mean_squared_error, mean_absolute_error
